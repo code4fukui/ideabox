@@ -1,0 +1,92 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
+
+<h1>福井県アイデアボックスダッシュボード</h1>
+
+<div id=container>
+<div>
+  <a href=https://fukui.ideabox.cloud/users>
+  <svg id="gauge1"></svg>
+  <div>参加者数</div>
+  </a>
+</div>
+<div>
+  <a href=https://fukui.ideabox.cloud/ideas>
+  <svg id="gauge2"></svg>
+  <div>アイデア数</div>
+  </a>
+</div>
+<div>
+  <a href=https://fukui.ideabox.cloud/comments>
+  <svg id="gauge3"></svg>
+  <div>コメント数</div>
+  </a>
+</div>
+</div>
+
+<a href=https://fukui.ideabox.cloud/><img src=fukuidx.png><br>
+「ＤＸ ＦＵＫＵＩアイデアボックス | アイデアボックス」
+</a>
+
+<hr>
+App: CC BY <a href=https://code4fukui.github.io/ideabox/>Code for FUKUI src on GitHub</a><br>
+
+<style>
+body {
+  text-align: center;
+}
+img {
+  width: 70vw;
+}
+#container div {
+  display: inline-block;
+  text-align: center;
+}
+#container div div {
+  font-size: 3vw;
+  margin: 1vw;
+}
+svg {
+  display: block;
+  width: 30vw;
+  height: 30vw;
+}
+a {
+  color: #222 !important;
+}
+</style>
+
+<script type="module">
+import liquidFillGauge from "https://code4fukui.github.io/liquidFillGauge/liquidFillGauge.js";
+
+const cr = (tag, parent) => {
+  const c = document.createElement(tag);
+  parent.appendChild(c);
+  return c;
+};
+
+onload = async () => {
+  const url = "https://fukui-api.ideabox.cloud/v1/statistics";
+  const data = await (await fetch(url)).json();
+  console.log(data);
+  const value = [data.data.user_count, data.data.idea_count, data.data.comment_count];
+  let cnt = 1;
+  for (let i = 1; i <= 3; i++) {
+    const conf = liquidFillGauge.default();
+    const h = i * 30;
+    conf.circleColor = `hsl(${h} 50% 50%)`;
+    conf.textColor = conf.circleColor;
+    conf.waveTextColor = `hsl(${h} 50% 90%)`;
+    conf.waveColor = `hsl(${h} 50% 50%)`;
+    conf.displayPercent = false;
+    conf.maxValue = 100;
+    conf.waveCount = 2;
+    conf.circleThickness = 0.1;
+    conf.waveAnimateTime = 2400;
+
+    liquidFillGauge.load("gauge" + cnt++, value[i - 1], conf);
+  }
+  setTimeout(() => location.reload(), 10 * 60 * 1000); // 10分でリロード
+};
+</script>
+</body>
+</html>
