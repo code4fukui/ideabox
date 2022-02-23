@@ -73,6 +73,7 @@ const isPC = () => navigator.userAgent.match(/Mac OS|Windows/) != null;
 
 onload = async () => {
   const data = await (await fetch("data/ideas.json")).json();
+  data.reverse();
   const show = () => {
     const kword = key.value;
     container.innerHTML = "";
