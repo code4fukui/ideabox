@@ -2,8 +2,8 @@ name: Scheduled
 
 on:
   schedule:
-    # 毎日16:15分に実行 (JST=UTC+9)
-    - cron: '15 7 * * *'
+    # 毎日8:15分に実行 (JST=UTC+9)
+    - cron: '15 23 * * *'
 
 jobs:
   build:
