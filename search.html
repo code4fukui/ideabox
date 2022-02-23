@@ -1,0 +1,97 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
+
+<h1>アイデアボックスサーチ</h1>
+<div class="desc"><a href=https://chibacity.ideabox.cloud/>千葉市</a>と<a href=https://fukui.ideabox.cloud/>福井県</a>のアイデアボックスのアイデアとコメントから高速サーチします</div>
+
+<input id="key" placeholder="キーワード入力（スペース区切りで絞込）">
+
+<div id=container>
+</div>
+
+
+<hr>
+App: CC BY <a href=https://github.com/code4fukui/ideabox>Code for FUKUI src on GitHub</a><br>
+API: <a href=https://automation.jp/>株式会社自動処理</a><br>
+
+<style>
+body {
+  text-align: center;
+  margin: 0;
+}
+h1 {
+  padding: .5em;
+  margin: 0;
+  background-color: #cef;
+}
+.desc {
+  font-size: 80%;
+  margin: .3em;
+}
+#key {
+  padding: .3em;
+  font-size: 20px;
+  margin: 1em;
+  width: 20em;
+}
+#container a {
+  display: block;
+  text-align: center;
+  color: #33d !important;
+}
+a {
+  color: #222 !important;
+}
+</style>
+
+<script type="module">
+const match = (d, kword) => {
+  kword = kword.replace(/　/g, " ");
+  const keys = kword.split(" ");
+  if (keys.length == 1 && keys[0] == "") {
+    return true;
+  }
+  for (const key of keys) {
+    if (!match1(d, key)) {
+      return false;
+    }
+  }
+  return true;
+};
+const match1 = (d, kword) => {
+  if (d.title.indexOf(kword) >= 0 || d.body.indexOf(kword) >= 0) {
+    return true;
+  }
+  for (const c of d.comments) {
+    if (c.body.indexOf(kword) >= 0) {
+      return true;
+    }
+  }
+  return false;
+};
+
+const isPC = () => navigator.userAgent.match(/Mac OS|Windows/) != null;
+
+onload = async () => {
+  const data = await (await fetch("data/ideas.json")).json();
+  const show = () => {
+    const kword = key.value;
+    container.innerHTML = "";
+    for (const d of data) {
+      if (match(d, kword)) {
+        const link = document.createElement("a");
+        link.href = d.url;
+        link.target = "_blank";
+        link.textContent = d.title + (d.url.startsWith("https://fukui") ? "(福井県)" : "(千葉市)");
+        container.appendChild(link);
+      }
+    }
+  };
+  key.onchange = show;
+  if (isPC()) {
+    key.onkeyup = show;
+  }
+  show();
+};
+</script>
+</body>
+</html>
