@@ -6,11 +6,76 @@
     "parameter": []
   },
   "resultset": {
-    "count": 67,
+    "count": 68,
     "offset": null,
-    "limit": 300
+    "limit": 1000
   },
   "results": [
+    {
+      "id": "38a05403-3965-4384-8063-3ac379c00224",
+      "name": "測って改善、ごみ減量!",
+      "date_entered": "2022-02-23T01:47:01+00:00",
+      "date_modified": "2022-02-23T01:47:01+00:00",
+      "webtopic_number": "00149",
+      "contents": "各町内会や収集ルート単位で、ごみ量を計測するシクミを備え、見える化と減量を喜べるシクミを作りましょう。\nごみが減らせれば税金が安くなることを共有できれば、みんなが前向きに取り組めそうです。\n\nごみ袋への記名化でごみが減ったとする結果はありますが、プライバシーへの懸念から他に捨てるだけかもしれません。手間（＝コスト）だけが増加し、不法投棄が増える結果になっては元も子もありません。\n\nEBPMでいきましょう！\n参考、内閣府におけるEBPMへの取組\nhttps://www.cao.go.jp/others/kichou/ebpm/ebpm.html",
+      "action_contents": null,
+      "category_deprecated": "undefined",
+      "comment_count": 0,
+      "positive_count": 1,
+      "neutral_count": 0,
+      "negative_count": 0,
+      "vote_count": 1,
+      "positive_perc": 100,
+      "neutral_perc": 0,
+      "negative_perc": 0,
+      "point": 1,
+      "rank": 0,
+      "contact_id": "444b3ef6-0ded-4d1a-8b2c-b90f7612021c",
+      "topic_type": "idea",
+      "first_vote_user_name": "福野 泰介",
+      "second_vote_user_name": null,
+      "first_vote_user_id": "444b3ef6-0ded-4d1a-8b2c-b90f7612021c",
+      "second_vote_user_id": null,
+      "stepper": "",
+      "result": null,
+      "raw_contents": "各町内会や収集ルート単位で、ごみ量を計測するシクミを備え、見える化と減量を喜べるシクミを作りましょう。\nごみが減らせれば税金が安くなることを共有できれば、みんなが前向きに取り組めそうです。\n\nごみ袋への記名化でごみが減ったとする結果はありますが、プライバシーへの懸念から他に捨てるだけかもしれません。手間（＝コスト）だけが増加し、不法投棄が増える結果になっては元も子もありません。\n\nEBPMでいきましょう！\n参考、内閣府におけるEBPMへの取組\nhttps://www.cao.go.jp/others/kichou/ebpm/ebpm.html",
+      "category": {
+        "id": "2020795e-6214-11ec-a10f-0ab75afdbaab",
+        "name": "③行政のＤＸ",
+        "date_entered": "2021-12-08T11:43:42+00:00",
+        "date_modified": "2021-12-08T11:43:42+00:00",
+        "description": "<p>行政サービスの利便性向上に繋がるアイデアやご意見を募集します。<br />\r\n主な分野：自治体デジタル化<br /></p>\r\n（参考URL）\r\n福井県のＤＸ推進については <a href=\"https://www.pref.fukui.lg.jp/doc/seiki/dx/top.html\" target=\"_blanl\">こちら</a>\r\n福井県ＤＸ推進プログラムは <a href=\"https://www.pref.fukui.lg.jp/doc/seiki/dx/top_d/fil/program4.pdf\" target=\"_blanl\">こちら</a>",
+        "search_key": "government",
+        "contents": "<img src=\"https://static.ideabox.cloud/fukui/government_dx.jpg\" width=\"100%\">",
+        "date": "2021-01-17T00:00:00.000000Z",
+        "status": "on air",
+        "serial_number": 3,
+        "invisible": 0,
+        "open_until": null,
+        "idea_count": 27
+      },
+      "user": {
+        "id": "444b3ef6-0ded-4d1a-8b2c-b90f7612021c",
+        "date_entered": "2022-01-17T01:52:54+00:00",
+        "date_modified": "2022-01-20T05:13:50+00:00",
+        "organization": "",
+        "department": "",
+        "position": "",
+        "primary_address_state": null,
+        "user_icon_src": "",
+        "portal_name": "福野 泰介",
+        "sex": "U",
+        "age_category": "undefined",
+        "business_category": "U",
+        "job_evaluation": "U",
+        "website": null,
+        "profile": null,
+        "mail_cancelled": 0,
+        "role": ""
+      },
+      "my_favorite": null,
+      "top_comment": null
+    },
     {
       "id": "e9b881a5-1e34-4e3c-b3c2-57cc9244ef9d",
       "name": "インフラオープンデータで住むなら福井県アピール",
@@ -52,7 +117,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "444b3ef6-0ded-4d1a-8b2c-b90f7612021c",
@@ -425,7 +490,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "c1b66a53-2e8c-4b76-91c1-cf7edcdc2ce5",
@@ -733,7 +798,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "89610809-9996-4174-b1ac-3f5cdd82f0db",
@@ -1041,7 +1106,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "c65ce2db-257d-462c-b5bc-e30a600372f8",
@@ -1657,7 +1722,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "91d7ce5c-a224-4208-86c5-721699ebc158",
@@ -2119,7 +2184,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "89610809-9996-4174-b1ac-3f5cdd82f0db",
@@ -2273,7 +2338,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "89610809-9996-4174-b1ac-3f5cdd82f0db",
@@ -3043,7 +3108,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "04335835-0a23-4f42-a30d-82b81010af69",
@@ -3197,7 +3262,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "04335835-0a23-4f42-a30d-82b81010af69",
@@ -3505,7 +3570,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "710690e3-2482-4dc7-a765-c72dd3c44e71",
@@ -3659,7 +3724,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "e7607d96-22da-42f8-854c-e3caeab362f2",
@@ -4737,7 +4802,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "c1b66a53-2e8c-4b76-91c1-cf7edcdc2ce5",
@@ -5815,7 +5880,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "dec385dc-76a7-46f3-b9f8-e810fec6c757",
@@ -6277,7 +6342,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "a603f122-36b7-4236-863a-05b4b490a3ec",
@@ -6431,7 +6496,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "35d67b35-6a9b-4474-a4f5-edf0ae98fd46",
@@ -6893,7 +6958,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "75d86cc6-ed99-4dc2-af9d-7d5bfad6adde",
@@ -7201,7 +7266,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "04335835-0a23-4f42-a30d-82b81010af69",
@@ -7355,7 +7420,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "bef5a97c-74a6-44c1-97b1-59d1ebd6f3b5",
@@ -7509,7 +7574,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "d561ceb0-c285-458c-b185-2b5618f74ee3",
@@ -7971,7 +8036,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "444b3ef6-0ded-4d1a-8b2c-b90f7612021c",
@@ -8125,7 +8190,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "b300541a-1463-46da-a2fa-431fd1b954b9",
@@ -8433,7 +8498,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "e50c4c49-c782-4916-9e98-4bc734c73a73",
@@ -8858,27 +8923,27 @@
       "id": "8aa5e7d8-3405-44ee-add4-b8c176b0a7a9",
       "name": "廃棄される農水産物の活用",
       "date_entered": "2022-01-20T10:24:42+00:00",
-      "date_modified": "2022-02-06T22:57:45+00:00",
+      "date_modified": "2022-02-23T01:36:36+00:00",
       "webtopic_number": "00014",
       "contents": "農水産物の廃棄を減らすために、JAでは取り扱ってもらえないけど、見た目が悪いけど、食べるのに問題ない野菜・魚などを、\n安く提供できる身近な環境をもっと増やし、農業と消費者の両方が幸せになってほしいなと。",
       "action_contents": null,
       "category_deprecated": "undefined",
-      "comment_count": 1,
-      "positive_count": 4,
+      "comment_count": 2,
+      "positive_count": 5,
       "neutral_count": 0,
       "negative_count": 0,
-      "vote_count": 4,
+      "vote_count": 5,
       "positive_perc": 100,
       "neutral_perc": 0,
       "negative_perc": 0,
-      "point": 4,
+      "point": 5,
       "rank": 0,
       "contact_id": "0fede28c-38bb-4df5-8ff8-bb75be5acc91",
       "topic_type": "idea",
-      "first_vote_user_name": "ひろし",
-      "second_vote_user_name": "タイガーマスク",
-      "first_vote_user_id": "710690e3-2482-4dc7-a765-c72dd3c44e71",
-      "second_vote_user_id": "68cb75c0-96ef-439b-ae0c-2a5aff8fbcc6",
+      "first_vote_user_name": "福野 泰介",
+      "second_vote_user_name": "ひろし",
+      "first_vote_user_id": "444b3ef6-0ded-4d1a-8b2c-b90f7612021c",
+      "second_vote_user_id": "710690e3-2482-4dc7-a765-c72dd3c44e71",
       "stepper": "",
       "result": null,
       "raw_contents": "農水産物の廃棄を減らすために、JAでは取り扱ってもらえないけど、見た目が悪いけど、食べるのに問題ない野菜・魚などを、\n安く提供できる身近な環境をもっと増やし、農業と消費者の両方が幸せになってほしいなと。",
@@ -8933,27 +8998,27 @@
           "id": "8aa5e7d8-3405-44ee-add4-b8c176b0a7a9",
           "name": "廃棄される農水産物の活用",
           "date_entered": "2022-01-20T10:24:42+00:00",
-          "date_modified": "2022-02-06T22:57:45+00:00",
+          "date_modified": "2022-02-23T01:36:36+00:00",
           "webtopic_number": "00014",
           "contents": "農水産物の廃棄を減らすために、JAでは取り扱ってもらえないけど、見た目が悪いけど、食べるのに問題ない野菜・魚などを、\n安く提供できる身近な環境をもっと増やし、農業と消費者の両方が幸せになってほしいなと。",
           "action_contents": null,
           "category_deprecated": "undefined",
-          "comment_count": 1,
-          "positive_count": 4,
+          "comment_count": 2,
+          "positive_count": 5,
           "neutral_count": 0,
           "negative_count": 0,
-          "vote_count": 4,
+          "vote_count": 5,
           "positive_perc": 100,
           "neutral_perc": 0,
           "negative_perc": 0,
-          "point": 4,
+          "point": 5,
           "rank": 0,
           "contact_id": "0fede28c-38bb-4df5-8ff8-bb75be5acc91",
           "topic_type": "idea",
-          "first_vote_user_name": "ひろし",
-          "second_vote_user_name": "タイガーマスク",
-          "first_vote_user_id": "710690e3-2482-4dc7-a765-c72dd3c44e71",
-          "second_vote_user_id": "68cb75c0-96ef-439b-ae0c-2a5aff8fbcc6",
+          "first_vote_user_name": "福野 泰介",
+          "second_vote_user_name": "ひろし",
+          "first_vote_user_id": "444b3ef6-0ded-4d1a-8b2c-b90f7612021c",
+          "second_vote_user_id": "710690e3-2482-4dc7-a765-c72dd3c44e71",
           "stepper": "",
           "result": null,
           "raw_contents": "農水産物の廃棄を減らすために、JAでは取り扱ってもらえないけど、見た目が悪いけど、食べるのに問題ない野菜・魚などを、\n安く提供できる身近な環境をもっと増やし、農業と消費者の両方が幸せになってほしいなと。"
@@ -8981,27 +9046,27 @@
           "id": "8aa5e7d8-3405-44ee-add4-b8c176b0a7a9",
           "name": "廃棄される農水産物の活用",
           "date_entered": "2022-01-20T10:24:42+00:00",
-          "date_modified": "2022-02-06T22:57:45+00:00",
+          "date_modified": "2022-02-23T01:36:36+00:00",
           "webtopic_number": "00014",
           "contents": "農水産物の廃棄を減らすために、JAでは取り扱ってもらえないけど、見た目が悪いけど、食べるのに問題ない野菜・魚などを、\n安く提供できる身近な環境をもっと増やし、農業と消費者の両方が幸せになってほしいなと。",
           "action_contents": null,
           "category_deprecated": "undefined",
-          "comment_count": 1,
-          "positive_count": 4,
+          "comment_count": 2,
+          "positive_count": 5,
           "neutral_count": 0,
           "negative_count": 0,
-          "vote_count": 4,
+          "vote_count": 5,
           "positive_perc": 100,
           "neutral_perc": 0,
           "negative_perc": 0,
-          "point": 4,
+          "point": 5,
           "rank": 0,
           "contact_id": "0fede28c-38bb-4df5-8ff8-bb75be5acc91",
           "topic_type": "idea",
-          "first_vote_user_name": "ひろし",
-          "second_vote_user_name": "タイガーマスク",
-          "first_vote_user_id": "710690e3-2482-4dc7-a765-c72dd3c44e71",
-          "second_vote_user_id": "68cb75c0-96ef-439b-ae0c-2a5aff8fbcc6",
+          "first_vote_user_name": "福野 泰介",
+          "second_vote_user_name": "ひろし",
+          "first_vote_user_id": "444b3ef6-0ded-4d1a-8b2c-b90f7612021c",
+          "second_vote_user_id": "710690e3-2482-4dc7-a765-c72dd3c44e71",
           "stepper": "",
           "result": null,
           "raw_contents": "農水産物の廃棄を減らすために、JAでは取り扱ってもらえないけど、見た目が悪いけど、食べるのに問題ない野菜・魚などを、\n安く提供できる身近な環境をもっと増やし、農業と消費者の両方が幸せになってほしいなと。"
@@ -9049,7 +9114,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "0fee455d-d8d9-4b5c-9be8-2fc5a3f71b8f",
@@ -9819,7 +9884,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "b419d357-ebce-4b6a-a0ce-7df149a1b38b",
@@ -9973,7 +10038,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "0fee455d-d8d9-4b5c-9be8-2fc5a3f71b8f",
@@ -10127,7 +10192,7 @@
         "serial_number": 3,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 26
+        "idea_count": 27
       },
       "user": {
         "id": "0fee455d-d8d9-4b5c-9be8-2fc5a3f71b8f",
