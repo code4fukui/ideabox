@@ -30,12 +30,12 @@
       "user": {
         "id": "5a2a5acf-a577-4b4f-85dd-0f7c79743a7f",
         "date_entered": "2022-02-14T10:14:16+00:00",
-        "date_modified": "2022-02-20T14:00:36+00:00",
-        "organization": null,
-        "department": null,
-        "position": null,
+        "date_modified": "2022-02-25T02:31:09+00:00",
+        "organization": "",
+        "department": "",
+        "position": "",
         "primary_address_state": null,
-        "user_icon_src": null,
+        "user_icon_src": "",
         "portal_name": "株式会社自動処理アイデアボックス事務局",
         "sex": "U",
         "age_category": "undefined",
@@ -44,7 +44,7 @@
         "website": null,
         "profile": null,
         "mail_cancelled": 0,
-        "role": null
+        "role": ""
       }
     },
     {
@@ -244,12 +244,12 @@
       "user": {
         "id": "5a2a5acf-a577-4b4f-85dd-0f7c79743a7f",
         "date_entered": "2022-02-14T10:14:16+00:00",
-        "date_modified": "2022-02-20T14:00:36+00:00",
-        "organization": null,
-        "department": null,
-        "position": null,
+        "date_modified": "2022-02-25T02:31:09+00:00",
+        "organization": "",
+        "department": "",
+        "position": "",
         "primary_address_state": null,
-        "user_icon_src": null,
+        "user_icon_src": "",
         "portal_name": "株式会社自動処理アイデアボックス事務局",
         "sex": "U",
         "age_category": "undefined",
@@ -258,7 +258,7 @@
         "website": null,
         "profile": null,
         "mail_cancelled": 0,
-        "role": null
+        "role": ""
       }
     },
     {
