@@ -6,11 +6,141 @@
     "parameter": []
   },
   "resultset": {
-    "count": 155,
+    "count": 157,
     "offset": null,
     "limit": 1000
   },
   "results": [
+    {
+      "id": "ae3b3146-9b5a-4e7d-acc5-c606b345861d",
+      "name": "わかりやすくして欲しいですね",
+      "date_entered": "2022-03-12T15:54:47+00:00",
+      "date_modified": "2022-03-12T15:54:47+00:00",
+      "webtopic_number": "00171",
+      "contents": "うちの高齢の母はiPhoneを持ってますが、写真も撮れませんし電話もできません。何度教えても操作できないのです。\nひとつにはアイコンで機能を把握することが難しいようです。私たちには分かりやすいのかも知れませんが、それでもたまに「なんだこれ? なんの意味なんだ??」と疑問に感じる下手なデザインのアイコンを見ることもあります。またスマホの狭い画面に多くの機能を詰め込むにはいいのかも知れませんが、ちょうどこのアイデアボックスのように、横並びのカード式アイデア表示では個々の内容が把握しにくいと感じるように（一瞥するにはいいのかも知れませんが）、「あちらを立てればこちらが立たず」式の矛盾があります。\n高齢者にはアイコンではなく「文字」で、できれば単純明快な言葉で表示すべきではないかと最近思っています（高齢者用のスマホにはそのような機種もあるようですが）。受話器のマークではなく、「でんわ」と書けば分かりやすいでしょう。\nまた画面のタップなどが分かりにくいようです。昔のプッシュホン電話でも、キーボードでも、「触れば凹む」という感覚的なタッチ感がありました。それがないのも「使いにくい」理由の一つではないでしょうか。特に最近は非接触でも反応するタッチパネルまであって、よけいに「空を切る」「雲をつかむ」みたいなことになっています。こういう「実体感覚」を伝えられる技術が必要かな、と思います。どこかの企業が作ってくれませんかね?\nまずは操作そのものではありませんが、「操作をしにくくさせているもの」について書いてみました。\n\nキャッシュレスについては、仕方ないことかも知れませんが、種類が多すぎです。一昔前の「カード多すぎ」と似たようなもので、その複雑さが利用の広がりを阻んでいるとも思います。私自身、ある程度淘汰されるまで使わないつもりです。あるドラッグストアではキャッシュレス決済が使えません。「そのサービス分の価格を商品価格に転嫁して、お安くなっております」とアナウンスしています。実際、明らかに安いのです。これくらい潔い商店には好感が持てます。客に対して平等です。「特定の誰かだけが得をする」のは不公平だと思います。\nキャッシュレスを推進したいなら、手続きも決済方式も統一して、カード会社のサービスだけで競わせるのが良いでしょう。ただこれは一自治体ではできないことではありますけどね。",
+      "action_contents": null,
+      "category_deprecated": "undefined",
+      "comment_count": 0,
+      "positive_count": 1,
+      "neutral_count": 0,
+      "negative_count": 0,
+      "vote_count": 1,
+      "positive_perc": 100,
+      "neutral_perc": 0,
+      "negative_perc": 0,
+      "point": 1,
+      "rank": 0,
+      "contact_id": "26ab9890-bfa4-47bc-b465-4401c63b7458",
+      "topic_type": "idea",
+      "first_vote_user_name": "ゴセシケ",
+      "second_vote_user_name": null,
+      "first_vote_user_id": "26ab9890-bfa4-47bc-b465-4401c63b7458",
+      "second_vote_user_id": null,
+      "stepper": "",
+      "result": null,
+      "raw_contents": "うちの高齢の母はiPhoneを持ってますが、写真も撮れませんし電話もできません。何度教えても操作できないのです。\nひとつにはアイコンで機能を把握することが難しいようです。私たちには分かりやすいのかも知れませんが、それでもたまに「なんだこれ? なんの意味なんだ??」と疑問に感じる下手なデザインのアイコンを見ることもあります。またスマホの狭い画面に多くの機能を詰め込むにはいいのかも知れませんが、ちょうどこのアイデアボックスのように、横並びのカード式アイデア表示では個々の内容が把握しにくいと感じるように（一瞥するにはいいのかも知れませんが）、「あちらを立てればこちらが立たず」式の矛盾があります。\n高齢者にはアイコンではなく「文字」で、できれば単純明快な言葉で表示すべきではないかと最近思っています（高齢者用のスマホにはそのような機種もあるようですが）。受話器のマークではなく、「でんわ」と書けば分かりやすいでしょう。\nまた画面のタップなどが分かりにくいようです。昔のプッシュホン電話でも、キーボードでも、「触れば凹む」という感覚的なタッチ感がありました。それがないのも「使いにくい」理由の一つではないでしょうか。特に最近は非接触でも反応するタッチパネルまであって、よけいに「空を切る」「雲をつかむ」みたいなことになっています。こういう「実体感覚」を伝えられる技術が必要かな、と思います。どこかの企業が作ってくれませんかね?\nまずは操作そのものではありませんが、「操作をしにくくさせているもの」について書いてみました。\n\nキャッシュレスについては、仕方ないことかも知れませんが、種類が多すぎです。一昔前の「カード多すぎ」と似たようなもので、その複雑さが利用の広がりを阻んでいるとも思います。私自身、ある程度淘汰されるまで使わないつもりです。あるドラッグストアではキャッシュレス決済が使えません。「そのサービス分の価格を商品価格に転嫁して、お安くなっております」とアナウンスしています。実際、明らかに安いのです。これくらい潔い商店には好感が持てます。客に対して平等です。「特定の誰かだけが得をする」のは不公平だと思います。\nキャッシュレスを推進したいなら、手続きも決済方式も統一して、カード会社のサービスだけで競わせるのが良いでしょう。ただこれは一自治体ではできないことではありますけどね。",
+      "category": {
+        "id": "69154603-66f9-11ec-ba34-06fe59aaecdd",
+        "name": "困った！スマートフォン操作",
+        "date_entered": "2021-12-27T18:42:00+00:00",
+        "date_modified": "2021-12-27T18:42:00+00:00",
+        "description": "千葉市では、デジタル格差の解消に向けた取組みを推進しています。\r\n皆さんの生活や仕事等において、スマートフォンで「電話」・「メール」・「SNS（※１）」・「カメラ」・「地図」・「キャッシュレス決済（※２）」などを利用する際に、操作方法について困ったこと、戸惑ったこと、わからなかったこと等を募集します。実体験をはじめ、相談を受けたことのある方、そのような場面を見かけたことのある方は、エピソードをご投稿ください。興味はあるけど、操作方法に不安があり躊躇している方からの投稿もお待ちしています。皆さんで議論を深めましょう！\r\n※１　LINE・Twitter・Facebook・Instagramなど\r\n※２　ここでは、LINE Pay・PayPay・suica・iDなどでスマートフォンで支払いを行う決済を対象とします。<br/>\r\n\r\n【募集期間】2022年1月6日（木）～2022年3月31日（木）",
+        "search_key": "smartphone",
+        "contents": null,
+        "date": "2020-11-27T00:00:00.000000Z",
+        "status": "on air",
+        "serial_number": 2,
+        "invisible": 0,
+        "open_until": null,
+        "idea_count": 92
+      },
+      "user": {
+        "id": "26ab9890-bfa4-47bc-b465-4401c63b7458",
+        "date_entered": "2022-02-15T10:54:34+00:00",
+        "date_modified": "2022-02-18T15:53:44+00:00",
+        "organization": "",
+        "department": "",
+        "position": "",
+        "primary_address_state": null,
+        "user_icon_src": "",
+        "portal_name": "ゴセシケ",
+        "sex": "U",
+        "age_category": "undefined",
+        "business_category": "U",
+        "job_evaluation": "U",
+        "website": null,
+        "profile": null,
+        "mail_cancelled": 0,
+        "role": ""
+      },
+      "my_favorite": null,
+      "top_comment": null
+    },
+    {
+      "id": "38082e4c-d1a8-4eb4-94ee-c633e7d57a36",
+      "name": "表面的な「手順」だけではダメかも",
+      "date_entered": "2022-03-12T15:22:49+00:00",
+      "date_modified": "2022-03-12T15:22:49+00:00",
+      "webtopic_number": "00170",
+      "contents": "「学び直し」ということですが、資料を拝見してもよくわかりませんでした。これがわかるように私も「学び直す」必要があるのかも知れません。\nデジタル技術が活用できる分屋は非常に多岐に渡ります。例えば私は画像処理などを行うのですが、これを未経験者に教えるのは難しいです。小手先の手順は覚えることができます。が、ただ「手順を覚えた」だけで、少し環境や条件が変わると役に立たなくなります。高齢者にとってのスマホの操作も似たようなものではないかと思っています。\n目下の仕事に必要な、単純作業的な「操作を覚えてできる」程度のことは、教われば誰でもできるようになります。しかし本当に必要なデジタル時代のスキルというものは、「なぜその操作をするのか」という「意味」を理解できていることではないでしょうか。例えばインターネットもSNSも皆さんお使いになっていますが、その操作によって自分の情報がどこにどのように把握されているかなど、意識しないしご存知ないのではないかと思います。ネットは匿名だ、と誤解しているのと同じで。\n\n具体的にはわかりませんが、私はもっと「デジタルの本質的な理解」が必要だと感じています。まずは情報処理の基礎くらいは習得しなければ仕事でもプライベートでも、デジタル社会の「いい餌食」にされそうな危惧を抱いています。講座を開催するにしても、この点を重視したものであって欲しいです。「操作」だけでなく、その背後にある「操作の意味」や「全体の仕組み」を理解できるような機会を組み入れていただきたいものです。\n\nとりあえず思うところを書いてみました。",
+      "action_contents": null,
+      "category_deprecated": "undefined",
+      "comment_count": 0,
+      "positive_count": 1,
+      "neutral_count": 0,
+      "negative_count": 0,
+      "vote_count": 1,
+      "positive_perc": 100,
+      "neutral_perc": 0,
+      "negative_perc": 0,
+      "point": 1,
+      "rank": 0,
+      "contact_id": "26ab9890-bfa4-47bc-b465-4401c63b7458",
+      "topic_type": "idea",
+      "first_vote_user_name": "ゴセシケ",
+      "second_vote_user_name": null,
+      "first_vote_user_id": "26ab9890-bfa4-47bc-b465-4401c63b7458",
+      "second_vote_user_id": null,
+      "stepper": "",
+      "result": null,
+      "raw_contents": "「学び直し」ということですが、資料を拝見してもよくわかりませんでした。これがわかるように私も「学び直す」必要があるのかも知れません。\nデジタル技術が活用できる分屋は非常に多岐に渡ります。例えば私は画像処理などを行うのですが、これを未経験者に教えるのは難しいです。小手先の手順は覚えることができます。が、ただ「手順を覚えた」だけで、少し環境や条件が変わると役に立たなくなります。高齢者にとってのスマホの操作も似たようなものではないかと思っています。\n目下の仕事に必要な、単純作業的な「操作を覚えてできる」程度のことは、教われば誰でもできるようになります。しかし本当に必要なデジタル時代のスキルというものは、「なぜその操作をするのか」という「意味」を理解できていることではないでしょうか。例えばインターネットもSNSも皆さんお使いになっていますが、その操作によって自分の情報がどこにどのように把握されているかなど、意識しないしご存知ないのではないかと思います。ネットは匿名だ、と誤解しているのと同じで。\n\n具体的にはわかりませんが、私はもっと「デジタルの本質的な理解」が必要だと感じています。まずは情報処理の基礎くらいは習得しなければ仕事でもプライベートでも、デジタル社会の「いい餌食」にされそうな危惧を抱いています。講座を開催するにしても、この点を重視したものであって欲しいです。「操作」だけでなく、その背後にある「操作の意味」や「全体の仕組み」を理解できるような機会を組み入れていただきたいものです。\n\nとりあえず思うところを書いてみました。",
+      "category": {
+        "id": "f63f089d-939e-11ec-8e86-0e93161d062d",
+        "name": "あったらいいね、仕事に必要なデジタル学び直し講座",
+        "date_entered": "2022-02-22T14:19:30+00:00",
+        "date_modified": "2022-02-22T14:19:30+00:00",
+        "description": "社会のデジタル化の進展に伴い、仕事で必要となるスキルも変化してきており、学び直しの必要性に直面した方も少なくないと思います。\r\nそこで、仕事に役立つデジタルの学び直しの講座には、どのようなものがあればよいと思いますか。\r\n手法や内容など理想の学び直しの講座についてのアイデアや考えをご投稿ください。\r\n\r\n<a href=\"https://static.ideabox.cloud/chibacity/smartcity_vision_draft.pdf\" target=\"_blank\">千葉市スマートシティ推進ビジョン（案）＜取組みの方向性＞</a>\r\n【ビジネスがスマート！】個性や能力に合った、自分らしい労働、自己研鑽\r\n【学びがスマート！】多様な学びの手法、個別に最適化された学習\r\n\r\n【募集期間】2022年2月22日（火）～2022年3月31日（木）",
+        "search_key": "relearning",
+        "contents": null,
+        "date": "2022-02-22T00:00:00.000000Z",
+        "status": "on air",
+        "serial_number": 1,
+        "invisible": 0,
+        "open_until": null,
+        "idea_count": 3
+      },
+      "user": {
+        "id": "26ab9890-bfa4-47bc-b465-4401c63b7458",
+        "date_entered": "2022-02-15T10:54:34+00:00",
+        "date_modified": "2022-02-18T15:53:44+00:00",
+        "organization": "",
+        "department": "",
+        "position": "",
+        "primary_address_state": null,
+        "user_icon_src": "",
+        "portal_name": "ゴセシケ",
+        "sex": "U",
+        "age_category": "undefined",
+        "business_category": "U",
+        "job_evaluation": "U",
+        "website": null,
+        "profile": null,
+        "mail_cancelled": 0,
+        "role": ""
+      },
+      "my_favorite": null,
+      "top_comment": null
+    },
     {
       "id": "2b473177-f2af-401a-87e9-e2985dfcf050",
       "name": "デジタルを学ぶことの魅力",
@@ -52,7 +182,7 @@
         "serial_number": 1,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 2
+        "idea_count": 3
       },
       "user": {
         "id": "a7b50df6-8db3-43b9-b6f6-2c65659bb09b",
@@ -117,7 +247,7 @@
         "serial_number": 1,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 2
+        "idea_count": 3
       },
       "user": {
         "id": "b5cc169e-9485-4429-a7d8-0d08abdfdff2",
@@ -555,7 +685,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
@@ -713,12 +843,12 @@
       "id": "2cca4fd5-71ef-46d0-bc0b-27dc91f3f53f",
       "name": "アンケート調査のよう",
       "date_entered": "2022-02-07T10:52:47+00:00",
-      "date_modified": "2022-02-09T09:15:34+00:00",
+      "date_modified": "2022-03-12T11:55:21+00:00",
       "webtopic_number": "00158",
       "contents": "行政側の意見がない中でこのシステムでアンケート調査的意見を集めるのでは、効率が悪い様に思います。アンケート調査であれば、其なりの方法を!!",
       "action_contents": null,
       "category_deprecated": "undefined",
-      "comment_count": 2,
+      "comment_count": 4,
       "positive_count": 1,
       "neutral_count": 0,
       "negative_count": 0,
@@ -730,7 +860,7 @@
       "rank": 0,
       "contact_id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
       "topic_type": "idea",
-      "first_vote_user_name": "チーバ",
+      "first_vote_user_name": "匿名希望",
       "second_vote_user_name": null,
       "first_vote_user_id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
       "second_vote_user_id": null,
@@ -773,27 +903,27 @@
       },
       "my_favorite": null,
       "top_comment": {
-        "id": "dbfa9593-db9c-4a2a-ae48-45b04cedcb56",
+        "id": "20812435-2fbf-4ac0-8fa0-5e5d9f7d6928",
         "name": null,
-        "date_entered": "2022-02-09T09:15:33+00:00",
-        "date_modified": "2022-02-09T09:15:33+00:00",
-        "contents": "ちばしアイデアボックス事務局です。\n\nアイデアボックスへのご意見ありがとうございます。\nアイデアボックスは、利用者の皆様のアイデア等を自由に投稿いただくとともに、投稿されているアイデア等に自由にコメントしていただき、利用者の皆様同士で議論を深め、まちづくりについて考えていただくことを目的と考えております。\n利用者の皆様と行政との意見交換の場とならないよう運営しておりますので、投稿されたアイデアについて行政側の意見を述べることは、基本的に行っておりませんが、投稿いただいた内容は関係部署に共有しており、事業検討時の参考情報として活用しております。\n\n引き続き、ちばしアイデアボックスをよろしくお願いします。",
-        "serial_number": 2,
+        "date_entered": "2022-03-12T11:55:21+00:00",
+        "date_modified": "2022-03-12T11:55:21+00:00",
+        "contents": "（続き）\n行政人としてではなく、一個人の立場でも構いませんので、お願いしたい気持ちはあります。\n\n他にも同様のアイデアボックスはありましたが、最初は投稿も盛り上がるのですが次第に低調になり最後は放置されるような印象です。こちらはまだ募集期間も残っているのに誰も投稿しなくなりました。これではせっかく行政が設置した「民意を伝えられる機会」も無くなってしまいます。\n\n「期待しすぎ」で「期待はずれ」になってしまったのかなという感じです。それは期待され内容にすれ違いや勘違いがあったのだろう思います。できればもう一度、皆さん、仕切り直しで投稿されてみてはいかがでしょうか。皆さんの議論が深まれば、いずれ行政にも反映されるだろうと思います。このままでは千葉市民は、自己主張ばかりしてバラバラの人たちの集まりかなと思われてしまいかねません。部外者として見ると、そんな感じです。\n\nぜひもう一度、ご参加のほどよろしくお願いします。",
+        "serial_number": 4,
         "parent_id": "2cca4fd5-71ef-46d0-bc0b-27dc91f3f53f",
         "rate_count": null,
         "vote_count": null,
         "vote_rate_avarage": "0.00",
-        "raw_contents": "ちばしアイデアボックス事務局です。\n\nアイデアボックスへのご意見ありがとうございます。\nアイデアボックスは、利用者の皆様のアイデア等を自由に投稿いただくとともに、投稿されているアイデア等に自由にコメントしていただき、利用者の皆様同士で議論を深め、まちづくりについて考えていただくことを目的と考えております。\n利用者の皆様と行政との意見交換の場とならないよう運営しておりますので、投稿されたアイデアについて行政側の意見を述べることは、基本的に行っておりませんが、投稿いただいた内容は関係部署に共有しており、事業検討時の参考情報として活用しております。\n\n引き続き、ちばしアイデアボックスをよろしくお願いします。",
+        "raw_contents": "（続き）\n行政人としてではなく、一個人の立場でも構いませんので、お願いしたい気持ちはあります。\n\n他にも同様のアイデアボックスはありましたが、最初は投稿も盛り上がるのですが次第に低調になり最後は放置されるような印象です。こちらはまだ募集期間も残っているのに誰も投稿しなくなりました。これではせっかく行政が設置した「民意を伝えられる機会」も無くなってしまいます。\n\n「期待しすぎ」で「期待はずれ」になってしまったのかなという感じです。それは期待され内容にすれ違いや勘違いがあったのだろう思います。できればもう一度、皆さん、仕切り直しで投稿されてみてはいかがでしょうか。皆さんの議論が深まれば、いずれ行政にも反映されるだろうと思います。このままでは千葉市民は、自己主張ばかりしてバラバラの人たちの集まりかなと思われてしまいかねません。部外者として見ると、そんな感じです。\n\nぜひもう一度、ご参加のほどよろしくお願いします。",
         "parent": {
           "id": "2cca4fd5-71ef-46d0-bc0b-27dc91f3f53f",
           "name": "アンケート調査のよう",
           "date_entered": "2022-02-07T10:52:47+00:00",
-          "date_modified": "2022-02-09T09:15:34+00:00",
+          "date_modified": "2022-03-12T11:55:21+00:00",
           "webtopic_number": "00158",
           "contents": "行政側の意見がない中でこのシステムでアンケート調査的意見を集めるのでは、効率が悪い様に思います。アンケート調査であれば、其なりの方法を!!",
           "action_contents": null,
           "category_deprecated": "undefined",
-          "comment_count": 2,
+          "comment_count": 4,
           "positive_count": 1,
           "neutral_count": 0,
           "negative_count": 0,
@@ -805,7 +935,7 @@
           "rank": 0,
           "contact_id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
           "topic_type": "idea",
-          "first_vote_user_name": "チーバ",
+          "first_vote_user_name": "匿名希望",
           "second_vote_user_name": null,
           "first_vote_user_id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
           "second_vote_user_id": null,
@@ -814,15 +944,15 @@
           "raw_contents": "行政側の意見がない中でこのシステムでアンケート調査的意見を集めるのでは、効率が悪い様に思います。アンケート調査であれば、其なりの方法を!!"
         },
         "user": {
-          "id": "1e038183-2c86-4a0d-b0c9-e801e3fd8292",
-          "date_entered": "2022-02-09T09:14:01+00:00",
-          "date_modified": "2022-02-09T09:14:01+00:00",
+          "id": "26ab9890-bfa4-47bc-b465-4401c63b7458",
+          "date_entered": "2022-02-15T10:54:34+00:00",
+          "date_modified": "2022-02-18T15:53:44+00:00",
           "organization": "",
           "department": "",
           "position": "",
           "primary_address_state": null,
           "user_icon_src": "",
-          "portal_name": "ちばしアイデアボックス運営事務局",
+          "portal_name": "ゴセシケ",
           "sex": "U",
           "age_category": "undefined",
           "business_category": "U",
@@ -836,12 +966,12 @@
           "id": "2cca4fd5-71ef-46d0-bc0b-27dc91f3f53f",
           "name": "アンケート調査のよう",
           "date_entered": "2022-02-07T10:52:47+00:00",
-          "date_modified": "2022-02-09T09:15:34+00:00",
+          "date_modified": "2022-03-12T11:55:21+00:00",
           "webtopic_number": "00158",
           "contents": "行政側の意見がない中でこのシステムでアンケート調査的意見を集めるのでは、効率が悪い様に思います。アンケート調査であれば、其なりの方法を!!",
           "action_contents": null,
           "category_deprecated": "undefined",
-          "comment_count": 2,
+          "comment_count": 4,
           "positive_count": 1,
           "neutral_count": 0,
           "negative_count": 0,
@@ -853,7 +983,7 @@
           "rank": 0,
           "contact_id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
           "topic_type": "idea",
-          "first_vote_user_name": "チーバ",
+          "first_vote_user_name": "匿名希望",
           "second_vote_user_name": null,
           "first_vote_user_id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
           "second_vote_user_id": null,
@@ -904,7 +1034,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
@@ -969,7 +1099,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
@@ -1188,7 +1318,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
@@ -1578,7 +1708,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "0e85ade8-56fa-42f2-8ba6-5facea820e4f",
@@ -1606,12 +1736,12 @@
       "id": "0dad350f-5826-4b16-b5f4-362e38cd5340",
       "name": "ICタグを活用した生活",
       "date_entered": "2022-02-02T01:18:20+00:00",
-      "date_modified": "2022-02-08T06:47:45+00:00",
+      "date_modified": "2022-03-12T19:55:32+00:00",
       "webtopic_number": "00147",
       "contents": "ICタグを活用した生活を想像してみましょう。\n例えば、濃厚接触者追跡については、\n人が行動（活動）する先で、ICタグを読み込み、足跡を残していきます。\n新型コロナに感染が確認された場合、感染確認の日から３日前の行動を追跡する必要があります。\n３日前の行動を正確に覚えていますか？\nICタグで、行動記録をつけていけば、忘れていた行動（お店に立ち寄る等）も記録できます。\n\nICタグは千葉市のマスコットキャラクターの「ちはなちゃん」のキーフォルダーに\nICタグを内蔵したもの製作し市民に無料で配布する。\n市民は、外出するときは、ちはなちゃんを必ず持ち歩き、\n・お店に入る時に店の入り口付近に設置したリーダーにちはなちゃんをタッチする\n・お店を出る時もリーダーにちはなちゃんをタッチする\n・お店以外にも、各種イベントや、活動に参加するとき、会場の入り口し設置したリーダーにちはなちゃんをタッチする\nリーダにタッチして記録されたICタグの情報を中央に集約することで、濃厚接触者確認の追跡情報として利用できる。\n\n以前、幕張メッセのイベントに参加したとき\n千葉市の施策でイベント参加者にメールアドレスの登録案内がありました。\nこの追跡確認の発展型です。\n\nちはなちゃんのICタグは、お店のスタンプカードの機能として利用することも可能です。\n千葉市の情報システム開発会社と連携して、ICT活用事例として発展することを期待します。\n千葉市の畑に情報の種（ICタグ）を蒔いて、ICTの花を咲かせましょう。\n\nICタグを活用した事例を作ることで、更に情報化の社会に根付くと思います。",
       "action_contents": null,
       "category_deprecated": "undefined",
-      "comment_count": 12,
+      "comment_count": 14,
       "positive_count": 1,
       "neutral_count": 0,
       "negative_count": 0,
@@ -1681,12 +1811,12 @@
           "id": "0dad350f-5826-4b16-b5f4-362e38cd5340",
           "name": "ICタグを活用した生活",
           "date_entered": "2022-02-02T01:18:20+00:00",
-          "date_modified": "2022-02-08T06:47:45+00:00",
+          "date_modified": "2022-03-12T19:55:32+00:00",
           "webtopic_number": "00147",
           "contents": "ICタグを活用した生活を想像してみましょう。\n例えば、濃厚接触者追跡については、\n人が行動（活動）する先で、ICタグを読み込み、足跡を残していきます。\n新型コロナに感染が確認された場合、感染確認の日から３日前の行動を追跡する必要があります。\n３日前の行動を正確に覚えていますか？\nICタグで、行動記録をつけていけば、忘れていた行動（お店に立ち寄る等）も記録できます。\n\nICタグは千葉市のマスコットキャラクターの「ちはなちゃん」のキーフォルダーに\nICタグを内蔵したもの製作し市民に無料で配布する。\n市民は、外出するときは、ちはなちゃんを必ず持ち歩き、\n・お店に入る時に店の入り口付近に設置したリーダーにちはなちゃんをタッチする\n・お店を出る時もリーダーにちはなちゃんをタッチする\n・お店以外にも、各種イベントや、活動に参加するとき、会場の入り口し設置したリーダーにちはなちゃんをタッチする\nリーダにタッチして記録されたICタグの情報を中央に集約することで、濃厚接触者確認の追跡情報として利用できる。\n\n以前、幕張メッセのイベントに参加したとき\n千葉市の施策でイベント参加者にメールアドレスの登録案内がありました。\nこの追跡確認の発展型です。\n\nちはなちゃんのICタグは、お店のスタンプカードの機能として利用することも可能です。\n千葉市の情報システム開発会社と連携して、ICT活用事例として発展することを期待します。\n千葉市の畑に情報の種（ICタグ）を蒔いて、ICTの花を咲かせましょう。\n\nICタグを活用した事例を作ることで、更に情報化の社会に根付くと思います。",
           "action_contents": null,
           "category_deprecated": "undefined",
-          "comment_count": 12,
+          "comment_count": 14,
           "positive_count": 1,
           "neutral_count": 0,
           "negative_count": 0,
@@ -1729,12 +1859,12 @@
           "id": "0dad350f-5826-4b16-b5f4-362e38cd5340",
           "name": "ICタグを活用した生活",
           "date_entered": "2022-02-02T01:18:20+00:00",
-          "date_modified": "2022-02-08T06:47:45+00:00",
+          "date_modified": "2022-03-12T19:55:32+00:00",
           "webtopic_number": "00147",
           "contents": "ICタグを活用した生活を想像してみましょう。\n例えば、濃厚接触者追跡については、\n人が行動（活動）する先で、ICタグを読み込み、足跡を残していきます。\n新型コロナに感染が確認された場合、感染確認の日から３日前の行動を追跡する必要があります。\n３日前の行動を正確に覚えていますか？\nICタグで、行動記録をつけていけば、忘れていた行動（お店に立ち寄る等）も記録できます。\n\nICタグは千葉市のマスコットキャラクターの「ちはなちゃん」のキーフォルダーに\nICタグを内蔵したもの製作し市民に無料で配布する。\n市民は、外出するときは、ちはなちゃんを必ず持ち歩き、\n・お店に入る時に店の入り口付近に設置したリーダーにちはなちゃんをタッチする\n・お店を出る時もリーダーにちはなちゃんをタッチする\n・お店以外にも、各種イベントや、活動に参加するとき、会場の入り口し設置したリーダーにちはなちゃんをタッチする\nリーダにタッチして記録されたICタグの情報を中央に集約することで、濃厚接触者確認の追跡情報として利用できる。\n\n以前、幕張メッセのイベントに参加したとき\n千葉市の施策でイベント参加者にメールアドレスの登録案内がありました。\nこの追跡確認の発展型です。\n\nちはなちゃんのICタグは、お店のスタンプカードの機能として利用することも可能です。\n千葉市の情報システム開発会社と連携して、ICT活用事例として発展することを期待します。\n千葉市の畑に情報の種（ICタグ）を蒔いて、ICTの花を咲かせましょう。\n\nICタグを活用した事例を作ることで、更に情報化の社会に根付くと思います。",
           "action_contents": null,
           "category_deprecated": "undefined",
-          "comment_count": 12,
+          "comment_count": 14,
           "positive_count": 1,
           "neutral_count": 0,
           "negative_count": 0,
@@ -2471,7 +2601,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
@@ -2625,7 +2755,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "b300541a-1463-46da-a2fa-431fd1b954b9",
@@ -2909,7 +3039,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
@@ -2974,7 +3104,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
@@ -3039,7 +3169,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
@@ -3104,7 +3234,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "abb683f2-3b73-413a-8bdf-7de98be3c6bc",
@@ -3388,7 +3518,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "69bae6e9-f558-4071-bf88-55de3b891884",
@@ -3607,7 +3737,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "9b97b5dc-8245-40d6-aa6c-fa544b33392d",
@@ -3672,7 +3802,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
@@ -3826,7 +3956,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "1a35400d-f25c-41f7-aadb-d79a37683ce5",
@@ -3891,7 +4021,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "8a51d689-3306-46ca-bb32-069ce7109e6c",
@@ -4045,7 +4175,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "8a51d689-3306-46ca-bb32-069ce7109e6c",
@@ -4110,7 +4240,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "b300541a-1463-46da-a2fa-431fd1b954b9",
@@ -4175,7 +4305,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "b300541a-1463-46da-a2fa-431fd1b954b9",
@@ -4702,7 +4832,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "adf057a0-ebdd-456a-923a-d7dba8fbcf44",
@@ -4767,7 +4897,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "4282b987-f763-4bc5-bb5e-804e28e1cb46",
@@ -4897,7 +5027,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "3a795af2-0311-4d51-8222-70435cc0bbb8",
@@ -4962,7 +5092,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "64bb22c0-765f-4e34-9f79-b49923daacf9",
@@ -5027,7 +5157,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "488d47e5-c653-4485-94f0-6d53c5c6ccb7",
@@ -5092,7 +5222,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
@@ -5222,7 +5352,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "50aeb1b1-3e7c-43fe-a059-bb778de4134f",
@@ -5287,7 +5417,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "aa262c9d-5e53-4fb7-881d-cd9634aabf5b",
@@ -5352,7 +5482,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "375b53e4-be85-4cba-91d4-2934acde5b99",
@@ -5417,7 +5547,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "1bd1d4fb-5b4f-4612-a846-928dbae6b661",
@@ -5547,7 +5677,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
@@ -5612,7 +5742,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "b868e4c7-3017-40c9-a3c8-7f4b1beaf2d3",
@@ -5766,7 +5896,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
@@ -5896,7 +6026,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "4eb72feb-0c01-4881-bf92-86d0e9db598d",
@@ -5961,7 +6091,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "0a370c39-d30d-4f1a-9e81-7b5bff4df1f8",
@@ -6026,7 +6156,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "ea071c37-1516-4c47-9639-e14ff0fb6c59",
@@ -6091,7 +6221,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "7c749390-099f-4030-ab4e-1567b6464653",
@@ -6156,7 +6286,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "3f54d3d5-7d63-4c18-8cd9-754a1164b263",
@@ -6286,7 +6416,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "3669cdd0-c23e-4a20-8266-d0311e03ff4f",
@@ -6351,7 +6481,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "2befa64e-2eb6-4560-8377-5180bb231edd",
@@ -6416,7 +6546,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "97baba2b-e4dd-436e-ad31-910c685fe5e5",
@@ -6481,7 +6611,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "237db5c5-a15e-4d42-9767-40f196d29ceb",
@@ -6546,7 +6676,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
@@ -6611,7 +6741,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "3b3616b0-f80e-452b-9498-7d43e93771da",
@@ -6676,7 +6806,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "4a7d5b14-1c88-4a27-8ffc-7c19b9c9e591",
@@ -6806,7 +6936,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "5c200b49-367e-45b0-a3f7-3217e6d9bf6c",
@@ -6871,7 +7001,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "f333f169-a1ff-4b33-94b2-898a59f6cd6e",
@@ -7090,7 +7220,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "603af0b3-3d3b-4bd7-b3a7-edc064fee32d",
@@ -7285,7 +7415,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "fc6c9dee-a52f-43d7-8760-9850809e14cc",
@@ -7415,7 +7545,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "9d29a573-ae10-4ce9-8cc7-d1eeb1b926c7",
@@ -7480,7 +7610,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "cc9dbcc5-cda8-4701-ab94-8a19672e7089",
@@ -7634,7 +7764,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "ec4ebfa9-63b9-4ba2-a90f-f8ab2643cde7",
@@ -7699,7 +7829,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "3d295554-9cff-4c4c-95e9-5d70b96dba88",
@@ -7764,7 +7894,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "9e05477a-96b5-4584-a1d1-dbacd5310eb8",
@@ -7894,7 +8024,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "38fe6755-72a8-4ae6-aa61-c9e258d60de0",
@@ -8048,7 +8178,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "53f20965-726d-428c-aa7e-e4592478f4c4",
@@ -8113,7 +8243,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "bdd0d4fb-c035-48af-a070-1a00d8dc4c62",
@@ -8178,7 +8308,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "b300541a-1463-46da-a2fa-431fd1b954b9",
@@ -8243,7 +8373,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "b300541a-1463-46da-a2fa-431fd1b954b9",
@@ -8308,7 +8438,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "85c56e58-ddfb-4102-8657-3c4ea9037df6",
@@ -8373,7 +8503,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "e9d34d5f-7cf5-4d02-a624-5c454a20f6e3",
@@ -8568,7 +8698,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "350b6aca-9edc-41c3-af5b-a19723d6f009",
@@ -8633,7 +8763,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "b9e80441-ee8c-413f-a7a5-f016318056a1",
@@ -8763,7 +8893,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
@@ -8917,7 +9047,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "d51b8b99-6dda-4d05-8c87-85bc71130135",
@@ -9071,7 +9201,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
@@ -9379,7 +9509,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "b300541a-1463-46da-a2fa-431fd1b954b9",
@@ -9728,7 +9858,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "89392936-8fae-4f39-a1c7-3dbfd8291b44",
@@ -9793,7 +9923,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "e590f92b-d76c-498e-9a32-eed57fb53337",
@@ -9858,7 +9988,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "6ea1cc9a-f534-4681-8bb0-9274cc997220",
@@ -9923,7 +10053,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "b300541a-1463-46da-a2fa-431fd1b954b9",
@@ -9988,7 +10118,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "70a441c3-e76b-4091-ba3c-a8f2a5981e03",
@@ -10142,7 +10272,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "d95275e1-d6fe-44f9-af8e-da66ffa25aa4",
@@ -10207,7 +10337,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "b300541a-1463-46da-a2fa-431fd1b954b9",
@@ -10272,7 +10402,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "b300541a-1463-46da-a2fa-431fd1b954b9",
@@ -10337,7 +10467,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "9d113fec-d12b-44eb-9e17-f1de83b8ccae",
@@ -10491,7 +10621,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "54e24bc2-f7e6-4a7c-8721-230722909e1f",
@@ -10556,7 +10686,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "7b4b51f1-44ec-455e-bc18-86a24a6b651d",
@@ -10710,7 +10840,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "e9875230-121d-4b23-b744-cfda1923e893",
@@ -10840,7 +10970,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
@@ -10994,7 +11124,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "e15f624c-a5ba-47a0-9d66-d6668bb65ad4",
@@ -11254,7 +11384,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "b300541a-1463-46da-a2fa-431fd1b954b9",
@@ -11319,7 +11449,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "d2660a75-85f6-41dd-a0cf-2ddc900d82c1",
@@ -11781,7 +11911,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "3e89d753-fadc-4ab5-8100-daaecf696003",
@@ -12243,7 +12373,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "159d82e1-247a-4acc-8f1a-df20c65fccd2",
@@ -12705,7 +12835,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "5a86521e-d0fe-4062-8887-eb7304573f72",
@@ -12859,7 +12989,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "671277e7-f5e6-4260-9740-0855249f58e3",
@@ -13208,7 +13338,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "6c1de5cb-aba6-448d-ae31-35ab29974be7",
@@ -13273,7 +13403,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "dfdb33a9-5be4-4651-9043-9d8a8b6c7a8e",
@@ -13403,7 +13533,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "151f4a29-d3b3-4a7d-99fc-2f20e3e6cf0f",
@@ -13468,7 +13598,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "afbbe8aa-0730-44d8-9bea-04feeb380b5b",
@@ -13533,7 +13663,7 @@
         "serial_number": 2,
         "invisible": 0,
         "open_until": null,
-        "idea_count": 91
+        "idea_count": 92
       },
       "user": {
         "id": "0ff153c8-7f0d-4e99-8d0f-374a4b9fc2f1",
