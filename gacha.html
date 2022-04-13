@@ -1,0 +1,55 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
+<title>アイデアボックスガチャ</title>
+</head><body>
+<h1>アイデアボックスガチャ</h1>
+
+<a href=https://fukui.ideabox.cloud/><img id="img" src=fukuidx.png><br>
+ 「ＤＸ ＦＵＫＵＩアイデアボックス | アイデアボックス」
+</a>  
+
+<div class="desc"><a href=https://chibacity.ideabox.cloud/>千葉市</a>と<a href=https://fukui.ideabox.cloud/>福井県</a>のアイデアボックスのアイデア全<span id="cnt">?</span>件からランダムに1つ開きます</div>
+
+<button id=btn>ガチャ</button>
+
+<hr>
+App: CC BY <a href=https://github.com/code4fukui/ideabox>Code for FUKUI src on GitHub</a><br>
+API: <a href=https://automation.jp/>株式会社自動処理</a><br>
+
+<style>
+body {
+  text-align: center;
+  margin: 0;
+}
+h1 {
+  padding: .5em 0;
+  margin: 0;
+  background-color: #cef;
+}
+#img {
+  height: 20em;
+}
+#btn {
+  padding: 40px;
+  font-size: 40px;
+  margin: 1em;
+  width: 16em;
+}
+a {
+  color: #222 !important;
+}
+</style>
+
+<script type="module">
+import { rnd } from "https://js.sabae.cc/rnd.js";
+
+onload = async () => {
+  const data = await (await fetch("data/ideas.json")).json();
+  cnt.textContent = data.length;
+  btn.onclick = () => {
+    const idea = data[rnd(data.length)];
+    window.open(idea.url, "_blank");
+  };
+};
+</script>
+</body>
+</html>
