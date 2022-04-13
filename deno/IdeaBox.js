@@ -56,7 +56,7 @@ class IdeaBox {
         delete c.idea_id;
         return c;
       });
-      idea.url = "https://" + this.name + ".ideabox.cloud/detail/" + idea.id;
+      idea.url = "https://" + this.name + ".ideabox.cloud/idea/" + idea.id;
     }
     // test
     /*
