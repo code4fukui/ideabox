@@ -1,39 +1,34 @@
 <!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
 
-<h1>デジタル庁アイデアボックスダッシュボード</h1>
+<h1>福井県アイデアボックスダッシュボード</h1>
 
 <div id=container>
 <div>
-  <a href=https://digital-agency.ideabox.cloud/users>
+  <a href=https://fukui.ideabox.cloud/users>
   <svg id="gauge1"></svg>
   <div>参加者数</div>
   </a>
 </div>
 <div>
-  <a href=https://digital-agency.ideabox.cloud/ideas>
+  <a href=https://fukui.ideabox.cloud/ideas>
   <svg id="gauge2"></svg>
   <div>アイデア数</div>
   </a>
 </div>
 <div>
-  <a href=https://digital-agency.ideabox.cloud/comments>
+  <a href=https://fukui.ideabox.cloud/comments>
   <svg id="gauge3"></svg>
   <div>コメント数</div>
   </a>
 </div>
 </div>
 
-
 <div class="search">
-  <a href=https://code4fukui.github.io/ideabox/search.html>アイデアボックスサーチ</a><br>
-</div>
-<div class="search">
-  <a href=https://code4fukui.github.io/ideabox/gacha.html>アイデアボックスガチャ</a><br>
+<a href=https://code4fukui.github.io/ideabox/search.html>アイデアボックスサーチ</a><br>
 </div><br>
 
-<a href=https://digital-agency.ideabox.cloud/>
-<!--<img src=fukuidx.png><br>-->
-「デジタル庁アイデアボックス | アイデアボックス」
+<a href=https://fukui.ideabox.cloud/><img src=fukuidx.png><br>
+「ＤＸ ＦＵＫＵＩアイデアボックス | アイデアボックス」
 </a>
 
 <hr>
@@ -82,7 +77,7 @@ const cr = (tag, parent) => {
 };
 
 onload = async () => {
-  const url = "https://digital-agency-api.ideabox.cloud/v1/statistics";
+  const url = "https://fukui-api.ideabox.cloud/v1/statistics";
   const data = await (await fetch(url)).json();
   console.log(data);
   const value = [data.data.user_count, data.data.idea_count, data.data.comment_count];

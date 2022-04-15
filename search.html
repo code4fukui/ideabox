@@ -2,7 +2,7 @@
 <title>アイデアボックスサーチ</title>
 </head><body>
 <h1>アイデアボックスサーチ</h1>
-<div class="desc"><a href=https://chibacity.ideabox.cloud/>千葉市</a>と<a href=https://fukui.ideabox.cloud/>福井県</a>のアイデアボックスのアイデアとコメントから高速サーチします（毎朝8:15更新）</div>
+<div class="desc"><a href=https://digital-agency.ideabox.cloud/>デジタル庁</a>と<a href=https://chibacity.ideabox.cloud/>千葉市</a>と<a href=https://fukui.ideabox.cloud/>福井県</a>のアイデアボックスのアイデアとコメントから高速サーチします（毎朝8:15更新）</div>
 
 <input id="key" placeholder="キーワード検索（スペースで絞込）">
 
@@ -73,6 +73,15 @@ const match1 = (d, kword) => {
 const isPC = () => navigator.userAgent.match(/Mac OS|Windows/) != null;
 
 onload = async () => {
+  const namemap = { "fukui": "福井", "chibacity": "千葉市", "digital-agency": "デジタル庁" };
+  const getName = (url) => {
+    for (const name in namemap) {
+      if (url.startsWith("https://" + name)) {
+        return namemap[name];
+      }
+    }
+    return "不明";
+  };
   const data = await (await fetch("data/ideas.json")).json();
   data.reverse();
   const show = () => {
@@ -83,7 +92,7 @@ onload = async () => {
         const link = document.createElement("a");
         link.href = d.url;
         link.target = "_blank";
-        link.textContent = d.title + (d.url.startsWith("https://fukui") ? "(福井県)" : "(千葉市)");
+        link.textContent = `${d.title} (${getName(d.url)})`;
         container.appendChild(link);
       }
     }

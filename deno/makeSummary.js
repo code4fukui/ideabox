@@ -1,6 +1,6 @@
 import { IdeaBox } from "./IdeaBox.js";
+import { names } from "./names.js";
 
-const names = ["chibacity", "fukui"];
 //const names = ["fukui"];
 
 const ideas = [];
