@@ -6,11 +6,1331 @@
     "parameter": []
   },
   "resultset": {
-    "count": 141,
+    "count": 152,
     "offset": null,
     "limit": 1000
   },
   "results": [
+    {
+      "id": "ea05dd25-2f52-40c8-8a90-12e9e6f1246a",
+      "name": "無線従事者の免許...",
+      "date_entered": "2022-04-22T08:12:02+00:00",
+      "date_modified": "2022-04-22T08:12:02+00:00",
+      "contents": "無線従事者の免許証は有効期限ないですよね\n電子証明書を組み込んだら、５年ごとに更新することになりますよ\nそれでも、いいのでしょうか？",
+      "serial_number": 1,
+      "parent_id": "c5a84d00-7fcc-44fe-8e4b-cb3b53d2f3ff",
+      "rate_count": null,
+      "vote_count": null,
+      "vote_rate_avarage": "0.00",
+      "raw_contents": "無線従事者の免許証は有効期限ないですよね\n電子証明書を組み込んだら、５年ごとに更新することになりますよ\nそれでも、いいのでしょうか？",
+      "parent": {
+        "id": "c5a84d00-7fcc-44fe-8e4b-cb3b53d2f3ff",
+        "name": "無線従事者に電子証明書付きの免許証をください",
+        "date_entered": "2022-04-21T07:36:17+00:00",
+        "date_modified": "2022-04-22T08:12:02+00:00",
+        "webtopic_number": "00058",
+        "contents": "現状、無線従事者にはプラスチックの免許証が交付されています。申請のときに、マイナンバーカードによる電子証明書方式もあるのですが無線従事者免許証にも電子証明書が欲しいのですが如何でしょうか？",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 1,
+        "positive_count": 1,
+        "neutral_count": 0,
+        "negative_count": 0,
+        "vote_count": 1,
+        "positive_perc": 100,
+        "neutral_perc": 0,
+        "negative_perc": 0,
+        "point": 1,
+        "rank": 0,
+        "contact_id": "2a14de6a-84b0-4e2c-a2c9-04f9fa435794",
+        "topic_type": "idea",
+        "first_vote_user_name": "こあら",
+        "second_vote_user_name": null,
+        "first_vote_user_id": "2a14de6a-84b0-4e2c-a2c9-04f9fa435794",
+        "second_vote_user_id": null,
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "現状、無線従事者にはプラスチックの免許証が交付されています。申請のときに、マイナンバーカードによる電子証明書方式もあるのですが無線従事者免許証にも電子証明書が欲しいのですが如何でしょうか？"
+      },
+      "my_vote": null,
+      "comments": [],
+      "idea": {
+        "id": "c5a84d00-7fcc-44fe-8e4b-cb3b53d2f3ff",
+        "name": "無線従事者に電子証明書付きの免許証をください",
+        "date_entered": "2022-04-21T07:36:17+00:00",
+        "date_modified": "2022-04-22T08:12:02+00:00",
+        "webtopic_number": "00058",
+        "contents": "現状、無線従事者にはプラスチックの免許証が交付されています。申請のときに、マイナンバーカードによる電子証明書方式もあるのですが無線従事者免許証にも電子証明書が欲しいのですが如何でしょうか？",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 1,
+        "positive_count": 1,
+        "neutral_count": 0,
+        "negative_count": 0,
+        "vote_count": 1,
+        "positive_perc": 100,
+        "neutral_perc": 0,
+        "negative_perc": 0,
+        "point": 1,
+        "rank": 0,
+        "contact_id": "2a14de6a-84b0-4e2c-a2c9-04f9fa435794",
+        "topic_type": "idea",
+        "first_vote_user_name": "こあら",
+        "second_vote_user_name": null,
+        "first_vote_user_id": "2a14de6a-84b0-4e2c-a2c9-04f9fa435794",
+        "second_vote_user_id": null,
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "現状、無線従事者にはプラスチックの免許証が交付されています。申請のときに、マイナンバーカードによる電子証明書方式もあるのですが無線従事者免許証にも電子証明書が欲しいのですが如何でしょうか？",
+        "category": {
+          "id": "0c48b214-b62c-11ec-afb0-0af759402a3f",
+          "name": "【1】誰一人取り残されないデジタル社会の実現について",
+          "date_entered": "2021-12-08T11:43:42+00:00",
+          "date_modified": "2021-12-08T11:43:42+00:00",
+          "description": "「誰一人取り残されないデジタル社会」の実現に向けて、どのようなことを期待しますか？\r\n\r\n【趣旨】\r\n政府では、誰一人取り残されないデジタル社会の実現に向けて、高齢者や障害者がデジタルを活用できるようにする環境整備を進めるなど、様々な施策を検討・実施しています。\r\n\r\nそこでぜひ、国民のみなさまからも「誰一人取り残されないデジタル社会」の実現に向けて期待する取組についてご意見をお寄せいただけますでしょうか。\r\n\r\n【募集した意見の活用方法】\r\n「デジタル社会の実現に向けた重点計画」の改定において参考とさせていただきます。\r\n「デジタル社会の実現に向けた重点計画」とは、これから日本が目指すデジタル社会の姿を描き、実現のために必要な主な方策を取りまとめたもので、これからのデジタル関連施策を推進する上での「羅針盤」となるものです。重点計画に記載された各施策については、進捗状況や成果を定期的に確認するとともに、社会情勢の変化などに応じて、施策の追加や見直しを行っていきます。\r\n\r\n（デジタル庁ウェブサイト）\r\n<a href=\"https://www.digital.go.jp/policies/priority-policy-program/\" target=\"_blank\">デジタル社会の実現に向けた重点計画(リンク)</a>\r\n\r\n【募集期間】\r\n2022年4月15日（金）〜5月5日（木）",
+          "search_key": "NoOneLeftBehind",
+          "contents": null,
+          "date": "2022-04-14T00:00:00.000000Z",
+          "status": "on air",
+          "serial_number": 1,
+          "invisible": 0,
+          "open_until": null,
+          "i18n": null,
+          "idea_count": 42
+        }
+      },
+      "user": {
+        "id": "5c200b49-367e-45b0-a3f7-3217e6d9bf6c",
+        "date_entered": "2022-04-20T07:03:56+00:00",
+        "date_modified": "2022-04-22T08:10:18+00:00",
+        "organization": "",
+        "department": "",
+        "position": "",
+        "primary_address_state": null,
+        "user_icon_src": "",
+        "portal_name": "a_a",
+        "sex": "U",
+        "age_category": "undefined",
+        "business_category": "U",
+        "job_evaluation": "U",
+        "website": null,
+        "profile": null,
+        "mail_cancelled": 1,
+        "role": ""
+      }
+    },
+    {
+      "id": "e8ac8fbb-fa93-4b1f-9442-e63e41bdfc07",
+      "name": "人件費は固定費に...",
+      "date_entered": "2022-04-22T06:27:42+00:00",
+      "date_modified": "2022-04-22T06:27:42+00:00",
+      "contents": "人件費は固定費になるので、雇用規制の緩和がなければ、スタートアップが人を増やして事業拡大することは、大変リスキーになってしまいます。",
+      "serial_number": 2,
+      "parent_id": "051f3b79-193d-46eb-a18a-17337c3642f1",
+      "rate_count": null,
+      "vote_count": null,
+      "vote_rate_avarage": "0.00",
+      "raw_contents": "人件費は固定費になるので、雇用規制の緩和がなければ、スタートアップが人を増やして事業拡大することは、大変リスキーになってしまいます。",
+      "parent": {
+        "id": "051f3b79-193d-46eb-a18a-17337c3642f1",
+        "name": "雇用保護規制の緩和を求めます。",
+        "date_entered": "2022-04-21T15:02:45+00:00",
+        "date_modified": "2022-04-22T16:34:23+00:00",
+        "webtopic_number": "00067",
+        "contents": "日本の解雇保護規制は厳しすぎる。ついては雇用規制の緩和を求めます。\n以下理由を挙げます。\n＜１＞雇用の流動性がないため、大企業でスキルを積んだ人材がスタートアップまで回ってこないため。\n＜２＞整理解雇がほとんど認められないため、スタートアップ（含むほぼ全ての企業が）が正規雇用を増やすことに躊躇するため。\nデジタル庁の管轄外かもしれませんが、スタートアップの人材戦略の障壁となっていることは確かなので、ご検討ください。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 2,
+        "positive_count": 4,
+        "neutral_count": 0,
+        "negative_count": 0,
+        "vote_count": 4,
+        "positive_perc": 100,
+        "neutral_perc": 0,
+        "negative_perc": 0,
+        "point": 4,
+        "rank": 0,
+        "contact_id": "81de913e-cf5d-4a44-933d-3dedb5500f5e",
+        "topic_type": "idea",
+        "first_vote_user_name": "miu",
+        "second_vote_user_name": "tshoji",
+        "first_vote_user_id": "a1408fd2-00df-47af-a556-43b4fdd83fe1",
+        "second_vote_user_id": "97e6754f-2ce9-4f41-a61d-60b1fb59148f",
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "日本の解雇保護規制は厳しすぎる。ついては雇用規制の緩和を求めます。\n以下理由を挙げます。\n＜１＞雇用の流動性がないため、大企業でスキルを積んだ人材がスタートアップまで回ってこないため。\n＜２＞整理解雇がほとんど認められないため、スタートアップ（含むほぼ全ての企業が）が正規雇用を増やすことに躊躇するため。\nデジタル庁の管轄外かもしれませんが、スタートアップの人材戦略の障壁となっていることは確かなので、ご検討ください。"
+      },
+      "my_vote": null,
+      "comments": [],
+      "idea": {
+        "id": "051f3b79-193d-46eb-a18a-17337c3642f1",
+        "name": "雇用保護規制の緩和を求めます。",
+        "date_entered": "2022-04-21T15:02:45+00:00",
+        "date_modified": "2022-04-22T16:34:23+00:00",
+        "webtopic_number": "00067",
+        "contents": "日本の解雇保護規制は厳しすぎる。ついては雇用規制の緩和を求めます。\n以下理由を挙げます。\n＜１＞雇用の流動性がないため、大企業でスキルを積んだ人材がスタートアップまで回ってこないため。\n＜２＞整理解雇がほとんど認められないため、スタートアップ（含むほぼ全ての企業が）が正規雇用を増やすことに躊躇するため。\nデジタル庁の管轄外かもしれませんが、スタートアップの人材戦略の障壁となっていることは確かなので、ご検討ください。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 2,
+        "positive_count": 4,
+        "neutral_count": 0,
+        "negative_count": 0,
+        "vote_count": 4,
+        "positive_perc": 100,
+        "neutral_perc": 0,
+        "negative_perc": 0,
+        "point": 4,
+        "rank": 0,
+        "contact_id": "81de913e-cf5d-4a44-933d-3dedb5500f5e",
+        "topic_type": "idea",
+        "first_vote_user_name": "miu",
+        "second_vote_user_name": "tshoji",
+        "first_vote_user_id": "a1408fd2-00df-47af-a556-43b4fdd83fe1",
+        "second_vote_user_id": "97e6754f-2ce9-4f41-a61d-60b1fb59148f",
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "日本の解雇保護規制は厳しすぎる。ついては雇用規制の緩和を求めます。\n以下理由を挙げます。\n＜１＞雇用の流動性がないため、大企業でスキルを積んだ人材がスタートアップまで回ってこないため。\n＜２＞整理解雇がほとんど認められないため、スタートアップ（含むほぼ全ての企業が）が正規雇用を増やすことに躊躇するため。\nデジタル庁の管轄外かもしれませんが、スタートアップの人材戦略の障壁となっていることは確かなので、ご検討ください。",
+        "category": {
+          "id": "0c48b27a-b62c-11ec-afb0-0af759402a3f",
+          "name": "【2】スタートアップ企業の創出・成長について",
+          "date_entered": "2021-12-08T11:43:42+00:00",
+          "date_modified": "2021-12-08T11:43:42+00:00",
+          "description": "日本でスタートアップ企業が創出され、成長していくためには、どのようなことが必要だと思いますか？\r\n\r\n【趣旨】\r\n政府では、スタートアップ企業の創出・成長に向けた取組の検討をしています。\r\nそこでぜひ、スタートアップ企業の創出・成長にあたって必要だと思うことがあれば教えていただけますでしょうか。 起業を考えている方やスタートアップ企業で働く当事者の方々のご意見もお待ちしております。\r\n\r\n【募集した意見の活用方法】\r\n「デジタル社会の実現に向けた重点計画」の改定において参考とさせていただきます。\r\n「デジタル社会の実現に向けた重点計画」とは、これから日本が目指すデジタル社会の姿を描き、実現のために必要な主な方策を取りまとめたもので、これからのデジタル関連施策を推進する上での「羅針盤」となるものです。重点計画に記載された各施策については、進捗状況や成果を定期的に確認するとともに、社会情勢の変化などに応じて、施策の追加や見直しを行っていきます。\r\n\r\n（デジタル庁ウェブサイト）\r\n<a href=\"https://www.digital.go.jp/policies/priority-policy-program/\" target=\"_blank\">デジタル社会の実現に向けた重点計画(リンク)</a>\r\n\r\n【募集期間】\r\n2022年4月15日（金）〜5月5日（木）",
+          "search_key": "creation_of_StartUp_companies",
+          "contents": null,
+          "date": "2022-04-14T00:00:00.000000Z",
+          "status": "on air",
+          "serial_number": 3,
+          "invisible": 0,
+          "open_until": null,
+          "i18n": null,
+          "idea_count": 20
+        }
+      },
+      "user": {
+        "id": "97e6754f-2ce9-4f41-a61d-60b1fb59148f",
+        "date_entered": "2022-04-22T06:25:11+00:00",
+        "date_modified": "2022-04-22T06:25:24+00:00",
+        "organization": null,
+        "department": null,
+        "position": null,
+        "primary_address_state": null,
+        "user_icon_src": null,
+        "portal_name": "tshoji",
+        "sex": "M",
+        "age_category": "undefined",
+        "business_category": "U",
+        "job_evaluation": "U",
+        "website": null,
+        "profile": null,
+        "mail_cancelled": 0,
+        "role": null
+      }
+    },
+    {
+      "id": "4cf2ba73-2ae0-4452-9c22-375a5ee76963",
+      "name": "これと併せて、各...",
+      "date_entered": "2022-04-22T04:30:25+00:00",
+      "date_modified": "2022-04-22T04:30:25+00:00",
+      "contents": "これと併せて、各種データのフォーマットの仕様統一化を図ったいただきたいですね。",
+      "serial_number": 2,
+      "parent_id": "23a159c2-8440-4f7f-8c1f-7f7fcfb59cca",
+      "rate_count": null,
+      "vote_count": null,
+      "vote_rate_avarage": "0.00",
+      "raw_contents": "これと併せて、各種データのフォーマットの仕様統一化を図ったいただきたいですね。",
+      "parent": {
+        "id": "23a159c2-8440-4f7f-8c1f-7f7fcfb59cca",
+        "name": "全国自治体オープンデータAPIの共通化でスマートシティ化に",
+        "date_entered": "2022-04-20T06:18:26+00:00",
+        "date_modified": "2022-04-22T04:30:25+00:00",
+        "webtopic_number": "00038",
+        "contents": "各自治体HPはバラバラな仕組み、Excelデータもあれば、CSVファイルもあれば、中には推奨データセットを守られていないデータもあり、地域によってはオープンデータを整備されてない自治体も。全国をAPIとして横断検索できるようなデータ整備が民間にとっては必要。人口統計などは年一回更新ではあるが、これは一般的な住民は利用されない。一方「観光イベント」「道路工事日程」など、日々更新が必要な日程データが地域住民に活用されやすい。でもこれらのメンテは、担当部署職員の仕事量が増え優先度が低くなるためデジタル化が進まないのでは。地域住民が活用できるデータ整備されればスマートシティが前進する。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 2,
+        "positive_count": 4,
+        "neutral_count": 0,
+        "negative_count": 0,
+        "vote_count": 4,
+        "positive_perc": 100,
+        "neutral_perc": 0,
+        "negative_perc": 0,
+        "point": 4,
+        "rank": 0,
+        "contact_id": "12632466-97a6-4943-b08d-698df3586e72",
+        "topic_type": "idea",
+        "first_vote_user_name": "つみき",
+        "second_vote_user_name": "うぃず",
+        "first_vote_user_id": "09bd68d8-bfec-435a-a9b3-5429d678066d",
+        "second_vote_user_id": "4c6bdfec-70c8-4b6c-8149-ed20c092d5d5",
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "各自治体HPはバラバラな仕組み、Excelデータもあれば、CSVファイルもあれば、中には推奨データセットを守られていないデータもあり、地域によってはオープンデータを整備されてない自治体も。全国をAPIとして横断検索できるようなデータ整備が民間にとっては必要。人口統計などは年一回更新ではあるが、これは一般的な住民は利用されない。一方「観光イベント」「道路工事日程」など、日々更新が必要な日程データが地域住民に活用されやすい。でもこれらのメンテは、担当部署職員の仕事量が増え優先度が低くなるためデジタル化が進まないのでは。地域住民が活用できるデータ整備されればスマートシティが前進する。"
+      },
+      "my_vote": null,
+      "comments": [],
+      "idea": {
+        "id": "23a159c2-8440-4f7f-8c1f-7f7fcfb59cca",
+        "name": "全国自治体オープンデータAPIの共通化でスマートシティ化に",
+        "date_entered": "2022-04-20T06:18:26+00:00",
+        "date_modified": "2022-04-22T04:30:25+00:00",
+        "webtopic_number": "00038",
+        "contents": "各自治体HPはバラバラな仕組み、Excelデータもあれば、CSVファイルもあれば、中には推奨データセットを守られていないデータもあり、地域によってはオープンデータを整備されてない自治体も。全国をAPIとして横断検索できるようなデータ整備が民間にとっては必要。人口統計などは年一回更新ではあるが、これは一般的な住民は利用されない。一方「観光イベント」「道路工事日程」など、日々更新が必要な日程データが地域住民に活用されやすい。でもこれらのメンテは、担当部署職員の仕事量が増え優先度が低くなるためデジタル化が進まないのでは。地域住民が活用できるデータ整備されればスマートシティが前進する。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 2,
+        "positive_count": 4,
+        "neutral_count": 0,
+        "negative_count": 0,
+        "vote_count": 4,
+        "positive_perc": 100,
+        "neutral_perc": 0,
+        "negative_perc": 0,
+        "point": 4,
+        "rank": 0,
+        "contact_id": "12632466-97a6-4943-b08d-698df3586e72",
+        "topic_type": "idea",
+        "first_vote_user_name": "つみき",
+        "second_vote_user_name": "うぃず",
+        "first_vote_user_id": "09bd68d8-bfec-435a-a9b3-5429d678066d",
+        "second_vote_user_id": "4c6bdfec-70c8-4b6c-8149-ed20c092d5d5",
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "各自治体HPはバラバラな仕組み、Excelデータもあれば、CSVファイルもあれば、中には推奨データセットを守られていないデータもあり、地域によってはオープンデータを整備されてない自治体も。全国をAPIとして横断検索できるようなデータ整備が民間にとっては必要。人口統計などは年一回更新ではあるが、これは一般的な住民は利用されない。一方「観光イベント」「道路工事日程」など、日々更新が必要な日程データが地域住民に活用されやすい。でもこれらのメンテは、担当部署職員の仕事量が増え優先度が低くなるためデジタル化が進まないのでは。地域住民が活用できるデータ整備されればスマートシティが前進する。",
+        "category": {
+          "id": "1da2540d-b733-11ec-afb0-0af759402a3f",
+          "name": "【3】その他、豊かなデジタル社会の実現に向けて",
+          "date_entered": "2021-12-08T11:43:42+00:00",
+          "date_modified": "2021-12-08T11:43:42+00:00",
+          "description": "豊かなデジタル社会の実現に向けて、ご意見、ご要望があれば教えていただけますでしょうか？\r\n\r\n【趣旨】\r\nテーマ【1】と【2】のほかに、豊かなデジタル社会の実現に向けて、期待することなどがあれば教えていただけますでしょうか？\r\n\r\n【募集した意見の活用方法】\r\n「デジタル社会の実現に向けた重点計画」の改定において参考とさせていただきます。\r\n「デジタル社会の実現に向けた重点計画」とは、これから日本が目指すデジタル社会の姿を描き、実現のために必要な主な方策を取りまとめたもので、これからのデジタル関連施策を推進する上での「羅針盤」となるものです。重点計画に記載された各施策については、進捗状況や成果を定期的に確認するとともに、社会情勢の変化などに応じて、施策の追加や見直しを行っていきます。\r\n\r\n（デジタル庁ウェブサイト）\r\n<a href=\"https://www.digital.go.jp/policies/priority-policy-program/\" target=\"_blank\">デジタル社会の実現に向けた重点計画(リンク)</a>\r\n\r\n【募集期間】\r\n2022年4月15日（金）〜5月5日（木）",
+          "search_key": "NoOneLeftBehind",
+          "contents": null,
+          "date": "2022-04-14T00:00:00.000000Z",
+          "status": "on air",
+          "serial_number": 4,
+          "invisible": 0,
+          "open_until": null,
+          "i18n": null,
+          "idea_count": 21
+        }
+      },
+      "user": {
+        "id": "68e90ce8-d8cc-497a-a7fd-0902b0d40796",
+        "date_entered": "2022-04-22T01:11:30+00:00",
+        "date_modified": "2022-04-22T01:12:05+00:00",
+        "organization": null,
+        "department": null,
+        "position": null,
+        "primary_address_state": "34",
+        "user_icon_src": null,
+        "portal_name": "k-m",
+        "sex": "M",
+        "age_category": "40s",
+        "business_category": "D",
+        "job_evaluation": "management",
+        "website": null,
+        "profile": null,
+        "mail_cancelled": 0,
+        "role": null
+      }
+    },
+    {
+      "id": "dd40e1d9-8a6d-4764-81f9-214735298d9b",
+      "name": "ポータルの連携は...",
+      "date_entered": "2022-04-22T04:27:27+00:00",
+      "date_modified": "2022-04-22T04:27:27+00:00",
+      "contents": "ポータルの連携は、主に行政やそれに親和性が高いサービスをとしたほうが良いように感じます。税金の関係で、金融系は最低1個欲しいですが。\n民間だけで連携可能なものは、民間で連携させるサービスを活用したほうが、サービスレベルは上がりやすい気がします。",
+      "serial_number": 2,
+      "parent_id": "77ab5346-205b-46ba-bcd0-29c044b2c65b",
+      "rate_count": null,
+      "vote_count": null,
+      "vote_rate_avarage": "0.00",
+      "raw_contents": "ポータルの連携は、主に行政やそれに親和性が高いサービスをとしたほうが良いように感じます。税金の関係で、金融系は最低1個欲しいですが。\n民間だけで連携可能なものは、民間で連携させるサービスを活用したほうが、サービスレベルは上がりやすい気がします。",
+      "parent": {
+        "id": "77ab5346-205b-46ba-bcd0-29c044b2c65b",
+        "name": "マイナンバーカードの価値を高めるためマイナポータル連携先を増やす",
+        "date_entered": "2022-04-21T00:18:57+00:00",
+        "date_modified": "2022-04-22T04:27:45+00:00",
+        "webtopic_number": "00053",
+        "contents": "ETCマイレージサービスや航空会社のマイルなどの民間のポイント・マイルサービスを順次マイナポータルで一元管理できるようにし、マイナンバーカードにETCカード/ETC車載器（複数可）、交通系ICカード（複数可）、デビットカード（最大1枚）、不動産登記または賃貸契約を紐付けて、マイナンバーカードが1枚あれば高速道路や鉄道を利用でき、デビット決済で買い物もできるようになれば、クレジットカードを持たない人ほどマイナンバーカードを作るメリットが増えます。すると、現金の主な用途はコインロッカー等の支払いになります。「鉄道・バス等の公共交通機関に乗らない」「高速道路を利用しない」「キャッシュレス決済を利用しない」といった選択の自由は残すものの、今後は、便利な都市生活＝デジタル社会と定義したほうがいいでしょう。カーディーラー、不動産会社なら、顧客サービスとして、分からない人に対して対面で丁寧にフォローしてくれると思います。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 2,
+        "positive_count": 1,
+        "neutral_count": 2,
+        "negative_count": 0,
+        "vote_count": 3,
+        "positive_perc": 33,
+        "neutral_perc": 67,
+        "negative_perc": 0,
+        "point": 1,
+        "rank": 0,
+        "contact_id": "c6bd5d1a-d011-41dd-a719-70badca03274",
+        "topic_type": "idea",
+        "first_vote_user_name": "k-m",
+        "second_vote_user_name": "yukio",
+        "first_vote_user_id": "68e90ce8-d8cc-497a-a7fd-0902b0d40796",
+        "second_vote_user_id": "aaac231a-83f2-4902-ac78-8dd1523f5b1e",
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "ETCマイレージサービスや航空会社のマイルなどの民間のポイント・マイルサービスを順次マイナポータルで一元管理できるようにし、マイナンバーカードにETCカード/ETC車載器（複数可）、交通系ICカード（複数可）、デビットカード（最大1枚）、不動産登記または賃貸契約を紐付けて、マイナンバーカードが1枚あれば高速道路や鉄道を利用でき、デビット決済で買い物もできるようになれば、クレジットカードを持たない人ほどマイナンバーカードを作るメリットが増えます。すると、現金の主な用途はコインロッカー等の支払いになります。「鉄道・バス等の公共交通機関に乗らない」「高速道路を利用しない」「キャッシュレス決済を利用しない」といった選択の自由は残すものの、今後は、便利な都市生活＝デジタル社会と定義したほうがいいでしょう。カーディーラー、不動産会社なら、顧客サービスとして、分からない人に対して対面で丁寧にフォローしてくれると思います。"
+      },
+      "my_vote": null,
+      "comments": [],
+      "idea": {
+        "id": "77ab5346-205b-46ba-bcd0-29c044b2c65b",
+        "name": "マイナンバーカードの価値を高めるためマイナポータル連携先を増やす",
+        "date_entered": "2022-04-21T00:18:57+00:00",
+        "date_modified": "2022-04-22T04:27:45+00:00",
+        "webtopic_number": "00053",
+        "contents": "ETCマイレージサービスや航空会社のマイルなどの民間のポイント・マイルサービスを順次マイナポータルで一元管理できるようにし、マイナンバーカードにETCカード/ETC車載器（複数可）、交通系ICカード（複数可）、デビットカード（最大1枚）、不動産登記または賃貸契約を紐付けて、マイナンバーカードが1枚あれば高速道路や鉄道を利用でき、デビット決済で買い物もできるようになれば、クレジットカードを持たない人ほどマイナンバーカードを作るメリットが増えます。すると、現金の主な用途はコインロッカー等の支払いになります。「鉄道・バス等の公共交通機関に乗らない」「高速道路を利用しない」「キャッシュレス決済を利用しない」といった選択の自由は残すものの、今後は、便利な都市生活＝デジタル社会と定義したほうがいいでしょう。カーディーラー、不動産会社なら、顧客サービスとして、分からない人に対して対面で丁寧にフォローしてくれると思います。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 2,
+        "positive_count": 1,
+        "neutral_count": 2,
+        "negative_count": 0,
+        "vote_count": 3,
+        "positive_perc": 33,
+        "neutral_perc": 67,
+        "negative_perc": 0,
+        "point": 1,
+        "rank": 0,
+        "contact_id": "c6bd5d1a-d011-41dd-a719-70badca03274",
+        "topic_type": "idea",
+        "first_vote_user_name": "k-m",
+        "second_vote_user_name": "yukio",
+        "first_vote_user_id": "68e90ce8-d8cc-497a-a7fd-0902b0d40796",
+        "second_vote_user_id": "aaac231a-83f2-4902-ac78-8dd1523f5b1e",
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "ETCマイレージサービスや航空会社のマイルなどの民間のポイント・マイルサービスを順次マイナポータルで一元管理できるようにし、マイナンバーカードにETCカード/ETC車載器（複数可）、交通系ICカード（複数可）、デビットカード（最大1枚）、不動産登記または賃貸契約を紐付けて、マイナンバーカードが1枚あれば高速道路や鉄道を利用でき、デビット決済で買い物もできるようになれば、クレジットカードを持たない人ほどマイナンバーカードを作るメリットが増えます。すると、現金の主な用途はコインロッカー等の支払いになります。「鉄道・バス等の公共交通機関に乗らない」「高速道路を利用しない」「キャッシュレス決済を利用しない」といった選択の自由は残すものの、今後は、便利な都市生活＝デジタル社会と定義したほうがいいでしょう。カーディーラー、不動産会社なら、顧客サービスとして、分からない人に対して対面で丁寧にフォローしてくれると思います。",
+        "category": {
+          "id": "0c48b214-b62c-11ec-afb0-0af759402a3f",
+          "name": "【1】誰一人取り残されないデジタル社会の実現について",
+          "date_entered": "2021-12-08T11:43:42+00:00",
+          "date_modified": "2021-12-08T11:43:42+00:00",
+          "description": "「誰一人取り残されないデジタル社会」の実現に向けて、どのようなことを期待しますか？\r\n\r\n【趣旨】\r\n政府では、誰一人取り残されないデジタル社会の実現に向けて、高齢者や障害者がデジタルを活用できるようにする環境整備を進めるなど、様々な施策を検討・実施しています。\r\n\r\nそこでぜひ、国民のみなさまからも「誰一人取り残されないデジタル社会」の実現に向けて期待する取組についてご意見をお寄せいただけますでしょうか。\r\n\r\n【募集した意見の活用方法】\r\n「デジタル社会の実現に向けた重点計画」の改定において参考とさせていただきます。\r\n「デジタル社会の実現に向けた重点計画」とは、これから日本が目指すデジタル社会の姿を描き、実現のために必要な主な方策を取りまとめたもので、これからのデジタル関連施策を推進する上での「羅針盤」となるものです。重点計画に記載された各施策については、進捗状況や成果を定期的に確認するとともに、社会情勢の変化などに応じて、施策の追加や見直しを行っていきます。\r\n\r\n（デジタル庁ウェブサイト）\r\n<a href=\"https://www.digital.go.jp/policies/priority-policy-program/\" target=\"_blank\">デジタル社会の実現に向けた重点計画(リンク)</a>\r\n\r\n【募集期間】\r\n2022年4月15日（金）〜5月5日（木）",
+          "search_key": "NoOneLeftBehind",
+          "contents": null,
+          "date": "2022-04-14T00:00:00.000000Z",
+          "status": "on air",
+          "serial_number": 1,
+          "invisible": 0,
+          "open_until": null,
+          "i18n": null,
+          "idea_count": 42
+        }
+      },
+      "user": {
+        "id": "68e90ce8-d8cc-497a-a7fd-0902b0d40796",
+        "date_entered": "2022-04-22T01:11:30+00:00",
+        "date_modified": "2022-04-22T01:12:05+00:00",
+        "organization": null,
+        "department": null,
+        "position": null,
+        "primary_address_state": "34",
+        "user_icon_src": null,
+        "portal_name": "k-m",
+        "sex": "M",
+        "age_category": "40s",
+        "business_category": "D",
+        "job_evaluation": "management",
+        "website": null,
+        "profile": null,
+        "mail_cancelled": 0,
+        "role": null
+      }
+    },
+    {
+      "id": "6a31844d-ab96-44c9-8c52-286c2ac34014",
+      "name": "マイナンバーカー...",
+      "date_entered": "2022-04-22T04:24:08+00:00",
+      "date_modified": "2022-04-22T04:24:08+00:00",
+      "contents": "マイナンバーカード　＋　生体認証で、パスワードレスが出来れば良いなぁーと思います。",
+      "serial_number": 2,
+      "parent_id": "38d8b3ae-af73-48c7-88f8-2bc2d78eef4a",
+      "rate_count": null,
+      "vote_count": null,
+      "vote_rate_avarage": "0.00",
+      "raw_contents": "マイナンバーカード　＋　生体認証で、パスワードレスが出来れば良いなぁーと思います。",
+      "parent": {
+        "id": "38d8b3ae-af73-48c7-88f8-2bc2d78eef4a",
+        "name": "マイナンバーカードによるシングルサインオンの実現",
+        "date_entered": "2022-04-21T14:14:41+00:00",
+        "date_modified": "2022-04-22T04:24:08+00:00",
+        "webtopic_number": "00064",
+        "contents": "周囲のお年寄りの方を見ていると、パスワード管理をすごく大変そうにしています。\nかくゆう私もパスワードは使いまわしがちです。\nつきましては、公的サービス、民間サービスともにマイナンバーカードを用いて（オプトインで）本人確認できるようにすべきだと思います。そのために以下の３点を提案します。\n\n＜１＞EUのeIDAS2.0を参考にマイナンバーを民間企業が使いやすい枠組みを整備すること。\nマイナンバーカード利用拡大にもつながるでしょうし、将来的に国家主導の情報銀行や（各国が導入を検討している）CBDCの基礎とすることも可能です。ここで立ち遅れると前記分野において苦戦することは想像に難くありません。\n\n＜２＞厳格すぎるマイナンバー管理と厳罰を定めた「マイナンバーの取り扱いを定めた行政手続における特定の個人を識別するための番号の利用等に関する法律」（以下、個人番号法）は企業がマイナンバーを扱いやすいよう改正すること。個人情報保護の観点からそれができないと言うのならインドのIndia Stackのように情報の機密レベルごとのレイヤーを設けて対応すべきです。\n＜３＞J-LISの手数料は廃止すること。\n率先してマイナンバーeKYC導入した企業にコストを押し付ける構造がマイナンバー利用の障壁となっていることは明らかだからです。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 2,
+        "positive_count": 3,
+        "neutral_count": 0,
+        "negative_count": 0,
+        "vote_count": 3,
+        "positive_perc": 100,
+        "neutral_perc": 0,
+        "negative_perc": 0,
+        "point": 3,
+        "rank": 0,
+        "contact_id": "81de913e-cf5d-4a44-933d-3dedb5500f5e",
+        "topic_type": "idea",
+        "first_vote_user_name": "k-m",
+        "second_vote_user_name": "賢者と愚者の間",
+        "first_vote_user_id": "68e90ce8-d8cc-497a-a7fd-0902b0d40796",
+        "second_vote_user_id": "0733273f-018a-401f-bf9c-97011c27284d",
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "周囲のお年寄りの方を見ていると、パスワード管理をすごく大変そうにしています。\nかくゆう私もパスワードは使いまわしがちです。\nつきましては、公的サービス、民間サービスともにマイナンバーカードを用いて（オプトインで）本人確認できるようにすべきだと思います。そのために以下の３点を提案します。\n\n＜１＞EUのeIDAS2.0を参考にマイナンバーを民間企業が使いやすい枠組みを整備すること。\nマイナンバーカード利用拡大にもつながるでしょうし、将来的に国家主導の情報銀行や（各国が導入を検討している）CBDCの基礎とすることも可能です。ここで立ち遅れると前記分野において苦戦することは想像に難くありません。\n\n＜２＞厳格すぎるマイナンバー管理と厳罰を定めた「マイナンバーの取り扱いを定めた行政手続における特定の個人を識別するための番号の利用等に関する法律」（以下、個人番号法）は企業がマイナンバーを扱いやすいよう改正すること。個人情報保護の観点からそれができないと言うのならインドのIndia Stackのように情報の機密レベルごとのレイヤーを設けて対応すべきです。\n＜３＞J-LISの手数料は廃止すること。\n率先してマイナンバーeKYC導入した企業にコストを押し付ける構造がマイナンバー利用の障壁となっていることは明らかだからです。"
+      },
+      "my_vote": null,
+      "comments": [],
+      "idea": {
+        "id": "38d8b3ae-af73-48c7-88f8-2bc2d78eef4a",
+        "name": "マイナンバーカードによるシングルサインオンの実現",
+        "date_entered": "2022-04-21T14:14:41+00:00",
+        "date_modified": "2022-04-22T04:24:08+00:00",
+        "webtopic_number": "00064",
+        "contents": "周囲のお年寄りの方を見ていると、パスワード管理をすごく大変そうにしています。\nかくゆう私もパスワードは使いまわしがちです。\nつきましては、公的サービス、民間サービスともにマイナンバーカードを用いて（オプトインで）本人確認できるようにすべきだと思います。そのために以下の３点を提案します。\n\n＜１＞EUのeIDAS2.0を参考にマイナンバーを民間企業が使いやすい枠組みを整備すること。\nマイナンバーカード利用拡大にもつながるでしょうし、将来的に国家主導の情報銀行や（各国が導入を検討している）CBDCの基礎とすることも可能です。ここで立ち遅れると前記分野において苦戦することは想像に難くありません。\n\n＜２＞厳格すぎるマイナンバー管理と厳罰を定めた「マイナンバーの取り扱いを定めた行政手続における特定の個人を識別するための番号の利用等に関する法律」（以下、個人番号法）は企業がマイナンバーを扱いやすいよう改正すること。個人情報保護の観点からそれができないと言うのならインドのIndia Stackのように情報の機密レベルごとのレイヤーを設けて対応すべきです。\n＜３＞J-LISの手数料は廃止すること。\n率先してマイナンバーeKYC導入した企業にコストを押し付ける構造がマイナンバー利用の障壁となっていることは明らかだからです。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 2,
+        "positive_count": 3,
+        "neutral_count": 0,
+        "negative_count": 0,
+        "vote_count": 3,
+        "positive_perc": 100,
+        "neutral_perc": 0,
+        "negative_perc": 0,
+        "point": 3,
+        "rank": 0,
+        "contact_id": "81de913e-cf5d-4a44-933d-3dedb5500f5e",
+        "topic_type": "idea",
+        "first_vote_user_name": "k-m",
+        "second_vote_user_name": "賢者と愚者の間",
+        "first_vote_user_id": "68e90ce8-d8cc-497a-a7fd-0902b0d40796",
+        "second_vote_user_id": "0733273f-018a-401f-bf9c-97011c27284d",
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "周囲のお年寄りの方を見ていると、パスワード管理をすごく大変そうにしています。\nかくゆう私もパスワードは使いまわしがちです。\nつきましては、公的サービス、民間サービスともにマイナンバーカードを用いて（オプトインで）本人確認できるようにすべきだと思います。そのために以下の３点を提案します。\n\n＜１＞EUのeIDAS2.0を参考にマイナンバーを民間企業が使いやすい枠組みを整備すること。\nマイナンバーカード利用拡大にもつながるでしょうし、将来的に国家主導の情報銀行や（各国が導入を検討している）CBDCの基礎とすることも可能です。ここで立ち遅れると前記分野において苦戦することは想像に難くありません。\n\n＜２＞厳格すぎるマイナンバー管理と厳罰を定めた「マイナンバーの取り扱いを定めた行政手続における特定の個人を識別するための番号の利用等に関する法律」（以下、個人番号法）は企業がマイナンバーを扱いやすいよう改正すること。個人情報保護の観点からそれができないと言うのならインドのIndia Stackのように情報の機密レベルごとのレイヤーを設けて対応すべきです。\n＜３＞J-LISの手数料は廃止すること。\n率先してマイナンバーeKYC導入した企業にコストを押し付ける構造がマイナンバー利用の障壁となっていることは明らかだからです。",
+        "category": {
+          "id": "0c48b214-b62c-11ec-afb0-0af759402a3f",
+          "name": "【1】誰一人取り残されないデジタル社会の実現について",
+          "date_entered": "2021-12-08T11:43:42+00:00",
+          "date_modified": "2021-12-08T11:43:42+00:00",
+          "description": "「誰一人取り残されないデジタル社会」の実現に向けて、どのようなことを期待しますか？\r\n\r\n【趣旨】\r\n政府では、誰一人取り残されないデジタル社会の実現に向けて、高齢者や障害者がデジタルを活用できるようにする環境整備を進めるなど、様々な施策を検討・実施しています。\r\n\r\nそこでぜひ、国民のみなさまからも「誰一人取り残されないデジタル社会」の実現に向けて期待する取組についてご意見をお寄せいただけますでしょうか。\r\n\r\n【募集した意見の活用方法】\r\n「デジタル社会の実現に向けた重点計画」の改定において参考とさせていただきます。\r\n「デジタル社会の実現に向けた重点計画」とは、これから日本が目指すデジタル社会の姿を描き、実現のために必要な主な方策を取りまとめたもので、これからのデジタル関連施策を推進する上での「羅針盤」となるものです。重点計画に記載された各施策については、進捗状況や成果を定期的に確認するとともに、社会情勢の変化などに応じて、施策の追加や見直しを行っていきます。\r\n\r\n（デジタル庁ウェブサイト）\r\n<a href=\"https://www.digital.go.jp/policies/priority-policy-program/\" target=\"_blank\">デジタル社会の実現に向けた重点計画(リンク)</a>\r\n\r\n【募集期間】\r\n2022年4月15日（金）〜5月5日（木）",
+          "search_key": "NoOneLeftBehind",
+          "contents": null,
+          "date": "2022-04-14T00:00:00.000000Z",
+          "status": "on air",
+          "serial_number": 1,
+          "invisible": 0,
+          "open_until": null,
+          "i18n": null,
+          "idea_count": 42
+        }
+      },
+      "user": {
+        "id": "68e90ce8-d8cc-497a-a7fd-0902b0d40796",
+        "date_entered": "2022-04-22T01:11:30+00:00",
+        "date_modified": "2022-04-22T01:12:05+00:00",
+        "organization": null,
+        "department": null,
+        "position": null,
+        "primary_address_state": "34",
+        "user_icon_src": null,
+        "portal_name": "k-m",
+        "sex": "M",
+        "age_category": "40s",
+        "business_category": "D",
+        "job_evaluation": "management",
+        "website": null,
+        "profile": null,
+        "mail_cancelled": 0,
+        "role": null
+      }
+    },
+    {
+      "id": "57ac07cd-c205-4215-be1b-5af0efc4f5ed",
+      "name": "マイナンバーある...",
+      "date_entered": "2022-04-22T03:44:34+00:00",
+      "date_modified": "2022-04-22T03:45:06+00:00",
+      "contents": "マイナンバーあるから個人の特定はデジタルで、コンピュータ？データ的にはこれで処理すればいいです。名前自体本来ならばマイナンバーと1対１に対応してなくてもいいはずです。",
+      "serial_number": 3,
+      "parent_id": "56f462de-885e-4cbe-8ade-992214b76830",
+      "rate_count": null,
+      "vote_count": null,
+      "vote_rate_avarage": "0.00",
+      "raw_contents": "マイナンバーあるから個人の特定はデジタルで、コンピュータ？データ的にはこれで処理すればいいです。名前自体本来ならばマイナンバーと1対１に対応してなくてもいいはずです。",
+      "parent": {
+        "id": "56f462de-885e-4cbe-8ade-992214b76830",
+        "name": "システム組む前にやるべき事が有る",
+        "date_entered": "2022-04-22T00:06:41+00:00",
+        "date_modified": "2022-04-22T12:33:47+00:00",
+        "webtopic_number": "00071",
+        "contents": "デジタル化は一か0か明確にして処理する事。曖昧なものはデジタル化出来ません。曖昧な物を洗い出し、事前に既存のルールを見直さないと、せっかくのデジタル化も使えないものになってしまいます。例えば旧姓利用。日本では、旧姓はただのニックネームで、法的に認められていません。婚姻後、苗字の二つ併記や夫婦別姓使用を法的に認めないと、氏名一つデジタル化できません。他にもこんな例は沢山あるはず。事前の準備がないとシステム化できません。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 3,
+        "positive_count": 4,
+        "neutral_count": 1,
+        "negative_count": 1,
+        "vote_count": 6,
+        "positive_perc": 67,
+        "neutral_perc": 17,
+        "negative_perc": 16,
+        "point": 3,
+        "rank": 0,
+        "contact_id": "e17b064f-fd3f-4478-879e-f80fe79a85da",
+        "topic_type": "idea",
+        "first_vote_user_name": "みゆう",
+        "second_vote_user_name": "ぽんぽこ狸ちょい悪オヤジ",
+        "first_vote_user_id": "bd43c955-7eb5-4e95-a5df-5906af61f8d0",
+        "second_vote_user_id": "23bce437-e681-4c24-b044-835f26729298",
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "デジタル化は一か0か明確にして処理する事。曖昧なものはデジタル化出来ません。曖昧な物を洗い出し、事前に既存のルールを見直さないと、せっかくのデジタル化も使えないものになってしまいます。例えば旧姓利用。日本では、旧姓はただのニックネームで、法的に認められていません。婚姻後、苗字の二つ併記や夫婦別姓使用を法的に認めないと、氏名一つデジタル化できません。他にもこんな例は沢山あるはず。事前の準備がないとシステム化できません。"
+      },
+      "my_vote": null,
+      "comments": [],
+      "idea": {
+        "id": "56f462de-885e-4cbe-8ade-992214b76830",
+        "name": "システム組む前にやるべき事が有る",
+        "date_entered": "2022-04-22T00:06:41+00:00",
+        "date_modified": "2022-04-22T12:33:47+00:00",
+        "webtopic_number": "00071",
+        "contents": "デジタル化は一か0か明確にして処理する事。曖昧なものはデジタル化出来ません。曖昧な物を洗い出し、事前に既存のルールを見直さないと、せっかくのデジタル化も使えないものになってしまいます。例えば旧姓利用。日本では、旧姓はただのニックネームで、法的に認められていません。婚姻後、苗字の二つ併記や夫婦別姓使用を法的に認めないと、氏名一つデジタル化できません。他にもこんな例は沢山あるはず。事前の準備がないとシステム化できません。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 3,
+        "positive_count": 4,
+        "neutral_count": 1,
+        "negative_count": 1,
+        "vote_count": 6,
+        "positive_perc": 67,
+        "neutral_perc": 17,
+        "negative_perc": 16,
+        "point": 3,
+        "rank": 0,
+        "contact_id": "e17b064f-fd3f-4478-879e-f80fe79a85da",
+        "topic_type": "idea",
+        "first_vote_user_name": "みゆう",
+        "second_vote_user_name": "ぽんぽこ狸ちょい悪オヤジ",
+        "first_vote_user_id": "bd43c955-7eb5-4e95-a5df-5906af61f8d0",
+        "second_vote_user_id": "23bce437-e681-4c24-b044-835f26729298",
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "デジタル化は一か0か明確にして処理する事。曖昧なものはデジタル化出来ません。曖昧な物を洗い出し、事前に既存のルールを見直さないと、せっかくのデジタル化も使えないものになってしまいます。例えば旧姓利用。日本では、旧姓はただのニックネームで、法的に認められていません。婚姻後、苗字の二つ併記や夫婦別姓使用を法的に認めないと、氏名一つデジタル化できません。他にもこんな例は沢山あるはず。事前の準備がないとシステム化できません。",
+        "category": {
+          "id": "0c48b214-b62c-11ec-afb0-0af759402a3f",
+          "name": "【1】誰一人取り残されないデジタル社会の実現について",
+          "date_entered": "2021-12-08T11:43:42+00:00",
+          "date_modified": "2021-12-08T11:43:42+00:00",
+          "description": "「誰一人取り残されないデジタル社会」の実現に向けて、どのようなことを期待しますか？\r\n\r\n【趣旨】\r\n政府では、誰一人取り残されないデジタル社会の実現に向けて、高齢者や障害者がデジタルを活用できるようにする環境整備を進めるなど、様々な施策を検討・実施しています。\r\n\r\nそこでぜひ、国民のみなさまからも「誰一人取り残されないデジタル社会」の実現に向けて期待する取組についてご意見をお寄せいただけますでしょうか。\r\n\r\n【募集した意見の活用方法】\r\n「デジタル社会の実現に向けた重点計画」の改定において参考とさせていただきます。\r\n「デジタル社会の実現に向けた重点計画」とは、これから日本が目指すデジタル社会の姿を描き、実現のために必要な主な方策を取りまとめたもので、これからのデジタル関連施策を推進する上での「羅針盤」となるものです。重点計画に記載された各施策については、進捗状況や成果を定期的に確認するとともに、社会情勢の変化などに応じて、施策の追加や見直しを行っていきます。\r\n\r\n（デジタル庁ウェブサイト）\r\n<a href=\"https://www.digital.go.jp/policies/priority-policy-program/\" target=\"_blank\">デジタル社会の実現に向けた重点計画(リンク)</a>\r\n\r\n【募集期間】\r\n2022年4月15日（金）〜5月5日（木）",
+          "search_key": "NoOneLeftBehind",
+          "contents": null,
+          "date": "2022-04-14T00:00:00.000000Z",
+          "status": "on air",
+          "serial_number": 1,
+          "invisible": 0,
+          "open_until": null,
+          "i18n": null,
+          "idea_count": 42
+        }
+      },
+      "user": {
+        "id": "23bce437-e681-4c24-b044-835f26729298",
+        "date_entered": "2022-04-16T11:28:00+00:00",
+        "date_modified": "2022-04-18T06:51:12+00:00",
+        "organization": "",
+        "department": "",
+        "position": "",
+        "primary_address_state": "20",
+        "user_icon_src": "",
+        "portal_name": "ぽんぽこ狸ちょい悪オヤジ",
+        "sex": "M",
+        "age_category": "50s",
+        "business_category": "S",
+        "job_evaluation": "other",
+        "website": null,
+        "profile": null,
+        "mail_cancelled": 0,
+        "role": ""
+      }
+    },
+    {
+      "id": "9fa88047-8f28-4f4e-a23d-dcda8d2443fd",
+      "name": "雇用規制の緩和、...",
+      "date_entered": "2022-04-22T02:27:22+00:00",
+      "date_modified": "2022-04-22T02:27:22+00:00",
+      "contents": "雇用規制の緩和、とてもそう思います。\n現在、終身雇用の崩壊・限界とは言われているものの、それは基本的に正社員本人が退職希望→転職となるケースが増えているだけ。\n正社員が絶対に会社を辞めたくないなら、企業側は強制解雇が難しいのが現状。\nなので会社側が想定するパフォーマンスを発揮できない「ぶらさがり社員」は、そのまま会社に居続けられると・・。\n\n例えば整理解雇・強制解雇を以下のような条件の上で認めるようならと、個人的には思ってます\n1.正社員の退職金の法定義務化\n例 退職時には最低でも月給の3か月を支払うなど。(現状は義務なし。)\n2.整理解雇・強制解雇の人数制限\n例 企業側　年間の解雇者は正社員の5%までとする\n3.解雇者の最低就業年数を取り決める\n例 3年は強制解雇ＮＧ。",
+      "serial_number": 1,
+      "parent_id": "051f3b79-193d-46eb-a18a-17337c3642f1",
+      "rate_count": null,
+      "vote_count": null,
+      "vote_rate_avarage": "0.00",
+      "raw_contents": "雇用規制の緩和、とてもそう思います。\n現在、終身雇用の崩壊・限界とは言われているものの、それは基本的に正社員本人が退職希望→転職となるケースが増えているだけ。\n正社員が絶対に会社を辞めたくないなら、企業側は強制解雇が難しいのが現状。\nなので会社側が想定するパフォーマンスを発揮できない「ぶらさがり社員」は、そのまま会社に居続けられると・・。\n\n例えば整理解雇・強制解雇を以下のような条件の上で認めるようならと、個人的には思ってます\n1.正社員の退職金の法定義務化\n例 退職時には最低でも月給の3か月を支払うなど。(現状は義務なし。)\n2.整理解雇・強制解雇の人数制限\n例 企業側　年間の解雇者は正社員の5%までとする\n3.解雇者の最低就業年数を取り決める\n例 3年は強制解雇ＮＧ。",
+      "parent": {
+        "id": "051f3b79-193d-46eb-a18a-17337c3642f1",
+        "name": "雇用保護規制の緩和を求めます。",
+        "date_entered": "2022-04-21T15:02:45+00:00",
+        "date_modified": "2022-04-22T16:34:23+00:00",
+        "webtopic_number": "00067",
+        "contents": "日本の解雇保護規制は厳しすぎる。ついては雇用規制の緩和を求めます。\n以下理由を挙げます。\n＜１＞雇用の流動性がないため、大企業でスキルを積んだ人材がスタートアップまで回ってこないため。\n＜２＞整理解雇がほとんど認められないため、スタートアップ（含むほぼ全ての企業が）が正規雇用を増やすことに躊躇するため。\nデジタル庁の管轄外かもしれませんが、スタートアップの人材戦略の障壁となっていることは確かなので、ご検討ください。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 2,
+        "positive_count": 4,
+        "neutral_count": 0,
+        "negative_count": 0,
+        "vote_count": 4,
+        "positive_perc": 100,
+        "neutral_perc": 0,
+        "negative_perc": 0,
+        "point": 4,
+        "rank": 0,
+        "contact_id": "81de913e-cf5d-4a44-933d-3dedb5500f5e",
+        "topic_type": "idea",
+        "first_vote_user_name": "miu",
+        "second_vote_user_name": "tshoji",
+        "first_vote_user_id": "a1408fd2-00df-47af-a556-43b4fdd83fe1",
+        "second_vote_user_id": "97e6754f-2ce9-4f41-a61d-60b1fb59148f",
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "日本の解雇保護規制は厳しすぎる。ついては雇用規制の緩和を求めます。\n以下理由を挙げます。\n＜１＞雇用の流動性がないため、大企業でスキルを積んだ人材がスタートアップまで回ってこないため。\n＜２＞整理解雇がほとんど認められないため、スタートアップ（含むほぼ全ての企業が）が正規雇用を増やすことに躊躇するため。\nデジタル庁の管轄外かもしれませんが、スタートアップの人材戦略の障壁となっていることは確かなので、ご検討ください。"
+      },
+      "my_vote": null,
+      "comments": [],
+      "idea": {
+        "id": "051f3b79-193d-46eb-a18a-17337c3642f1",
+        "name": "雇用保護規制の緩和を求めます。",
+        "date_entered": "2022-04-21T15:02:45+00:00",
+        "date_modified": "2022-04-22T16:34:23+00:00",
+        "webtopic_number": "00067",
+        "contents": "日本の解雇保護規制は厳しすぎる。ついては雇用規制の緩和を求めます。\n以下理由を挙げます。\n＜１＞雇用の流動性がないため、大企業でスキルを積んだ人材がスタートアップまで回ってこないため。\n＜２＞整理解雇がほとんど認められないため、スタートアップ（含むほぼ全ての企業が）が正規雇用を増やすことに躊躇するため。\nデジタル庁の管轄外かもしれませんが、スタートアップの人材戦略の障壁となっていることは確かなので、ご検討ください。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 2,
+        "positive_count": 4,
+        "neutral_count": 0,
+        "negative_count": 0,
+        "vote_count": 4,
+        "positive_perc": 100,
+        "neutral_perc": 0,
+        "negative_perc": 0,
+        "point": 4,
+        "rank": 0,
+        "contact_id": "81de913e-cf5d-4a44-933d-3dedb5500f5e",
+        "topic_type": "idea",
+        "first_vote_user_name": "miu",
+        "second_vote_user_name": "tshoji",
+        "first_vote_user_id": "a1408fd2-00df-47af-a556-43b4fdd83fe1",
+        "second_vote_user_id": "97e6754f-2ce9-4f41-a61d-60b1fb59148f",
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "日本の解雇保護規制は厳しすぎる。ついては雇用規制の緩和を求めます。\n以下理由を挙げます。\n＜１＞雇用の流動性がないため、大企業でスキルを積んだ人材がスタートアップまで回ってこないため。\n＜２＞整理解雇がほとんど認められないため、スタートアップ（含むほぼ全ての企業が）が正規雇用を増やすことに躊躇するため。\nデジタル庁の管轄外かもしれませんが、スタートアップの人材戦略の障壁となっていることは確かなので、ご検討ください。",
+        "category": {
+          "id": "0c48b27a-b62c-11ec-afb0-0af759402a3f",
+          "name": "【2】スタートアップ企業の創出・成長について",
+          "date_entered": "2021-12-08T11:43:42+00:00",
+          "date_modified": "2021-12-08T11:43:42+00:00",
+          "description": "日本でスタートアップ企業が創出され、成長していくためには、どのようなことが必要だと思いますか？\r\n\r\n【趣旨】\r\n政府では、スタートアップ企業の創出・成長に向けた取組の検討をしています。\r\nそこでぜひ、スタートアップ企業の創出・成長にあたって必要だと思うことがあれば教えていただけますでしょうか。 起業を考えている方やスタートアップ企業で働く当事者の方々のご意見もお待ちしております。\r\n\r\n【募集した意見の活用方法】\r\n「デジタル社会の実現に向けた重点計画」の改定において参考とさせていただきます。\r\n「デジタル社会の実現に向けた重点計画」とは、これから日本が目指すデジタル社会の姿を描き、実現のために必要な主な方策を取りまとめたもので、これからのデジタル関連施策を推進する上での「羅針盤」となるものです。重点計画に記載された各施策については、進捗状況や成果を定期的に確認するとともに、社会情勢の変化などに応じて、施策の追加や見直しを行っていきます。\r\n\r\n（デジタル庁ウェブサイト）\r\n<a href=\"https://www.digital.go.jp/policies/priority-policy-program/\" target=\"_blank\">デジタル社会の実現に向けた重点計画(リンク)</a>\r\n\r\n【募集期間】\r\n2022年4月15日（金）〜5月5日（木）",
+          "search_key": "creation_of_StartUp_companies",
+          "contents": null,
+          "date": "2022-04-14T00:00:00.000000Z",
+          "status": "on air",
+          "serial_number": 3,
+          "invisible": 0,
+          "open_until": null,
+          "i18n": null,
+          "idea_count": 20
+        }
+      },
+      "user": {
+        "id": "68e90ce8-d8cc-497a-a7fd-0902b0d40796",
+        "date_entered": "2022-04-22T01:11:30+00:00",
+        "date_modified": "2022-04-22T01:12:05+00:00",
+        "organization": null,
+        "department": null,
+        "position": null,
+        "primary_address_state": "34",
+        "user_icon_src": null,
+        "portal_name": "k-m",
+        "sex": "M",
+        "age_category": "40s",
+        "business_category": "D",
+        "job_evaluation": "management",
+        "website": null,
+        "profile": null,
+        "mail_cancelled": 0,
+        "role": null
+      }
+    },
+    {
+      "id": "b097676d-a4ac-44d8-8155-5032b5e0d950",
+      "name": "しゃべりはだれで...",
+      "date_entered": "2022-04-22T01:07:00+00:00",
+      "date_modified": "2022-04-22T01:07:00+00:00",
+      "contents": "しゃべりはだれでも努力なしに使えるインターフェイスです。一方、音声は時系列で一過性の情報なので、一時記憶に保持しにくいという欠点があります。そのため、フォーム入力などで複数の情報を入力するとき、音声のみではつらい。音声は、空間的な位置指定ができませんし、もう少し大きくとかいうアナログ情報の制御も苦手です。つまり、音声インターフェイスは視覚的・空間的なものと一緒になったデザインが必要です。\nそこを押さえたうえで、具体的に、だれでも使えるアプリのユーザインターフェイスを作り、普及させるのは、いろいろ大変です。例えば、現在のスマホアプリが高齢者にとっていかにダメダメか書きました。https://satoyoshiharu.github.io/senior_smartlife/UI-guidelines-for-Seniors.html　をご覧ください。\n政府がもっと入ってください。",
+      "serial_number": 1,
+      "parent_id": "fc0a77b0-1a5d-4bca-906b-cd19b3589003",
+      "rate_count": null,
+      "vote_count": null,
+      "vote_rate_avarage": "0.00",
+      "raw_contents": "しゃべりはだれでも努力なしに使えるインターフェイスです。一方、音声は時系列で一過性の情報なので、一時記憶に保持しにくいという欠点があります。そのため、フォーム入力などで複数の情報を入力するとき、音声のみではつらい。音声は、空間的な位置指定ができませんし、もう少し大きくとかいうアナログ情報の制御も苦手です。つまり、音声インターフェイスは視覚的・空間的なものと一緒になったデザインが必要です。\nそこを押さえたうえで、具体的に、だれでも使えるアプリのユーザインターフェイスを作り、普及させるのは、いろいろ大変です。例えば、現在のスマホアプリが高齢者にとっていかにダメダメか書きました。https://satoyoshiharu.github.io/senior_smartlife/UI-guidelines-for-Seniors.html　をご覧ください。\n政府がもっと入ってください。",
+      "parent": {
+        "id": "fc0a77b0-1a5d-4bca-906b-cd19b3589003",
+        "name": "音声インターフェースや文字インターフェースで完結するシステムの開発",
+        "date_entered": "2022-04-21T14:55:05+00:00",
+        "date_modified": "2022-04-22T01:07:01+00:00",
+        "webtopic_number": "00066",
+        "contents": "すべてを言語インターフェースによって行政要求ができるシステムの構築が必要。\n\nなぜデジタル技術に取り残される人が出るのか?\nそれはうまく使っている人と比べ自分がいかに劣っているかを思い知らされているからである。そんな惨めな姿を人に見せたくないということだ。\n\nデジタル技術を使っている人からしてみればそんな事は思ってはいないのだが、使えない人はそう思ってしまうものなのだ。\nそのため、デジタル技術は使わない、触れないという選択をして封印してしまうそれが使えない人である。\n\nつまりそういう人たちをデジタル技術に近づけなければいけない。\n\nそのためには、すべてを音声インターフェースで完結するシステムを作る必要がある。\n\nすべて音声で対応できるのなら、デジタル技術に不慣れなものであっても何とか対応できるだろう。\n\nまた音声だけではなく文字による会話形式のインターフェイスも使えればなお良い。加齢による聴力の衰えは文字を読解できれば衰えを隠せるからだ。\n\n今の技術であればそれほど難しいことではなかろう。もちろん行政サービスの登録などはできないだろうが、情報の問い合わせなどは可能だろう。\n\nそういうことから始めるのが取りこぼさない社会なんだろう。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 1,
+        "positive_count": 1,
+        "neutral_count": 0,
+        "negative_count": 0,
+        "vote_count": 1,
+        "positive_perc": 100,
+        "neutral_perc": 0,
+        "negative_perc": 0,
+        "point": 1,
+        "rank": 0,
+        "contact_id": "309a828b-01db-4eab-9714-ca56a6c42bc8",
+        "topic_type": "idea",
+        "first_vote_user_name": "vecrider",
+        "second_vote_user_name": null,
+        "first_vote_user_id": "309a828b-01db-4eab-9714-ca56a6c42bc8",
+        "second_vote_user_id": null,
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "すべてを言語インターフェースによって行政要求ができるシステムの構築が必要。\n\nなぜデジタル技術に取り残される人が出るのか?\nそれはうまく使っている人と比べ自分がいかに劣っているかを思い知らされているからである。そんな惨めな姿を人に見せたくないということだ。\n\nデジタル技術を使っている人からしてみればそんな事は思ってはいないのだが、使えない人はそう思ってしまうものなのだ。\nそのため、デジタル技術は使わない、触れないという選択をして封印してしまうそれが使えない人である。\n\nつまりそういう人たちをデジタル技術に近づけなければいけない。\n\nそのためには、すべてを音声インターフェースで完結するシステムを作る必要がある。\n\nすべて音声で対応できるのなら、デジタル技術に不慣れなものであっても何とか対応できるだろう。\n\nまた音声だけではなく文字による会話形式のインターフェイスも使えればなお良い。加齢による聴力の衰えは文字を読解できれば衰えを隠せるからだ。\n\n今の技術であればそれほど難しいことではなかろう。もちろん行政サービスの登録などはできないだろうが、情報の問い合わせなどは可能だろう。\n\nそういうことから始めるのが取りこぼさない社会なんだろう。"
+      },
+      "my_vote": null,
+      "comments": [],
+      "idea": {
+        "id": "fc0a77b0-1a5d-4bca-906b-cd19b3589003",
+        "name": "音声インターフェースや文字インターフェースで完結するシステムの開発",
+        "date_entered": "2022-04-21T14:55:05+00:00",
+        "date_modified": "2022-04-22T01:07:01+00:00",
+        "webtopic_number": "00066",
+        "contents": "すべてを言語インターフェースによって行政要求ができるシステムの構築が必要。\n\nなぜデジタル技術に取り残される人が出るのか?\nそれはうまく使っている人と比べ自分がいかに劣っているかを思い知らされているからである。そんな惨めな姿を人に見せたくないということだ。\n\nデジタル技術を使っている人からしてみればそんな事は思ってはいないのだが、使えない人はそう思ってしまうものなのだ。\nそのため、デジタル技術は使わない、触れないという選択をして封印してしまうそれが使えない人である。\n\nつまりそういう人たちをデジタル技術に近づけなければいけない。\n\nそのためには、すべてを音声インターフェースで完結するシステムを作る必要がある。\n\nすべて音声で対応できるのなら、デジタル技術に不慣れなものであっても何とか対応できるだろう。\n\nまた音声だけではなく文字による会話形式のインターフェイスも使えればなお良い。加齢による聴力の衰えは文字を読解できれば衰えを隠せるからだ。\n\n今の技術であればそれほど難しいことではなかろう。もちろん行政サービスの登録などはできないだろうが、情報の問い合わせなどは可能だろう。\n\nそういうことから始めるのが取りこぼさない社会なんだろう。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 1,
+        "positive_count": 1,
+        "neutral_count": 0,
+        "negative_count": 0,
+        "vote_count": 1,
+        "positive_perc": 100,
+        "neutral_perc": 0,
+        "negative_perc": 0,
+        "point": 1,
+        "rank": 0,
+        "contact_id": "309a828b-01db-4eab-9714-ca56a6c42bc8",
+        "topic_type": "idea",
+        "first_vote_user_name": "vecrider",
+        "second_vote_user_name": null,
+        "first_vote_user_id": "309a828b-01db-4eab-9714-ca56a6c42bc8",
+        "second_vote_user_id": null,
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "すべてを言語インターフェースによって行政要求ができるシステムの構築が必要。\n\nなぜデジタル技術に取り残される人が出るのか?\nそれはうまく使っている人と比べ自分がいかに劣っているかを思い知らされているからである。そんな惨めな姿を人に見せたくないということだ。\n\nデジタル技術を使っている人からしてみればそんな事は思ってはいないのだが、使えない人はそう思ってしまうものなのだ。\nそのため、デジタル技術は使わない、触れないという選択をして封印してしまうそれが使えない人である。\n\nつまりそういう人たちをデジタル技術に近づけなければいけない。\n\nそのためには、すべてを音声インターフェースで完結するシステムを作る必要がある。\n\nすべて音声で対応できるのなら、デジタル技術に不慣れなものであっても何とか対応できるだろう。\n\nまた音声だけではなく文字による会話形式のインターフェイスも使えればなお良い。加齢による聴力の衰えは文字を読解できれば衰えを隠せるからだ。\n\n今の技術であればそれほど難しいことではなかろう。もちろん行政サービスの登録などはできないだろうが、情報の問い合わせなどは可能だろう。\n\nそういうことから始めるのが取りこぼさない社会なんだろう。",
+        "category": {
+          "id": "0c48b214-b62c-11ec-afb0-0af759402a3f",
+          "name": "【1】誰一人取り残されないデジタル社会の実現について",
+          "date_entered": "2021-12-08T11:43:42+00:00",
+          "date_modified": "2021-12-08T11:43:42+00:00",
+          "description": "「誰一人取り残されないデジタル社会」の実現に向けて、どのようなことを期待しますか？\r\n\r\n【趣旨】\r\n政府では、誰一人取り残されないデジタル社会の実現に向けて、高齢者や障害者がデジタルを活用できるようにする環境整備を進めるなど、様々な施策を検討・実施しています。\r\n\r\nそこでぜひ、国民のみなさまからも「誰一人取り残されないデジタル社会」の実現に向けて期待する取組についてご意見をお寄せいただけますでしょうか。\r\n\r\n【募集した意見の活用方法】\r\n「デジタル社会の実現に向けた重点計画」の改定において参考とさせていただきます。\r\n「デジタル社会の実現に向けた重点計画」とは、これから日本が目指すデジタル社会の姿を描き、実現のために必要な主な方策を取りまとめたもので、これからのデジタル関連施策を推進する上での「羅針盤」となるものです。重点計画に記載された各施策については、進捗状況や成果を定期的に確認するとともに、社会情勢の変化などに応じて、施策の追加や見直しを行っていきます。\r\n\r\n（デジタル庁ウェブサイト）\r\n<a href=\"https://www.digital.go.jp/policies/priority-policy-program/\" target=\"_blank\">デジタル社会の実現に向けた重点計画(リンク)</a>\r\n\r\n【募集期間】\r\n2022年4月15日（金）〜5月5日（木）",
+          "search_key": "NoOneLeftBehind",
+          "contents": null,
+          "date": "2022-04-14T00:00:00.000000Z",
+          "status": "on air",
+          "serial_number": 1,
+          "invisible": 0,
+          "open_until": null,
+          "i18n": null,
+          "idea_count": 42
+        }
+      },
+      "user": {
+        "id": "54419912-f9dc-49b5-815e-6ef7c46e68a8",
+        "date_entered": "2022-04-22T00:53:28+00:00",
+        "date_modified": "2022-04-22T00:53:28+00:00",
+        "organization": "",
+        "department": "",
+        "position": "",
+        "primary_address_state": null,
+        "user_icon_src": "",
+        "portal_name": "yoshiharusato",
+        "sex": "U",
+        "age_category": "undefined",
+        "business_category": "U",
+        "job_evaluation": "U",
+        "website": null,
+        "profile": null,
+        "mail_cancelled": 0,
+        "role": ""
+      }
+    },
+    {
+      "id": "9b5f50ec-29f9-4d61-91d2-ef524988a2ce",
+      "name": "たしか、あるYouTu...",
+      "date_entered": "2022-04-22T00:53:32+00:00",
+      "date_modified": "2022-04-22T00:53:32+00:00",
+      "contents": "たしか、あるYouTube対談で平井大臣がデジタル化にするメリットとして、数字で管理することで、事務処理をする人にとっての負担軽減になる（解釈の仕方が多数ある苗字やフリガナや、実際に名乗っている人さえ戸籍に書いてある字と違う字で認識していることもあるなどから）とおっしゃっておられた気がします。\nでも、数字管理とは別に登録前段階での問題があるのですね。",
+      "serial_number": 2,
+      "parent_id": "56f462de-885e-4cbe-8ade-992214b76830",
+      "rate_count": null,
+      "vote_count": null,
+      "vote_rate_avarage": "0.00",
+      "raw_contents": "たしか、あるYouTube対談で平井大臣がデジタル化にするメリットとして、数字で管理することで、事務処理をする人にとっての負担軽減になる（解釈の仕方が多数ある苗字やフリガナや、実際に名乗っている人さえ戸籍に書いてある字と違う字で認識していることもあるなどから）とおっしゃっておられた気がします。\nでも、数字管理とは別に登録前段階での問題があるのですね。",
+      "parent": {
+        "id": "56f462de-885e-4cbe-8ade-992214b76830",
+        "name": "システム組む前にやるべき事が有る",
+        "date_entered": "2022-04-22T00:06:41+00:00",
+        "date_modified": "2022-04-22T12:33:47+00:00",
+        "webtopic_number": "00071",
+        "contents": "デジタル化は一か0か明確にして処理する事。曖昧なものはデジタル化出来ません。曖昧な物を洗い出し、事前に既存のルールを見直さないと、せっかくのデジタル化も使えないものになってしまいます。例えば旧姓利用。日本では、旧姓はただのニックネームで、法的に認められていません。婚姻後、苗字の二つ併記や夫婦別姓使用を法的に認めないと、氏名一つデジタル化できません。他にもこんな例は沢山あるはず。事前の準備がないとシステム化できません。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 3,
+        "positive_count": 4,
+        "neutral_count": 1,
+        "negative_count": 1,
+        "vote_count": 6,
+        "positive_perc": 67,
+        "neutral_perc": 17,
+        "negative_perc": 16,
+        "point": 3,
+        "rank": 0,
+        "contact_id": "e17b064f-fd3f-4478-879e-f80fe79a85da",
+        "topic_type": "idea",
+        "first_vote_user_name": "みゆう",
+        "second_vote_user_name": "ぽんぽこ狸ちょい悪オヤジ",
+        "first_vote_user_id": "bd43c955-7eb5-4e95-a5df-5906af61f8d0",
+        "second_vote_user_id": "23bce437-e681-4c24-b044-835f26729298",
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "デジタル化は一か0か明確にして処理する事。曖昧なものはデジタル化出来ません。曖昧な物を洗い出し、事前に既存のルールを見直さないと、せっかくのデジタル化も使えないものになってしまいます。例えば旧姓利用。日本では、旧姓はただのニックネームで、法的に認められていません。婚姻後、苗字の二つ併記や夫婦別姓使用を法的に認めないと、氏名一つデジタル化できません。他にもこんな例は沢山あるはず。事前の準備がないとシステム化できません。"
+      },
+      "my_vote": null,
+      "comments": [],
+      "idea": {
+        "id": "56f462de-885e-4cbe-8ade-992214b76830",
+        "name": "システム組む前にやるべき事が有る",
+        "date_entered": "2022-04-22T00:06:41+00:00",
+        "date_modified": "2022-04-22T12:33:47+00:00",
+        "webtopic_number": "00071",
+        "contents": "デジタル化は一か0か明確にして処理する事。曖昧なものはデジタル化出来ません。曖昧な物を洗い出し、事前に既存のルールを見直さないと、せっかくのデジタル化も使えないものになってしまいます。例えば旧姓利用。日本では、旧姓はただのニックネームで、法的に認められていません。婚姻後、苗字の二つ併記や夫婦別姓使用を法的に認めないと、氏名一つデジタル化できません。他にもこんな例は沢山あるはず。事前の準備がないとシステム化できません。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 3,
+        "positive_count": 4,
+        "neutral_count": 1,
+        "negative_count": 1,
+        "vote_count": 6,
+        "positive_perc": 67,
+        "neutral_perc": 17,
+        "negative_perc": 16,
+        "point": 3,
+        "rank": 0,
+        "contact_id": "e17b064f-fd3f-4478-879e-f80fe79a85da",
+        "topic_type": "idea",
+        "first_vote_user_name": "みゆう",
+        "second_vote_user_name": "ぽんぽこ狸ちょい悪オヤジ",
+        "first_vote_user_id": "bd43c955-7eb5-4e95-a5df-5906af61f8d0",
+        "second_vote_user_id": "23bce437-e681-4c24-b044-835f26729298",
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "デジタル化は一か0か明確にして処理する事。曖昧なものはデジタル化出来ません。曖昧な物を洗い出し、事前に既存のルールを見直さないと、せっかくのデジタル化も使えないものになってしまいます。例えば旧姓利用。日本では、旧姓はただのニックネームで、法的に認められていません。婚姻後、苗字の二つ併記や夫婦別姓使用を法的に認めないと、氏名一つデジタル化できません。他にもこんな例は沢山あるはず。事前の準備がないとシステム化できません。",
+        "category": {
+          "id": "0c48b214-b62c-11ec-afb0-0af759402a3f",
+          "name": "【1】誰一人取り残されないデジタル社会の実現について",
+          "date_entered": "2021-12-08T11:43:42+00:00",
+          "date_modified": "2021-12-08T11:43:42+00:00",
+          "description": "「誰一人取り残されないデジタル社会」の実現に向けて、どのようなことを期待しますか？\r\n\r\n【趣旨】\r\n政府では、誰一人取り残されないデジタル社会の実現に向けて、高齢者や障害者がデジタルを活用できるようにする環境整備を進めるなど、様々な施策を検討・実施しています。\r\n\r\nそこでぜひ、国民のみなさまからも「誰一人取り残されないデジタル社会」の実現に向けて期待する取組についてご意見をお寄せいただけますでしょうか。\r\n\r\n【募集した意見の活用方法】\r\n「デジタル社会の実現に向けた重点計画」の改定において参考とさせていただきます。\r\n「デジタル社会の実現に向けた重点計画」とは、これから日本が目指すデジタル社会の姿を描き、実現のために必要な主な方策を取りまとめたもので、これからのデジタル関連施策を推進する上での「羅針盤」となるものです。重点計画に記載された各施策については、進捗状況や成果を定期的に確認するとともに、社会情勢の変化などに応じて、施策の追加や見直しを行っていきます。\r\n\r\n（デジタル庁ウェブサイト）\r\n<a href=\"https://www.digital.go.jp/policies/priority-policy-program/\" target=\"_blank\">デジタル社会の実現に向けた重点計画(リンク)</a>\r\n\r\n【募集期間】\r\n2022年4月15日（金）〜5月5日（木）",
+          "search_key": "NoOneLeftBehind",
+          "contents": null,
+          "date": "2022-04-14T00:00:00.000000Z",
+          "status": "on air",
+          "serial_number": 1,
+          "invisible": 0,
+          "open_until": null,
+          "i18n": null,
+          "idea_count": 42
+        }
+      },
+      "user": {
+        "id": "b300541a-1463-46da-a2fa-431fd1b954b9",
+        "date_entered": "2022-04-19T01:40:29+00:00",
+        "date_modified": "2022-04-19T12:52:10+00:00",
+        "organization": "",
+        "department": "",
+        "position": "",
+        "primary_address_state": "24",
+        "user_icon_src": "",
+        "portal_name": "イデアーヌ",
+        "sex": "F",
+        "age_category": "40s",
+        "business_category": "U",
+        "job_evaluation": "U",
+        "website": null,
+        "profile": "よろしくお願いします！",
+        "mail_cancelled": 0,
+        "role": ""
+      }
+    },
+    {
+      "id": "9c9956a2-834f-4590-a292-88d0e5046b17",
+      "name": "システムを組む前...",
+      "date_entered": "2022-04-22T00:50:34+00:00",
+      "date_modified": "2022-04-22T00:53:46+00:00",
+      "contents": "システムを組む前にやる事があるのはいいんですが、\n何をやるべきなのか明確にしないと、デジタル庁も対応できないのでは？\n\nやらないといけないことがたくさんあるという曖昧な事を根拠に\nとりあえずデジタル化反対といわれてもデジタル庁も困るのでは？\n\n『婚姻後、苗字の二つ併記や夫婦別姓使用を法的に認めないと、氏名一つデジタル化できません』\nというのも、デジタル化しなければいいだけでは？",
+      "serial_number": 1,
+      "parent_id": "56f462de-885e-4cbe-8ade-992214b76830",
+      "rate_count": null,
+      "vote_count": null,
+      "vote_rate_avarage": "0.00",
+      "raw_contents": "システムを組む前にやる事があるのはいいんですが、\n何をやるべきなのか明確にしないと、デジタル庁も対応できないのでは？\n\nやらないといけないことがたくさんあるという曖昧な事を根拠に\nとりあえずデジタル化反対といわれてもデジタル庁も困るのでは？\n\n『婚姻後、苗字の二つ併記や夫婦別姓使用を法的に認めないと、氏名一つデジタル化できません』\nというのも、デジタル化しなければいいだけでは？",
+      "parent": {
+        "id": "56f462de-885e-4cbe-8ade-992214b76830",
+        "name": "システム組む前にやるべき事が有る",
+        "date_entered": "2022-04-22T00:06:41+00:00",
+        "date_modified": "2022-04-22T12:33:47+00:00",
+        "webtopic_number": "00071",
+        "contents": "デジタル化は一か0か明確にして処理する事。曖昧なものはデジタル化出来ません。曖昧な物を洗い出し、事前に既存のルールを見直さないと、せっかくのデジタル化も使えないものになってしまいます。例えば旧姓利用。日本では、旧姓はただのニックネームで、法的に認められていません。婚姻後、苗字の二つ併記や夫婦別姓使用を法的に認めないと、氏名一つデジタル化できません。他にもこんな例は沢山あるはず。事前の準備がないとシステム化できません。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 3,
+        "positive_count": 4,
+        "neutral_count": 1,
+        "negative_count": 1,
+        "vote_count": 6,
+        "positive_perc": 67,
+        "neutral_perc": 17,
+        "negative_perc": 16,
+        "point": 3,
+        "rank": 0,
+        "contact_id": "e17b064f-fd3f-4478-879e-f80fe79a85da",
+        "topic_type": "idea",
+        "first_vote_user_name": "みゆう",
+        "second_vote_user_name": "ぽんぽこ狸ちょい悪オヤジ",
+        "first_vote_user_id": "bd43c955-7eb5-4e95-a5df-5906af61f8d0",
+        "second_vote_user_id": "23bce437-e681-4c24-b044-835f26729298",
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "デジタル化は一か0か明確にして処理する事。曖昧なものはデジタル化出来ません。曖昧な物を洗い出し、事前に既存のルールを見直さないと、せっかくのデジタル化も使えないものになってしまいます。例えば旧姓利用。日本では、旧姓はただのニックネームで、法的に認められていません。婚姻後、苗字の二つ併記や夫婦別姓使用を法的に認めないと、氏名一つデジタル化できません。他にもこんな例は沢山あるはず。事前の準備がないとシステム化できません。"
+      },
+      "my_vote": null,
+      "comments": [],
+      "idea": {
+        "id": "56f462de-885e-4cbe-8ade-992214b76830",
+        "name": "システム組む前にやるべき事が有る",
+        "date_entered": "2022-04-22T00:06:41+00:00",
+        "date_modified": "2022-04-22T12:33:47+00:00",
+        "webtopic_number": "00071",
+        "contents": "デジタル化は一か0か明確にして処理する事。曖昧なものはデジタル化出来ません。曖昧な物を洗い出し、事前に既存のルールを見直さないと、せっかくのデジタル化も使えないものになってしまいます。例えば旧姓利用。日本では、旧姓はただのニックネームで、法的に認められていません。婚姻後、苗字の二つ併記や夫婦別姓使用を法的に認めないと、氏名一つデジタル化できません。他にもこんな例は沢山あるはず。事前の準備がないとシステム化できません。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 3,
+        "positive_count": 4,
+        "neutral_count": 1,
+        "negative_count": 1,
+        "vote_count": 6,
+        "positive_perc": 67,
+        "neutral_perc": 17,
+        "negative_perc": 16,
+        "point": 3,
+        "rank": 0,
+        "contact_id": "e17b064f-fd3f-4478-879e-f80fe79a85da",
+        "topic_type": "idea",
+        "first_vote_user_name": "みゆう",
+        "second_vote_user_name": "ぽんぽこ狸ちょい悪オヤジ",
+        "first_vote_user_id": "bd43c955-7eb5-4e95-a5df-5906af61f8d0",
+        "second_vote_user_id": "23bce437-e681-4c24-b044-835f26729298",
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "デジタル化は一か0か明確にして処理する事。曖昧なものはデジタル化出来ません。曖昧な物を洗い出し、事前に既存のルールを見直さないと、せっかくのデジタル化も使えないものになってしまいます。例えば旧姓利用。日本では、旧姓はただのニックネームで、法的に認められていません。婚姻後、苗字の二つ併記や夫婦別姓使用を法的に認めないと、氏名一つデジタル化できません。他にもこんな例は沢山あるはず。事前の準備がないとシステム化できません。",
+        "category": {
+          "id": "0c48b214-b62c-11ec-afb0-0af759402a3f",
+          "name": "【1】誰一人取り残されないデジタル社会の実現について",
+          "date_entered": "2021-12-08T11:43:42+00:00",
+          "date_modified": "2021-12-08T11:43:42+00:00",
+          "description": "「誰一人取り残されないデジタル社会」の実現に向けて、どのようなことを期待しますか？\r\n\r\n【趣旨】\r\n政府では、誰一人取り残されないデジタル社会の実現に向けて、高齢者や障害者がデジタルを活用できるようにする環境整備を進めるなど、様々な施策を検討・実施しています。\r\n\r\nそこでぜひ、国民のみなさまからも「誰一人取り残されないデジタル社会」の実現に向けて期待する取組についてご意見をお寄せいただけますでしょうか。\r\n\r\n【募集した意見の活用方法】\r\n「デジタル社会の実現に向けた重点計画」の改定において参考とさせていただきます。\r\n「デジタル社会の実現に向けた重点計画」とは、これから日本が目指すデジタル社会の姿を描き、実現のために必要な主な方策を取りまとめたもので、これからのデジタル関連施策を推進する上での「羅針盤」となるものです。重点計画に記載された各施策については、進捗状況や成果を定期的に確認するとともに、社会情勢の変化などに応じて、施策の追加や見直しを行っていきます。\r\n\r\n（デジタル庁ウェブサイト）\r\n<a href=\"https://www.digital.go.jp/policies/priority-policy-program/\" target=\"_blank\">デジタル社会の実現に向けた重点計画(リンク)</a>\r\n\r\n【募集期間】\r\n2022年4月15日（金）〜5月5日（木）",
+          "search_key": "NoOneLeftBehind",
+          "contents": null,
+          "date": "2022-04-14T00:00:00.000000Z",
+          "status": "on air",
+          "serial_number": 1,
+          "invisible": 0,
+          "open_until": null,
+          "i18n": null,
+          "idea_count": 42
+        }
+      },
+      "user": {
+        "id": "25e0aa8f-3109-45bf-9713-bcc84fe165e6",
+        "date_entered": "2022-04-17T07:43:05+00:00",
+        "date_modified": "2022-04-17T15:40:05+00:00",
+        "organization": "",
+        "department": "",
+        "position": "",
+        "primary_address_state": "13",
+        "user_icon_src": "",
+        "portal_name": "たかさん",
+        "sex": "M",
+        "age_category": "40s",
+        "business_category": "F",
+        "job_evaluation": "management",
+        "website": null,
+        "profile": null,
+        "mail_cancelled": 0,
+        "role": ""
+      }
+    },
+    {
+      "id": "b15e0185-b804-4ac2-b0f0-500e174b6ef6",
+      "name": "＜１＞について\nマ...",
+      "date_entered": "2022-04-21T23:53:50+00:00",
+      "date_modified": "2022-04-21T23:53:50+00:00",
+      "contents": "＜１＞について\nマイナンバーカードの中の機能とマイナンバー（個人番号）の理解が無い提案と思われます\nマイナンバーカードを利用して、個人認証用カード（社員証、職員証、学生証）に利用することは政府も進めています\nマイナンバーカードの中にある個人を証明する情報（本人確認情報）は、だれでも取り出せます\n（本人が暗証番号を入力する必要がありますが）\nパスワードが覚えられない方が、マイナンバーカードの中の情報を利用して認証に利用する提案のように見えますが、\n暗証番号が覚えられない壁は残ったままです\n＜２＞について\nマイナンバー（個人番号）は政府が管理する大規模データベースのインデックスキーの情報なので、民間が利用すべきではないです\n個人が個人番号を知る必要もないです\nマイナンバーカードに個人番号を記載することも反対です\n＜３＞については、業界寄生そのものでしょう\nシステム構築コスト、運用コストをどのようにだれが負担するかの問題だと思います",
+      "serial_number": 1,
+      "parent_id": "38d8b3ae-af73-48c7-88f8-2bc2d78eef4a",
+      "rate_count": null,
+      "vote_count": null,
+      "vote_rate_avarage": "0.00",
+      "raw_contents": "＜１＞について\nマイナンバーカードの中の機能とマイナンバー（個人番号）の理解が無い提案と思われます\nマイナンバーカードを利用して、個人認証用カード（社員証、職員証、学生証）に利用することは政府も進めています\nマイナンバーカードの中にある個人を証明する情報（本人確認情報）は、だれでも取り出せます\n（本人が暗証番号を入力する必要がありますが）\nパスワードが覚えられない方が、マイナンバーカードの中の情報を利用して認証に利用する提案のように見えますが、\n暗証番号が覚えられない壁は残ったままです\n＜２＞について\nマイナンバー（個人番号）は政府が管理する大規模データベースのインデックスキーの情報なので、民間が利用すべきではないです\n個人が個人番号を知る必要もないです\nマイナンバーカードに個人番号を記載することも反対です\n＜３＞については、業界寄生そのものでしょう\nシステム構築コスト、運用コストをどのようにだれが負担するかの問題だと思います",
+      "parent": {
+        "id": "38d8b3ae-af73-48c7-88f8-2bc2d78eef4a",
+        "name": "マイナンバーカードによるシングルサインオンの実現",
+        "date_entered": "2022-04-21T14:14:41+00:00",
+        "date_modified": "2022-04-22T04:24:08+00:00",
+        "webtopic_number": "00064",
+        "contents": "周囲のお年寄りの方を見ていると、パスワード管理をすごく大変そうにしています。\nかくゆう私もパスワードは使いまわしがちです。\nつきましては、公的サービス、民間サービスともにマイナンバーカードを用いて（オプトインで）本人確認できるようにすべきだと思います。そのために以下の３点を提案します。\n\n＜１＞EUのeIDAS2.0を参考にマイナンバーを民間企業が使いやすい枠組みを整備すること。\nマイナンバーカード利用拡大にもつながるでしょうし、将来的に国家主導の情報銀行や（各国が導入を検討している）CBDCの基礎とすることも可能です。ここで立ち遅れると前記分野において苦戦することは想像に難くありません。\n\n＜２＞厳格すぎるマイナンバー管理と厳罰を定めた「マイナンバーの取り扱いを定めた行政手続における特定の個人を識別するための番号の利用等に関する法律」（以下、個人番号法）は企業がマイナンバーを扱いやすいよう改正すること。個人情報保護の観点からそれができないと言うのならインドのIndia Stackのように情報の機密レベルごとのレイヤーを設けて対応すべきです。\n＜３＞J-LISの手数料は廃止すること。\n率先してマイナンバーeKYC導入した企業にコストを押し付ける構造がマイナンバー利用の障壁となっていることは明らかだからです。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 2,
+        "positive_count": 3,
+        "neutral_count": 0,
+        "negative_count": 0,
+        "vote_count": 3,
+        "positive_perc": 100,
+        "neutral_perc": 0,
+        "negative_perc": 0,
+        "point": 3,
+        "rank": 0,
+        "contact_id": "81de913e-cf5d-4a44-933d-3dedb5500f5e",
+        "topic_type": "idea",
+        "first_vote_user_name": "k-m",
+        "second_vote_user_name": "賢者と愚者の間",
+        "first_vote_user_id": "68e90ce8-d8cc-497a-a7fd-0902b0d40796",
+        "second_vote_user_id": "0733273f-018a-401f-bf9c-97011c27284d",
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "周囲のお年寄りの方を見ていると、パスワード管理をすごく大変そうにしています。\nかくゆう私もパスワードは使いまわしがちです。\nつきましては、公的サービス、民間サービスともにマイナンバーカードを用いて（オプトインで）本人確認できるようにすべきだと思います。そのために以下の３点を提案します。\n\n＜１＞EUのeIDAS2.0を参考にマイナンバーを民間企業が使いやすい枠組みを整備すること。\nマイナンバーカード利用拡大にもつながるでしょうし、将来的に国家主導の情報銀行や（各国が導入を検討している）CBDCの基礎とすることも可能です。ここで立ち遅れると前記分野において苦戦することは想像に難くありません。\n\n＜２＞厳格すぎるマイナンバー管理と厳罰を定めた「マイナンバーの取り扱いを定めた行政手続における特定の個人を識別するための番号の利用等に関する法律」（以下、個人番号法）は企業がマイナンバーを扱いやすいよう改正すること。個人情報保護の観点からそれができないと言うのならインドのIndia Stackのように情報の機密レベルごとのレイヤーを設けて対応すべきです。\n＜３＞J-LISの手数料は廃止すること。\n率先してマイナンバーeKYC導入した企業にコストを押し付ける構造がマイナンバー利用の障壁となっていることは明らかだからです。"
+      },
+      "my_vote": null,
+      "comments": [],
+      "idea": {
+        "id": "38d8b3ae-af73-48c7-88f8-2bc2d78eef4a",
+        "name": "マイナンバーカードによるシングルサインオンの実現",
+        "date_entered": "2022-04-21T14:14:41+00:00",
+        "date_modified": "2022-04-22T04:24:08+00:00",
+        "webtopic_number": "00064",
+        "contents": "周囲のお年寄りの方を見ていると、パスワード管理をすごく大変そうにしています。\nかくゆう私もパスワードは使いまわしがちです。\nつきましては、公的サービス、民間サービスともにマイナンバーカードを用いて（オプトインで）本人確認できるようにすべきだと思います。そのために以下の３点を提案します。\n\n＜１＞EUのeIDAS2.0を参考にマイナンバーを民間企業が使いやすい枠組みを整備すること。\nマイナンバーカード利用拡大にもつながるでしょうし、将来的に国家主導の情報銀行や（各国が導入を検討している）CBDCの基礎とすることも可能です。ここで立ち遅れると前記分野において苦戦することは想像に難くありません。\n\n＜２＞厳格すぎるマイナンバー管理と厳罰を定めた「マイナンバーの取り扱いを定めた行政手続における特定の個人を識別するための番号の利用等に関する法律」（以下、個人番号法）は企業がマイナンバーを扱いやすいよう改正すること。個人情報保護の観点からそれができないと言うのならインドのIndia Stackのように情報の機密レベルごとのレイヤーを設けて対応すべきです。\n＜３＞J-LISの手数料は廃止すること。\n率先してマイナンバーeKYC導入した企業にコストを押し付ける構造がマイナンバー利用の障壁となっていることは明らかだからです。",
+        "action_contents": null,
+        "category_deprecated": "undefined",
+        "comment_count": 2,
+        "positive_count": 3,
+        "neutral_count": 0,
+        "negative_count": 0,
+        "vote_count": 3,
+        "positive_perc": 100,
+        "neutral_perc": 0,
+        "negative_perc": 0,
+        "point": 3,
+        "rank": 0,
+        "contact_id": "81de913e-cf5d-4a44-933d-3dedb5500f5e",
+        "topic_type": "idea",
+        "first_vote_user_name": "k-m",
+        "second_vote_user_name": "賢者と愚者の間",
+        "first_vote_user_id": "68e90ce8-d8cc-497a-a7fd-0902b0d40796",
+        "second_vote_user_id": "0733273f-018a-401f-bf9c-97011c27284d",
+        "stepper": "",
+        "result": null,
+        "original_json": null,
+        "lang": null,
+        "media_url_https": null,
+        "place_country_code": null,
+        "place_full_name": null,
+        "latlon": null,
+        "raw_contents": "周囲のお年寄りの方を見ていると、パスワード管理をすごく大変そうにしています。\nかくゆう私もパスワードは使いまわしがちです。\nつきましては、公的サービス、民間サービスともにマイナンバーカードを用いて（オプトインで）本人確認できるようにすべきだと思います。そのために以下の３点を提案します。\n\n＜１＞EUのeIDAS2.0を参考にマイナンバーを民間企業が使いやすい枠組みを整備すること。\nマイナンバーカード利用拡大にもつながるでしょうし、将来的に国家主導の情報銀行や（各国が導入を検討している）CBDCの基礎とすることも可能です。ここで立ち遅れると前記分野において苦戦することは想像に難くありません。\n\n＜２＞厳格すぎるマイナンバー管理と厳罰を定めた「マイナンバーの取り扱いを定めた行政手続における特定の個人を識別するための番号の利用等に関する法律」（以下、個人番号法）は企業がマイナンバーを扱いやすいよう改正すること。個人情報保護の観点からそれができないと言うのならインドのIndia Stackのように情報の機密レベルごとのレイヤーを設けて対応すべきです。\n＜３＞J-LISの手数料は廃止すること。\n率先してマイナンバーeKYC導入した企業にコストを押し付ける構造がマイナンバー利用の障壁となっていることは明らかだからです。",
+        "category": {
+          "id": "0c48b214-b62c-11ec-afb0-0af759402a3f",
+          "name": "【1】誰一人取り残されないデジタル社会の実現について",
+          "date_entered": "2021-12-08T11:43:42+00:00",
+          "date_modified": "2021-12-08T11:43:42+00:00",
+          "description": "「誰一人取り残されないデジタル社会」の実現に向けて、どのようなことを期待しますか？\r\n\r\n【趣旨】\r\n政府では、誰一人取り残されないデジタル社会の実現に向けて、高齢者や障害者がデジタルを活用できるようにする環境整備を進めるなど、様々な施策を検討・実施しています。\r\n\r\nそこでぜひ、国民のみなさまからも「誰一人取り残されないデジタル社会」の実現に向けて期待する取組についてご意見をお寄せいただけますでしょうか。\r\n\r\n【募集した意見の活用方法】\r\n「デジタル社会の実現に向けた重点計画」の改定において参考とさせていただきます。\r\n「デジタル社会の実現に向けた重点計画」とは、これから日本が目指すデジタル社会の姿を描き、実現のために必要な主な方策を取りまとめたもので、これからのデジタル関連施策を推進する上での「羅針盤」となるものです。重点計画に記載された各施策については、進捗状況や成果を定期的に確認するとともに、社会情勢の変化などに応じて、施策の追加や見直しを行っていきます。\r\n\r\n（デジタル庁ウェブサイト）\r\n<a href=\"https://www.digital.go.jp/policies/priority-policy-program/\" target=\"_blank\">デジタル社会の実現に向けた重点計画(リンク)</a>\r\n\r\n【募集期間】\r\n2022年4月15日（金）〜5月5日（木）",
+          "search_key": "NoOneLeftBehind",
+          "contents": null,
+          "date": "2022-04-14T00:00:00.000000Z",
+          "status": "on air",
+          "serial_number": 1,
+          "invisible": 0,
+          "open_until": null,
+          "i18n": null,
+          "idea_count": 42
+        }
+      },
+      "user": {
+        "id": "5c200b49-367e-45b0-a3f7-3217e6d9bf6c",
+        "date_entered": "2022-04-20T07:03:56+00:00",
+        "date_modified": "2022-04-22T08:10:18+00:00",
+        "organization": "",
+        "department": "",
+        "position": "",
+        "primary_address_state": null,
+        "user_icon_src": "",
+        "portal_name": "a_a",
+        "sex": "U",
+        "age_category": "undefined",
+        "business_category": "U",
+        "job_evaluation": "U",
+        "website": null,
+        "profile": null,
+        "mail_cancelled": 1,
+        "role": ""
+      }
+    },
     {
       "id": "f1bc7575-49e6-4edd-9c4a-f89cca4562fa",
       "name": "「使い勝手の良い...",
@@ -108,7 +1428,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -228,7 +1548,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -348,7 +1668,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -468,7 +1788,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -588,7 +1908,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -708,7 +2028,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -828,7 +2148,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -867,27 +2187,27 @@
         "id": "bb04ff48-cf51-474a-888f-9c63223df567",
         "name": "有名無実の削減",
         "date_entered": "2022-04-21T07:25:41+00:00",
-        "date_modified": "2022-04-21T12:50:23+00:00",
+        "date_modified": "2022-04-22T06:30:30+00:00",
         "webtopic_number": "00056",
         "contents": "「誰一人取り残されなデジタル社会」という言葉自体、ナンセンスです。\nデジタル社会への改革にはある程度の犠牲が伴います。\n犠牲者を最小限にすることが行政の責務だと思います。\n先ず地方自治体のもとでスマートフォンやパソコンの講習会を無償で習得できるまで繰り返し行います。\n実施は小さな会場を基本としてデイサービスや個人の家までを考慮します。\n特に高齢者は、短期間の講習では身につかないと思われますので、期間を空けて繰り返しの講習が必要になります。\n必要な講師は若者と高齢者から雇用し、講習を受けた人からも適宜講師として選抜出来るようにします。\n受講者から講師を選抜すること\n「誰一人取り残されなデジタル社会」という言葉自体、ナンセンスです。\nデジタル社会への改革にはある程度の犠牲が伴います。\n犠牲者を最小限にすることが行政の責務だと思います。\n先ず地方自治体のもとでスマートフォンやパソコンの講習会を無償で習得できるまで繰り返し行う。\n実施は小さな会場を基本としてデイサービスや個人の家までを考慮する。\n特に高齢者は、短期間の講習では身につかないと思われるので期間を空けて繰り返しの講習が必要になります。\n必要な講師は最初に若者と高齢者から採用しその後は講習を受け技術を習得した人から適宜講師として選抜出来るようにします。\n受講者から講師を選抜するこことを「雪だるま作戦」と呼ぶことにします。\nこれは他人に教えることが学習の一番の近道と言う、先人の教えに基づいています。\nこの「雪だるま作戦」により習熟者が加速度的に増えていき、デジタル社会の基盤のもとが整うことになります。",
         "action_contents": null,
         "category_deprecated": "undefined",
         "comment_count": 3,
-        "positive_count": 3,
+        "positive_count": 4,
         "neutral_count": 1,
         "negative_count": 0,
-        "vote_count": 4,
-        "positive_perc": 75,
-        "neutral_perc": 25,
+        "vote_count": 5,
+        "positive_perc": 80,
+        "neutral_perc": 20,
         "negative_perc": 0,
-        "point": 3,
+        "point": 4,
         "rank": 0,
         "contact_id": "25c379fd-74a0-41fa-9c7f-0b2e70084a86",
         "topic_type": "idea",
-        "first_vote_user_name": "リンゴorange",
-        "second_vote_user_name": "からし",
-        "first_vote_user_id": "d437b231-ed88-4b38-831d-9d6f60d36da7",
-        "second_vote_user_id": "39e0fca4-c2b8-4e1f-ba53-051713c24a8e",
+        "first_vote_user_name": "tshoji",
+        "second_vote_user_name": "リンゴorange",
+        "first_vote_user_id": "97e6754f-2ce9-4f41-a61d-60b1fb59148f",
+        "second_vote_user_id": "d437b231-ed88-4b38-831d-9d6f60d36da7",
         "stepper": "",
         "result": null,
         "original_json": null,
@@ -904,27 +2224,27 @@
         "id": "bb04ff48-cf51-474a-888f-9c63223df567",
         "name": "有名無実の削減",
         "date_entered": "2022-04-21T07:25:41+00:00",
-        "date_modified": "2022-04-21T12:50:23+00:00",
+        "date_modified": "2022-04-22T06:30:30+00:00",
         "webtopic_number": "00056",
         "contents": "「誰一人取り残されなデジタル社会」という言葉自体、ナンセンスです。\nデジタル社会への改革にはある程度の犠牲が伴います。\n犠牲者を最小限にすることが行政の責務だと思います。\n先ず地方自治体のもとでスマートフォンやパソコンの講習会を無償で習得できるまで繰り返し行います。\n実施は小さな会場を基本としてデイサービスや個人の家までを考慮します。\n特に高齢者は、短期間の講習では身につかないと思われますので、期間を空けて繰り返しの講習が必要になります。\n必要な講師は若者と高齢者から雇用し、講習を受けた人からも適宜講師として選抜出来るようにします。\n受講者から講師を選抜すること\n「誰一人取り残されなデジタル社会」という言葉自体、ナンセンスです。\nデジタル社会への改革にはある程度の犠牲が伴います。\n犠牲者を最小限にすることが行政の責務だと思います。\n先ず地方自治体のもとでスマートフォンやパソコンの講習会を無償で習得できるまで繰り返し行う。\n実施は小さな会場を基本としてデイサービスや個人の家までを考慮する。\n特に高齢者は、短期間の講習では身につかないと思われるので期間を空けて繰り返しの講習が必要になります。\n必要な講師は最初に若者と高齢者から採用しその後は講習を受け技術を習得した人から適宜講師として選抜出来るようにします。\n受講者から講師を選抜するこことを「雪だるま作戦」と呼ぶことにします。\nこれは他人に教えることが学習の一番の近道と言う、先人の教えに基づいています。\nこの「雪だるま作戦」により習熟者が加速度的に増えていき、デジタル社会の基盤のもとが整うことになります。",
         "action_contents": null,
         "category_deprecated": "undefined",
         "comment_count": 3,
-        "positive_count": 3,
+        "positive_count": 4,
         "neutral_count": 1,
         "negative_count": 0,
-        "vote_count": 4,
-        "positive_perc": 75,
-        "neutral_perc": 25,
+        "vote_count": 5,
+        "positive_perc": 80,
+        "neutral_perc": 20,
         "negative_perc": 0,
-        "point": 3,
+        "point": 4,
         "rank": 0,
         "contact_id": "25c379fd-74a0-41fa-9c7f-0b2e70084a86",
         "topic_type": "idea",
-        "first_vote_user_name": "リンゴorange",
-        "second_vote_user_name": "からし",
-        "first_vote_user_id": "d437b231-ed88-4b38-831d-9d6f60d36da7",
-        "second_vote_user_id": "39e0fca4-c2b8-4e1f-ba53-051713c24a8e",
+        "first_vote_user_name": "tshoji",
+        "second_vote_user_name": "リンゴorange",
+        "first_vote_user_id": "97e6754f-2ce9-4f41-a61d-60b1fb59148f",
+        "second_vote_user_id": "d437b231-ed88-4b38-831d-9d6f60d36da7",
         "stepper": "",
         "result": null,
         "original_json": null,
@@ -948,7 +2268,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -987,27 +2307,27 @@
         "id": "77ab5346-205b-46ba-bcd0-29c044b2c65b",
         "name": "マイナンバーカードの価値を高めるためマイナポータル連携先を増やす",
         "date_entered": "2022-04-21T00:18:57+00:00",
-        "date_modified": "2022-04-21T12:04:42+00:00",
+        "date_modified": "2022-04-22T04:27:45+00:00",
         "webtopic_number": "00053",
         "contents": "ETCマイレージサービスや航空会社のマイルなどの民間のポイント・マイルサービスを順次マイナポータルで一元管理できるようにし、マイナンバーカードにETCカード/ETC車載器（複数可）、交通系ICカード（複数可）、デビットカード（最大1枚）、不動産登記または賃貸契約を紐付けて、マイナンバーカードが1枚あれば高速道路や鉄道を利用でき、デビット決済で買い物もできるようになれば、クレジットカードを持たない人ほどマイナンバーカードを作るメリットが増えます。すると、現金の主な用途はコインロッカー等の支払いになります。「鉄道・バス等の公共交通機関に乗らない」「高速道路を利用しない」「キャッシュレス決済を利用しない」といった選択の自由は残すものの、今後は、便利な都市生活＝デジタル社会と定義したほうがいいでしょう。カーディーラー、不動産会社なら、顧客サービスとして、分からない人に対して対面で丁寧にフォローしてくれると思います。",
         "action_contents": null,
         "category_deprecated": "undefined",
-        "comment_count": 1,
+        "comment_count": 2,
         "positive_count": 1,
-        "neutral_count": 1,
+        "neutral_count": 2,
         "negative_count": 0,
-        "vote_count": 2,
-        "positive_perc": 50,
-        "neutral_perc": 50,
+        "vote_count": 3,
+        "positive_perc": 33,
+        "neutral_perc": 67,
         "negative_perc": 0,
         "point": 1,
         "rank": 0,
         "contact_id": "c6bd5d1a-d011-41dd-a719-70badca03274",
         "topic_type": "idea",
-        "first_vote_user_name": "yukio",
-        "second_vote_user_name": "noname",
-        "first_vote_user_id": "aaac231a-83f2-4902-ac78-8dd1523f5b1e",
-        "second_vote_user_id": "c6bd5d1a-d011-41dd-a719-70badca03274",
+        "first_vote_user_name": "k-m",
+        "second_vote_user_name": "yukio",
+        "first_vote_user_id": "68e90ce8-d8cc-497a-a7fd-0902b0d40796",
+        "second_vote_user_id": "aaac231a-83f2-4902-ac78-8dd1523f5b1e",
         "stepper": "",
         "result": null,
         "original_json": null,
@@ -1024,27 +2344,27 @@
         "id": "77ab5346-205b-46ba-bcd0-29c044b2c65b",
         "name": "マイナンバーカードの価値を高めるためマイナポータル連携先を増やす",
         "date_entered": "2022-04-21T00:18:57+00:00",
-        "date_modified": "2022-04-21T12:04:42+00:00",
+        "date_modified": "2022-04-22T04:27:45+00:00",
         "webtopic_number": "00053",
         "contents": "ETCマイレージサービスや航空会社のマイルなどの民間のポイント・マイルサービスを順次マイナポータルで一元管理できるようにし、マイナンバーカードにETCカード/ETC車載器（複数可）、交通系ICカード（複数可）、デビットカード（最大1枚）、不動産登記または賃貸契約を紐付けて、マイナンバーカードが1枚あれば高速道路や鉄道を利用でき、デビット決済で買い物もできるようになれば、クレジットカードを持たない人ほどマイナンバーカードを作るメリットが増えます。すると、現金の主な用途はコインロッカー等の支払いになります。「鉄道・バス等の公共交通機関に乗らない」「高速道路を利用しない」「キャッシュレス決済を利用しない」といった選択の自由は残すものの、今後は、便利な都市生活＝デジタル社会と定義したほうがいいでしょう。カーディーラー、不動産会社なら、顧客サービスとして、分からない人に対して対面で丁寧にフォローしてくれると思います。",
         "action_contents": null,
         "category_deprecated": "undefined",
-        "comment_count": 1,
+        "comment_count": 2,
         "positive_count": 1,
-        "neutral_count": 1,
+        "neutral_count": 2,
         "negative_count": 0,
-        "vote_count": 2,
-        "positive_perc": 50,
-        "neutral_perc": 50,
+        "vote_count": 3,
+        "positive_perc": 33,
+        "neutral_perc": 67,
         "negative_perc": 0,
         "point": 1,
         "rank": 0,
         "contact_id": "c6bd5d1a-d011-41dd-a719-70badca03274",
         "topic_type": "idea",
-        "first_vote_user_name": "yukio",
-        "second_vote_user_name": "noname",
-        "first_vote_user_id": "aaac231a-83f2-4902-ac78-8dd1523f5b1e",
-        "second_vote_user_id": "c6bd5d1a-d011-41dd-a719-70badca03274",
+        "first_vote_user_name": "k-m",
+        "second_vote_user_name": "yukio",
+        "first_vote_user_id": "68e90ce8-d8cc-497a-a7fd-0902b0d40796",
+        "second_vote_user_id": "aaac231a-83f2-4902-ac78-8dd1523f5b1e",
         "stepper": "",
         "result": null,
         "original_json": null,
@@ -1068,7 +2388,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -1095,13 +2415,13 @@
       "id": "65b0b308-4af7-4cbe-a4f7-075651e58f9c",
       "name": "実現化出来たら同...",
       "date_entered": "2022-04-21T09:16:57+00:00",
-      "date_modified": "2022-04-21T09:16:57+00:00",
+      "date_modified": "2022-04-22T08:07:19+00:00",
       "contents": "実現化出来たら同伴介護者も結構手間なので一緒に登録できると便利ですね。",
       "serial_number": 3,
       "parent_id": "5e7814a1-4e5d-4750-95ea-03af94705e28",
-      "rate_count": null,
-      "vote_count": null,
-      "vote_rate_avarage": "0.00",
+      "rate_count": 4,
+      "vote_count": 1,
+      "vote_rate_avarage": "4.00",
       "raw_contents": "実現化出来たら同伴介護者も結構手間なので一緒に登録できると便利ですね。",
       "parent": {
         "id": "5e7814a1-4e5d-4750-95ea-03af94705e28",
@@ -1188,7 +2508,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -1356,7 +2676,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -1395,27 +2715,27 @@
         "id": "bb04ff48-cf51-474a-888f-9c63223df567",
         "name": "有名無実の削減",
         "date_entered": "2022-04-21T07:25:41+00:00",
-        "date_modified": "2022-04-21T12:50:23+00:00",
+        "date_modified": "2022-04-22T06:30:30+00:00",
         "webtopic_number": "00056",
         "contents": "「誰一人取り残されなデジタル社会」という言葉自体、ナンセンスです。\nデジタル社会への改革にはある程度の犠牲が伴います。\n犠牲者を最小限にすることが行政の責務だと思います。\n先ず地方自治体のもとでスマートフォンやパソコンの講習会を無償で習得できるまで繰り返し行います。\n実施は小さな会場を基本としてデイサービスや個人の家までを考慮します。\n特に高齢者は、短期間の講習では身につかないと思われますので、期間を空けて繰り返しの講習が必要になります。\n必要な講師は若者と高齢者から雇用し、講習を受けた人からも適宜講師として選抜出来るようにします。\n受講者から講師を選抜すること\n「誰一人取り残されなデジタル社会」という言葉自体、ナンセンスです。\nデジタル社会への改革にはある程度の犠牲が伴います。\n犠牲者を最小限にすることが行政の責務だと思います。\n先ず地方自治体のもとでスマートフォンやパソコンの講習会を無償で習得できるまで繰り返し行う。\n実施は小さな会場を基本としてデイサービスや個人の家までを考慮する。\n特に高齢者は、短期間の講習では身につかないと思われるので期間を空けて繰り返しの講習が必要になります。\n必要な講師は最初に若者と高齢者から採用しその後は講習を受け技術を習得した人から適宜講師として選抜出来るようにします。\n受講者から講師を選抜するこことを「雪だるま作戦」と呼ぶことにします。\nこれは他人に教えることが学習の一番の近道と言う、先人の教えに基づいています。\nこの「雪だるま作戦」により習熟者が加速度的に増えていき、デジタル社会の基盤のもとが整うことになります。",
         "action_contents": null,
         "category_deprecated": "undefined",
         "comment_count": 3,
-        "positive_count": 3,
+        "positive_count": 4,
         "neutral_count": 1,
         "negative_count": 0,
-        "vote_count": 4,
-        "positive_perc": 75,
-        "neutral_perc": 25,
+        "vote_count": 5,
+        "positive_perc": 80,
+        "neutral_perc": 20,
         "negative_perc": 0,
-        "point": 3,
+        "point": 4,
         "rank": 0,
         "contact_id": "25c379fd-74a0-41fa-9c7f-0b2e70084a86",
         "topic_type": "idea",
-        "first_vote_user_name": "リンゴorange",
-        "second_vote_user_name": "からし",
-        "first_vote_user_id": "d437b231-ed88-4b38-831d-9d6f60d36da7",
-        "second_vote_user_id": "39e0fca4-c2b8-4e1f-ba53-051713c24a8e",
+        "first_vote_user_name": "tshoji",
+        "second_vote_user_name": "リンゴorange",
+        "first_vote_user_id": "97e6754f-2ce9-4f41-a61d-60b1fb59148f",
+        "second_vote_user_id": "d437b231-ed88-4b38-831d-9d6f60d36da7",
         "stepper": "",
         "result": null,
         "original_json": null,
@@ -1432,27 +2752,27 @@
         "id": "bb04ff48-cf51-474a-888f-9c63223df567",
         "name": "有名無実の削減",
         "date_entered": "2022-04-21T07:25:41+00:00",
-        "date_modified": "2022-04-21T12:50:23+00:00",
+        "date_modified": "2022-04-22T06:30:30+00:00",
         "webtopic_number": "00056",
         "contents": "「誰一人取り残されなデジタル社会」という言葉自体、ナンセンスです。\nデジタル社会への改革にはある程度の犠牲が伴います。\n犠牲者を最小限にすることが行政の責務だと思います。\n先ず地方自治体のもとでスマートフォンやパソコンの講習会を無償で習得できるまで繰り返し行います。\n実施は小さな会場を基本としてデイサービスや個人の家までを考慮します。\n特に高齢者は、短期間の講習では身につかないと思われますので、期間を空けて繰り返しの講習が必要になります。\n必要な講師は若者と高齢者から雇用し、講習を受けた人からも適宜講師として選抜出来るようにします。\n受講者から講師を選抜すること\n「誰一人取り残されなデジタル社会」という言葉自体、ナンセンスです。\nデジタル社会への改革にはある程度の犠牲が伴います。\n犠牲者を最小限にすることが行政の責務だと思います。\n先ず地方自治体のもとでスマートフォンやパソコンの講習会を無償で習得できるまで繰り返し行う。\n実施は小さな会場を基本としてデイサービスや個人の家までを考慮する。\n特に高齢者は、短期間の講習では身につかないと思われるので期間を空けて繰り返しの講習が必要になります。\n必要な講師は最初に若者と高齢者から採用しその後は講習を受け技術を習得した人から適宜講師として選抜出来るようにします。\n受講者から講師を選抜するこことを「雪だるま作戦」と呼ぶことにします。\nこれは他人に教えることが学習の一番の近道と言う、先人の教えに基づいています。\nこの「雪だるま作戦」により習熟者が加速度的に増えていき、デジタル社会の基盤のもとが整うことになります。",
         "action_contents": null,
         "category_deprecated": "undefined",
         "comment_count": 3,
-        "positive_count": 3,
+        "positive_count": 4,
         "neutral_count": 1,
         "negative_count": 0,
-        "vote_count": 4,
-        "positive_perc": 75,
-        "neutral_perc": 25,
+        "vote_count": 5,
+        "positive_perc": 80,
+        "neutral_perc": 20,
         "negative_perc": 0,
-        "point": 3,
+        "point": 4,
         "rank": 0,
         "contact_id": "25c379fd-74a0-41fa-9c7f-0b2e70084a86",
         "topic_type": "idea",
-        "first_vote_user_name": "リンゴorange",
-        "second_vote_user_name": "からし",
-        "first_vote_user_id": "d437b231-ed88-4b38-831d-9d6f60d36da7",
-        "second_vote_user_id": "39e0fca4-c2b8-4e1f-ba53-051713c24a8e",
+        "first_vote_user_name": "tshoji",
+        "second_vote_user_name": "リンゴorange",
+        "first_vote_user_id": "97e6754f-2ce9-4f41-a61d-60b1fb59148f",
+        "second_vote_user_id": "d437b231-ed88-4b38-831d-9d6f60d36da7",
         "stepper": "",
         "result": null,
         "original_json": null,
@@ -1476,7 +2796,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -1596,7 +2916,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -1764,7 +3084,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -1791,13 +3111,13 @@
       "id": "d1e845e3-433c-47fb-960c-66a42f8b4013",
       "name": "そういうことでし...",
       "date_entered": "2022-04-21T08:13:12+00:00",
-      "date_modified": "2022-04-21T09:30:57+00:00",
+      "date_modified": "2022-04-22T08:07:22+00:00",
       "contents": "そういうことでしたか。こちらこそ、そのような制度があることを知らず、大変失礼しました。",
       "serial_number": 1,
       "parent_id": "3bea8ea9-2e7a-4be8-9159-a80d817e710e",
-      "rate_count": 5,
-      "vote_count": 1,
-      "vote_rate_avarage": "5.00",
+      "rate_count": 9,
+      "vote_count": 2,
+      "vote_rate_avarage": "4.50",
       "raw_contents": "そういうことでしたか。こちらこそ、そのような制度があることを知らず、大変失礼しました。",
       "parent": {
         "id": "3bea8ea9-2e7a-4be8-9159-a80d817e710e",
@@ -1932,7 +3252,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -1971,27 +3291,27 @@
         "id": "bb04ff48-cf51-474a-888f-9c63223df567",
         "name": "有名無実の削減",
         "date_entered": "2022-04-21T07:25:41+00:00",
-        "date_modified": "2022-04-21T12:50:23+00:00",
+        "date_modified": "2022-04-22T06:30:30+00:00",
         "webtopic_number": "00056",
         "contents": "「誰一人取り残されなデジタル社会」という言葉自体、ナンセンスです。\nデジタル社会への改革にはある程度の犠牲が伴います。\n犠牲者を最小限にすることが行政の責務だと思います。\n先ず地方自治体のもとでスマートフォンやパソコンの講習会を無償で習得できるまで繰り返し行います。\n実施は小さな会場を基本としてデイサービスや個人の家までを考慮します。\n特に高齢者は、短期間の講習では身につかないと思われますので、期間を空けて繰り返しの講習が必要になります。\n必要な講師は若者と高齢者から雇用し、講習を受けた人からも適宜講師として選抜出来るようにします。\n受講者から講師を選抜すること\n「誰一人取り残されなデジタル社会」という言葉自体、ナンセンスです。\nデジタル社会への改革にはある程度の犠牲が伴います。\n犠牲者を最小限にすることが行政の責務だと思います。\n先ず地方自治体のもとでスマートフォンやパソコンの講習会を無償で習得できるまで繰り返し行う。\n実施は小さな会場を基本としてデイサービスや個人の家までを考慮する。\n特に高齢者は、短期間の講習では身につかないと思われるので期間を空けて繰り返しの講習が必要になります。\n必要な講師は最初に若者と高齢者から採用しその後は講習を受け技術を習得した人から適宜講師として選抜出来るようにします。\n受講者から講師を選抜するこことを「雪だるま作戦」と呼ぶことにします。\nこれは他人に教えることが学習の一番の近道と言う、先人の教えに基づいています。\nこの「雪だるま作戦」により習熟者が加速度的に増えていき、デジタル社会の基盤のもとが整うことになります。",
         "action_contents": null,
         "category_deprecated": "undefined",
         "comment_count": 3,
-        "positive_count": 3,
+        "positive_count": 4,
         "neutral_count": 1,
         "negative_count": 0,
-        "vote_count": 4,
-        "positive_perc": 75,
-        "neutral_perc": 25,
+        "vote_count": 5,
+        "positive_perc": 80,
+        "neutral_perc": 20,
         "negative_perc": 0,
-        "point": 3,
+        "point": 4,
         "rank": 0,
         "contact_id": "25c379fd-74a0-41fa-9c7f-0b2e70084a86",
         "topic_type": "idea",
-        "first_vote_user_name": "リンゴorange",
-        "second_vote_user_name": "からし",
-        "first_vote_user_id": "d437b231-ed88-4b38-831d-9d6f60d36da7",
-        "second_vote_user_id": "39e0fca4-c2b8-4e1f-ba53-051713c24a8e",
+        "first_vote_user_name": "tshoji",
+        "second_vote_user_name": "リンゴorange",
+        "first_vote_user_id": "97e6754f-2ce9-4f41-a61d-60b1fb59148f",
+        "second_vote_user_id": "d437b231-ed88-4b38-831d-9d6f60d36da7",
         "stepper": "",
         "result": null,
         "original_json": null,
@@ -2008,27 +3328,27 @@
         "id": "bb04ff48-cf51-474a-888f-9c63223df567",
         "name": "有名無実の削減",
         "date_entered": "2022-04-21T07:25:41+00:00",
-        "date_modified": "2022-04-21T12:50:23+00:00",
+        "date_modified": "2022-04-22T06:30:30+00:00",
         "webtopic_number": "00056",
         "contents": "「誰一人取り残されなデジタル社会」という言葉自体、ナンセンスです。\nデジタル社会への改革にはある程度の犠牲が伴います。\n犠牲者を最小限にすることが行政の責務だと思います。\n先ず地方自治体のもとでスマートフォンやパソコンの講習会を無償で習得できるまで繰り返し行います。\n実施は小さな会場を基本としてデイサービスや個人の家までを考慮します。\n特に高齢者は、短期間の講習では身につかないと思われますので、期間を空けて繰り返しの講習が必要になります。\n必要な講師は若者と高齢者から雇用し、講習を受けた人からも適宜講師として選抜出来るようにします。\n受講者から講師を選抜すること\n「誰一人取り残されなデジタル社会」という言葉自体、ナンセンスです。\nデジタル社会への改革にはある程度の犠牲が伴います。\n犠牲者を最小限にすることが行政の責務だと思います。\n先ず地方自治体のもとでスマートフォンやパソコンの講習会を無償で習得できるまで繰り返し行う。\n実施は小さな会場を基本としてデイサービスや個人の家までを考慮する。\n特に高齢者は、短期間の講習では身につかないと思われるので期間を空けて繰り返しの講習が必要になります。\n必要な講師は最初に若者と高齢者から採用しその後は講習を受け技術を習得した人から適宜講師として選抜出来るようにします。\n受講者から講師を選抜するこことを「雪だるま作戦」と呼ぶことにします。\nこれは他人に教えることが学習の一番の近道と言う、先人の教えに基づいています。\nこの「雪だるま作戦」により習熟者が加速度的に増えていき、デジタル社会の基盤のもとが整うことになります。",
         "action_contents": null,
         "category_deprecated": "undefined",
         "comment_count": 3,
-        "positive_count": 3,
+        "positive_count": 4,
         "neutral_count": 1,
         "negative_count": 0,
-        "vote_count": 4,
-        "positive_perc": 75,
-        "neutral_perc": 25,
+        "vote_count": 5,
+        "positive_perc": 80,
+        "neutral_perc": 20,
         "negative_perc": 0,
-        "point": 3,
+        "point": 4,
         "rank": 0,
         "contact_id": "25c379fd-74a0-41fa-9c7f-0b2e70084a86",
         "topic_type": "idea",
-        "first_vote_user_name": "リンゴorange",
-        "second_vote_user_name": "からし",
-        "first_vote_user_id": "d437b231-ed88-4b38-831d-9d6f60d36da7",
-        "second_vote_user_id": "39e0fca4-c2b8-4e1f-ba53-051713c24a8e",
+        "first_vote_user_name": "tshoji",
+        "second_vote_user_name": "リンゴorange",
+        "first_vote_user_id": "97e6754f-2ce9-4f41-a61d-60b1fb59148f",
+        "second_vote_user_id": "d437b231-ed88-4b38-831d-9d6f60d36da7",
         "stepper": "",
         "result": null,
         "original_json": null,
@@ -2052,7 +3372,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -2220,7 +3540,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -2388,7 +3708,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -2556,7 +3876,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -2724,7 +4044,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -2892,7 +4212,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -3060,18 +4380,18 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
         "id": "46953f72-97ef-4e2e-852c-abdcdc15a201",
         "date_entered": "2022-04-20T23:33:45+00:00",
-        "date_modified": "2022-04-20T23:34:35+00:00",
-        "organization": null,
-        "department": null,
-        "position": null,
+        "date_modified": "2022-04-21T23:32:47+00:00",
+        "organization": "",
+        "department": "",
+        "position": "",
         "primary_address_state": "23",
-        "user_icon_src": null,
+        "user_icon_src": "",
         "portal_name": "takesy",
         "sex": "M",
         "age_category": "50s",
@@ -3080,7 +4400,7 @@
         "website": null,
         "profile": null,
         "mail_cancelled": 0,
-        "role": null
+        "role": ""
       }
     },
     {
@@ -3136,13 +4456,13 @@
           "id": "d1e845e3-433c-47fb-960c-66a42f8b4013",
           "name": "そういうことでし...",
           "date_entered": "2022-04-21T08:13:12+00:00",
-          "date_modified": "2022-04-21T09:30:57+00:00",
+          "date_modified": "2022-04-22T08:07:22+00:00",
           "contents": "そういうことでしたか。こちらこそ、そのような制度があることを知らず、大変失礼しました。",
           "serial_number": 1,
           "parent_id": "3bea8ea9-2e7a-4be8-9159-a80d817e710e",
-          "rate_count": 5,
-          "vote_count": 1,
-          "vote_rate_avarage": "5.00",
+          "rate_count": 9,
+          "vote_count": 2,
+          "vote_rate_avarage": "4.50",
           "raw_contents": "そういうことでしたか。こちらこそ、そのような制度があることを知らず、大変失礼しました。",
           "parent": {
             "id": "3bea8ea9-2e7a-4be8-9159-a80d817e710e",
@@ -3313,7 +4633,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -3481,7 +4801,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -3649,7 +4969,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -3817,7 +5137,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -3937,7 +5257,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -4190,7 +5510,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -4310,7 +5630,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -4478,7 +5798,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -4598,7 +5918,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -4766,7 +6086,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -5019,7 +6339,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -5187,7 +6507,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -5307,7 +6627,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -5427,7 +6747,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -5547,7 +6867,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -5800,7 +7120,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -5920,7 +7240,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -6088,7 +7408,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -6341,7 +7661,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -6461,7 +7781,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -6581,7 +7901,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -6749,7 +8069,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -6917,7 +8237,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -6956,12 +8276,12 @@
         "id": "23a159c2-8440-4f7f-8c1f-7f7fcfb59cca",
         "name": "全国自治体オープンデータAPIの共通化でスマートシティ化に",
         "date_entered": "2022-04-20T06:18:26+00:00",
-        "date_modified": "2022-04-21T01:53:29+00:00",
+        "date_modified": "2022-04-22T04:30:25+00:00",
         "webtopic_number": "00038",
         "contents": "各自治体HPはバラバラな仕組み、Excelデータもあれば、CSVファイルもあれば、中には推奨データセットを守られていないデータもあり、地域によってはオープンデータを整備されてない自治体も。全国をAPIとして横断検索できるようなデータ整備が民間にとっては必要。人口統計などは年一回更新ではあるが、これは一般的な住民は利用されない。一方「観光イベント」「道路工事日程」など、日々更新が必要な日程データが地域住民に活用されやすい。でもこれらのメンテは、担当部署職員の仕事量が増え優先度が低くなるためデジタル化が進まないのでは。地域住民が活用できるデータ整備されればスマートシティが前進する。",
         "action_contents": null,
         "category_deprecated": "undefined",
-        "comment_count": 1,
+        "comment_count": 2,
         "positive_count": 4,
         "neutral_count": 0,
         "negative_count": 0,
@@ -6993,12 +8313,12 @@
         "id": "23a159c2-8440-4f7f-8c1f-7f7fcfb59cca",
         "name": "全国自治体オープンデータAPIの共通化でスマートシティ化に",
         "date_entered": "2022-04-20T06:18:26+00:00",
-        "date_modified": "2022-04-21T01:53:29+00:00",
+        "date_modified": "2022-04-22T04:30:25+00:00",
         "webtopic_number": "00038",
         "contents": "各自治体HPはバラバラな仕組み、Excelデータもあれば、CSVファイルもあれば、中には推奨データセットを守られていないデータもあり、地域によってはオープンデータを整備されてない自治体も。全国をAPIとして横断検索できるようなデータ整備が民間にとっては必要。人口統計などは年一回更新ではあるが、これは一般的な住民は利用されない。一方「観光イベント」「道路工事日程」など、日々更新が必要な日程データが地域住民に活用されやすい。でもこれらのメンテは、担当部署職員の仕事量が増え優先度が低くなるためデジタル化が進まないのでは。地域住民が活用できるデータ整備されればスマートシティが前進する。",
         "action_contents": null,
         "category_deprecated": "undefined",
-        "comment_count": 1,
+        "comment_count": 2,
         "positive_count": 4,
         "neutral_count": 0,
         "negative_count": 0,
@@ -7037,7 +8357,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -7076,27 +8396,27 @@
         "id": "b6ab2135-2a79-4076-9bc8-7553652ea36a",
         "name": "マイナンバーカードの普及を100%にすることが、第一歩なのでは?",
         "date_entered": "2022-04-20T03:38:34+00:00",
-        "date_modified": "2022-04-20T13:15:18+00:00",
+        "date_modified": "2022-04-22T02:08:24+00:00",
         "webtopic_number": "00036",
         "contents": "「誰ひとり取り残されないデジタル社会」という条件を考えた時、一番に思い浮かんだのが「マイナンバーカード」でした。まずは、マイナンバーカードの普及を100％にする。そのために全力を尽くしてはいかがでしょうか。そうすればまず「誰ひとり取り残されない」というところがクリアされますので、そこからマイナンバーカードを使ったデジタル事業、社会のさまざまな手続きなどが「誰ひとり取り残されることなく」（マイナンバーカードのないひと、という取りこぼしなく）進めていけます。そうすれば、マイナンバーカードを活用したい事業、公的手続きが「マイナンバーカードある人」「ない人」の二重手間にならず、スムーズに行くことでしょう。\n逆に言えば、マイナンバーカードの保持率が100％でない現在、「誰ひとり取り残されないデジタル社会」を、一体どういう土台に作っていきたいのかが疑問です。ワクチン接種と同様に、出張サービスなどを各地に設けて、どんどん広め、ある程度のところで期限を区切って義務化すべきと思います。\nただ、先日マイナンバーカードがあるばかりに、転入手続きで、大変不便な経験をしました。そういったことは起こらないよう、システムの使いやすさ、様々な要件定義、セキュリティ強化は念には念を入れることが必須かと思います。「システムの使いやすさ」は、義務としてマイナンバーカードを保持する国民にとっての「使いやすさ」にするべきです。「システム構築者」「システム管理者」「システム利用者」ではなく、マイナンバー保持者を優先に、です。",
         "action_contents": null,
         "category_deprecated": "undefined",
         "comment_count": 2,
-        "positive_count": 2,
+        "positive_count": 3,
         "neutral_count": 1,
         "negative_count": 0,
-        "vote_count": 3,
-        "positive_perc": 67,
-        "neutral_perc": 33,
+        "vote_count": 4,
+        "positive_perc": 75,
+        "neutral_perc": 25,
         "negative_perc": 0,
-        "point": 2,
+        "point": 3,
         "rank": 0,
         "contact_id": "0860c5fc-92ff-4a78-ac3e-2766f6b85e84",
         "topic_type": "idea",
-        "first_vote_user_name": "うぃず",
-        "second_vote_user_name": "たかさん",
-        "first_vote_user_id": "4c6bdfec-70c8-4b6c-8149-ed20c092d5d5",
-        "second_vote_user_id": "25e0aa8f-3109-45bf-9713-bcc84fe165e6",
+        "first_vote_user_name": "k-m",
+        "second_vote_user_name": "うぃず",
+        "first_vote_user_id": "68e90ce8-d8cc-497a-a7fd-0902b0d40796",
+        "second_vote_user_id": "4c6bdfec-70c8-4b6c-8149-ed20c092d5d5",
         "stepper": "",
         "result": null,
         "original_json": null,
@@ -7113,27 +8433,27 @@
         "id": "b6ab2135-2a79-4076-9bc8-7553652ea36a",
         "name": "マイナンバーカードの普及を100%にすることが、第一歩なのでは?",
         "date_entered": "2022-04-20T03:38:34+00:00",
-        "date_modified": "2022-04-20T13:15:18+00:00",
+        "date_modified": "2022-04-22T02:08:24+00:00",
         "webtopic_number": "00036",
         "contents": "「誰ひとり取り残されないデジタル社会」という条件を考えた時、一番に思い浮かんだのが「マイナンバーカード」でした。まずは、マイナンバーカードの普及を100％にする。そのために全力を尽くしてはいかがでしょうか。そうすればまず「誰ひとり取り残されない」というところがクリアされますので、そこからマイナンバーカードを使ったデジタル事業、社会のさまざまな手続きなどが「誰ひとり取り残されることなく」（マイナンバーカードのないひと、という取りこぼしなく）進めていけます。そうすれば、マイナンバーカードを活用したい事業、公的手続きが「マイナンバーカードある人」「ない人」の二重手間にならず、スムーズに行くことでしょう。\n逆に言えば、マイナンバーカードの保持率が100％でない現在、「誰ひとり取り残されないデジタル社会」を、一体どういう土台に作っていきたいのかが疑問です。ワクチン接種と同様に、出張サービスなどを各地に設けて、どんどん広め、ある程度のところで期限を区切って義務化すべきと思います。\nただ、先日マイナンバーカードがあるばかりに、転入手続きで、大変不便な経験をしました。そういったことは起こらないよう、システムの使いやすさ、様々な要件定義、セキュリティ強化は念には念を入れることが必須かと思います。「システムの使いやすさ」は、義務としてマイナンバーカードを保持する国民にとっての「使いやすさ」にするべきです。「システム構築者」「システム管理者」「システム利用者」ではなく、マイナンバー保持者を優先に、です。",
         "action_contents": null,
         "category_deprecated": "undefined",
         "comment_count": 2,
-        "positive_count": 2,
+        "positive_count": 3,
         "neutral_count": 1,
         "negative_count": 0,
-        "vote_count": 3,
-        "positive_perc": 67,
-        "neutral_perc": 33,
+        "vote_count": 4,
+        "positive_perc": 75,
+        "neutral_perc": 25,
         "negative_perc": 0,
-        "point": 2,
+        "point": 3,
         "rank": 0,
         "contact_id": "0860c5fc-92ff-4a78-ac3e-2766f6b85e84",
         "topic_type": "idea",
-        "first_vote_user_name": "うぃず",
-        "second_vote_user_name": "たかさん",
-        "first_vote_user_id": "4c6bdfec-70c8-4b6c-8149-ed20c092d5d5",
-        "second_vote_user_id": "25e0aa8f-3109-45bf-9713-bcc84fe165e6",
+        "first_vote_user_name": "k-m",
+        "second_vote_user_name": "うぃず",
+        "first_vote_user_id": "68e90ce8-d8cc-497a-a7fd-0902b0d40796",
+        "second_vote_user_id": "4c6bdfec-70c8-4b6c-8149-ed20c092d5d5",
         "stepper": "",
         "result": null,
         "original_json": null,
@@ -7157,7 +8477,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -7410,7 +8730,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -7530,7 +8850,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -7698,7 +9018,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -7866,7 +9186,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -7986,7 +9306,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -8239,7 +9559,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -8359,7 +9679,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -8479,7 +9799,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -8599,7 +9919,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -8719,18 +10039,18 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
         "id": "5c200b49-367e-45b0-a3f7-3217e6d9bf6c",
         "date_entered": "2022-04-20T07:03:56+00:00",
-        "date_modified": "2022-04-21T20:43:50+00:00",
-        "organization": null,
-        "department": null,
-        "position": null,
+        "date_modified": "2022-04-22T08:10:18+00:00",
+        "organization": "",
+        "department": "",
+        "position": "",
         "primary_address_state": null,
-        "user_icon_src": null,
+        "user_icon_src": "",
         "portal_name": "a_a",
         "sex": "U",
         "age_category": "undefined",
@@ -8739,7 +10059,7 @@
         "website": null,
         "profile": null,
         "mail_cancelled": 1,
-        "role": null
+        "role": ""
       }
     },
     {
@@ -8839,7 +10159,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -9092,7 +10412,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -9260,7 +10580,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -9299,27 +10619,27 @@
         "id": "b6ab2135-2a79-4076-9bc8-7553652ea36a",
         "name": "マイナンバーカードの普及を100%にすることが、第一歩なのでは?",
         "date_entered": "2022-04-20T03:38:34+00:00",
-        "date_modified": "2022-04-20T13:15:18+00:00",
+        "date_modified": "2022-04-22T02:08:24+00:00",
         "webtopic_number": "00036",
         "contents": "「誰ひとり取り残されないデジタル社会」という条件を考えた時、一番に思い浮かんだのが「マイナンバーカード」でした。まずは、マイナンバーカードの普及を100％にする。そのために全力を尽くしてはいかがでしょうか。そうすればまず「誰ひとり取り残されない」というところがクリアされますので、そこからマイナンバーカードを使ったデジタル事業、社会のさまざまな手続きなどが「誰ひとり取り残されることなく」（マイナンバーカードのないひと、という取りこぼしなく）進めていけます。そうすれば、マイナンバーカードを活用したい事業、公的手続きが「マイナンバーカードある人」「ない人」の二重手間にならず、スムーズに行くことでしょう。\n逆に言えば、マイナンバーカードの保持率が100％でない現在、「誰ひとり取り残されないデジタル社会」を、一体どういう土台に作っていきたいのかが疑問です。ワクチン接種と同様に、出張サービスなどを各地に設けて、どんどん広め、ある程度のところで期限を区切って義務化すべきと思います。\nただ、先日マイナンバーカードがあるばかりに、転入手続きで、大変不便な経験をしました。そういったことは起こらないよう、システムの使いやすさ、様々な要件定義、セキュリティ強化は念には念を入れることが必須かと思います。「システムの使いやすさ」は、義務としてマイナンバーカードを保持する国民にとっての「使いやすさ」にするべきです。「システム構築者」「システム管理者」「システム利用者」ではなく、マイナンバー保持者を優先に、です。",
         "action_contents": null,
         "category_deprecated": "undefined",
         "comment_count": 2,
-        "positive_count": 2,
+        "positive_count": 3,
         "neutral_count": 1,
         "negative_count": 0,
-        "vote_count": 3,
-        "positive_perc": 67,
-        "neutral_perc": 33,
+        "vote_count": 4,
+        "positive_perc": 75,
+        "neutral_perc": 25,
         "negative_perc": 0,
-        "point": 2,
+        "point": 3,
         "rank": 0,
         "contact_id": "0860c5fc-92ff-4a78-ac3e-2766f6b85e84",
         "topic_type": "idea",
-        "first_vote_user_name": "うぃず",
-        "second_vote_user_name": "たかさん",
-        "first_vote_user_id": "4c6bdfec-70c8-4b6c-8149-ed20c092d5d5",
-        "second_vote_user_id": "25e0aa8f-3109-45bf-9713-bcc84fe165e6",
+        "first_vote_user_name": "k-m",
+        "second_vote_user_name": "うぃず",
+        "first_vote_user_id": "68e90ce8-d8cc-497a-a7fd-0902b0d40796",
+        "second_vote_user_id": "4c6bdfec-70c8-4b6c-8149-ed20c092d5d5",
         "stepper": "",
         "result": null,
         "original_json": null,
@@ -9336,27 +10656,27 @@
         "id": "b6ab2135-2a79-4076-9bc8-7553652ea36a",
         "name": "マイナンバーカードの普及を100%にすることが、第一歩なのでは?",
         "date_entered": "2022-04-20T03:38:34+00:00",
-        "date_modified": "2022-04-20T13:15:18+00:00",
+        "date_modified": "2022-04-22T02:08:24+00:00",
         "webtopic_number": "00036",
         "contents": "「誰ひとり取り残されないデジタル社会」という条件を考えた時、一番に思い浮かんだのが「マイナンバーカード」でした。まずは、マイナンバーカードの普及を100％にする。そのために全力を尽くしてはいかがでしょうか。そうすればまず「誰ひとり取り残されない」というところがクリアされますので、そこからマイナンバーカードを使ったデジタル事業、社会のさまざまな手続きなどが「誰ひとり取り残されることなく」（マイナンバーカードのないひと、という取りこぼしなく）進めていけます。そうすれば、マイナンバーカードを活用したい事業、公的手続きが「マイナンバーカードある人」「ない人」の二重手間にならず、スムーズに行くことでしょう。\n逆に言えば、マイナンバーカードの保持率が100％でない現在、「誰ひとり取り残されないデジタル社会」を、一体どういう土台に作っていきたいのかが疑問です。ワクチン接種と同様に、出張サービスなどを各地に設けて、どんどん広め、ある程度のところで期限を区切って義務化すべきと思います。\nただ、先日マイナンバーカードがあるばかりに、転入手続きで、大変不便な経験をしました。そういったことは起こらないよう、システムの使いやすさ、様々な要件定義、セキュリティ強化は念には念を入れることが必須かと思います。「システムの使いやすさ」は、義務としてマイナンバーカードを保持する国民にとっての「使いやすさ」にするべきです。「システム構築者」「システム管理者」「システム利用者」ではなく、マイナンバー保持者を優先に、です。",
         "action_contents": null,
         "category_deprecated": "undefined",
         "comment_count": 2,
-        "positive_count": 2,
+        "positive_count": 3,
         "neutral_count": 1,
         "negative_count": 0,
-        "vote_count": 3,
-        "positive_perc": 67,
-        "neutral_perc": 33,
+        "vote_count": 4,
+        "positive_perc": 75,
+        "neutral_perc": 25,
         "negative_perc": 0,
-        "point": 2,
+        "point": 3,
         "rank": 0,
         "contact_id": "0860c5fc-92ff-4a78-ac3e-2766f6b85e84",
         "topic_type": "idea",
-        "first_vote_user_name": "うぃず",
-        "second_vote_user_name": "たかさん",
-        "first_vote_user_id": "4c6bdfec-70c8-4b6c-8149-ed20c092d5d5",
-        "second_vote_user_id": "25e0aa8f-3109-45bf-9713-bcc84fe165e6",
+        "first_vote_user_name": "k-m",
+        "second_vote_user_name": "うぃず",
+        "first_vote_user_id": "68e90ce8-d8cc-497a-a7fd-0902b0d40796",
+        "second_vote_user_id": "4c6bdfec-70c8-4b6c-8149-ed20c092d5d5",
         "stepper": "",
         "result": null,
         "original_json": null,
@@ -9380,7 +10700,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -9500,7 +10820,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -9620,7 +10940,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -9740,7 +11060,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -9860,7 +11180,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -9980,7 +11300,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -10497,7 +11817,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -10617,7 +11937,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -10737,7 +12057,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -11122,7 +12442,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -11242,7 +12562,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -11362,7 +12682,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -11482,7 +12802,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -11602,7 +12922,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -11722,7 +13042,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -11842,7 +13162,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -11962,7 +13282,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -12082,7 +13402,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -12250,7 +13570,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -12418,7 +13738,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -12586,7 +13906,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -12839,7 +14159,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -13007,7 +14327,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -13127,7 +14447,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -13247,7 +14567,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -13367,7 +14687,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -13487,7 +14807,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -13655,7 +14975,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -13823,7 +15143,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -13991,7 +15311,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -14159,7 +15479,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -14279,7 +15599,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -14399,7 +15719,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -14519,7 +15839,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -15036,7 +16356,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -15156,7 +16476,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -15276,7 +16596,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -15529,7 +16849,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -15649,7 +16969,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -15902,7 +17222,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -16022,7 +17342,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -16142,7 +17462,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -16659,7 +17979,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -16779,7 +18099,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -16899,7 +18219,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -17019,7 +18339,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -17139,7 +18459,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -17524,7 +18844,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -17644,7 +18964,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -17812,7 +19132,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -17932,7 +19252,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -18317,7 +19637,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -18437,7 +19757,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -18557,7 +19877,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -18677,7 +19997,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -18797,7 +20117,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -18965,7 +20285,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -19085,7 +20405,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -19205,7 +20525,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -19373,7 +20693,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -19493,7 +20813,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -19746,7 +21066,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -19866,7 +21186,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -20383,7 +21703,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -20503,7 +21823,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -20623,7 +21943,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -20743,7 +22063,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -20863,7 +22183,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -20983,7 +22303,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -21103,7 +22423,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -21223,7 +22543,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -21391,7 +22711,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -21511,7 +22831,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -21631,7 +22951,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -21751,7 +23071,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -22004,7 +23324,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -22257,7 +23577,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -22377,7 +23697,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 19
+          "idea_count": 21
         }
       },
       "user": {
@@ -22497,7 +23817,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 17
+          "idea_count": 20
         }
       },
       "user": {
@@ -22750,7 +24070,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {
@@ -22870,7 +24190,7 @@
           "invisible": 0,
           "open_until": null,
           "i18n": null,
-          "idea_count": 34
+          "idea_count": 42
         }
       },
       "user": {

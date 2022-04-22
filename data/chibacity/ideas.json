@@ -554,12 +554,12 @@
       "user": {
         "id": "a7b50df6-8db3-43b9-b6f6-2c65659bb09b",
         "date_entered": "2022-02-22T14:08:05+00:00",
-        "date_modified": "2022-02-22T14:40:45+00:00",
-        "organization": null,
-        "department": null,
-        "position": null,
+        "date_modified": "2022-04-22T22:56:13+00:00",
+        "organization": "",
+        "department": "",
+        "position": "",
         "primary_address_state": "12",
-        "user_icon_src": null,
+        "user_icon_src": "",
         "portal_name": "orion",
         "sex": "M",
         "age_category": "40s",
@@ -568,7 +568,7 @@
         "website": null,
         "profile": "皆さんの意見からいろいろ学びを深めていければと思います。宜しくお願いします。",
         "mail_cancelled": 0,
-        "role": null
+        "role": ""
       },
       "my_favorite": null,
       "top_comment": {
