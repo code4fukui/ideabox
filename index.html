@@ -87,6 +87,18 @@ onload = async () => {
   console.log(data);
   const value = [data.data.user_count, data.data.idea_count, data.data.comment_count];
   let cnt = 1;
+  const calcMax = () => {
+    let min = 100;
+    let max = 100;
+    for (const v of value) {
+      max = max > v ? max : v;
+      min = min < v ? min : v;
+    }
+    //return Math.pow(10, Math.floor(Math.log10(max) + 1));
+    return Math.pow(10, Math.floor(Math.log10(min) + 1));
+  };
+  const max = calcMax();
+  console.log(max)
   for (let i = 1; i <= 3; i++) {
     const conf = liquidFillGauge.default();
     const h = i * 30;
@@ -95,11 +107,10 @@ onload = async () => {
     conf.waveTextColor = `hsl(${h} 50% 90%)`;
     conf.waveColor = `hsl(${h} 50% 50%)`;
     conf.displayPercent = false;
-    conf.maxValue = 100;
+    conf.maxValue = max
     conf.waveCount = 2;
     conf.circleThickness = 0.1;
     conf.waveAnimateTime = 2400;
-
     liquidFillGauge.load("gauge" + cnt++, value[i - 1], conf);
   }
   setTimeout(() => location.reload(), 10 * 60 * 1000); // 10分でリロード
